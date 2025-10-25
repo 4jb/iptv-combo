@@ -1,0 +1,9 @@
+# IPTV Playlist URLs
+https://tvpass.org/playlist/m3u
+https://github.com/iptv-org/iptv/raw/refs/heads/master/streams/us_moveonjoy.m3u
+https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/plex_us.m3u
+https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/plutotv_us.m3u
+https://github.com/BuddyChewChew/app-m3u-generator/raw/refs/heads/main/playlists/samsungtvplus_us.m3u
+
+# You can comment lines with #
+# Blank lines are ignored

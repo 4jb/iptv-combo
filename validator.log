@@ -1,0 +1,538 @@
+[2025-10-24 22:10:34] No channels available to write to the playlist.
+[2025-10-24 22:16:26] No channels available to write to the playlist.
+[2025-10-24 22:17:39] No channels available to write to the playlist.
+[2025-10-24 22:18:55] No channels available to write to the playlist.
+[2025-10-24 22:19:02] No channels available to write to the playlist.
+[2025-10-24 22:27:32] 'A&E US Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:32] 'ABC (KABC) Los Angeles' does not have a valid stream; skipping.
+[2025-10-24 22:27:33] 'ABC (WABC) New York, NY' does not have a valid stream; skipping.
+[2025-10-24 22:27:34] 'ACC Network' does not have a valid stream; skipping.
+[2025-10-24 22:27:34] 'Altitude Sports Denver' does not have a valid stream; skipping.
+[2025-10-24 22:27:35] Stream validation failed, unable to read: https://tvpass.org/live/AMCEast/sd
+[2025-10-24 22:27:35] 'AMC Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:36] 'American Heroes Channel' does not have a valid stream; skipping.
+[2025-10-24 22:27:36] 'Animal Planet US East' does not have a valid stream; skipping.
+[2025-10-24 22:27:37] Stream validation failed, unable to read: https://tvpass.org/live/BBCAmericaEast/sd
+[2025-10-24 22:27:37] 'BBC America East' does not have a valid stream; skipping.
+[2025-10-24 22:27:38] 'BBC News North America HD' does not have a valid stream; skipping.
+[2025-10-24 22:27:38] 'BET Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:39] Stream validation failed, unable to read: https://tvpass.org/live/BETHerEast/sd
+[2025-10-24 22:27:39] 'BET Her' does not have a valid stream; skipping.
+[2025-10-24 22:27:40] 'Big Ten Network' does not have a valid stream; skipping.
+[2025-10-24 22:27:40] 'Bloomberg TV USA' does not have a valid stream; skipping.
+[2025-10-24 22:27:41] Stream validation failed, unable to read: https://tvpass.org/live/Boomerang/sd
+[2025-10-24 22:27:41] 'Boomerang' does not have a valid stream; skipping.
+[2025-10-24 22:27:42] 'Bravo USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:42] 'C-SPAN' does not have a valid stream; skipping.
+[2025-10-24 22:27:43] 'C-SPAN 2' does not have a valid stream; skipping.
+[2025-10-24 22:27:44] 'Cartoon Network USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:44] Stream validation failed, unable to read: https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+[2025-10-24 22:27:44] 'CBS (KCBS) Los Angeles' does not have a valid stream; skipping.
+[2025-10-24 22:27:45] 'CBS (WCBS) New York, NY' does not have a valid stream; skipping.
+[2025-10-24 22:27:46] 'CBS Sports Network USA' does not have a valid stream; skipping.
+[2025-10-24 22:27:46] Stream validation failed, unable to read: https://tvpass.org/live/chicago-sports-network/sd
+[2025-10-24 22:27:46] 'Chicago Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:27:47] 'Cinemax Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:47] 'CMT US Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:48] 'CNBC USA' does not have a valid stream; skipping.
+[2025-10-24 22:27:49] 'CNN US' does not have a valid stream; skipping.
+[2025-10-24 22:27:49] Stream validation failed, unable to read: https://tvpass.org/live/ComedyCentralEast/sd
+[2025-10-24 22:27:49] 'Comedy Central (US) Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:50] 'Crime & Investigation Network USA HD' does not have a valid stream; skipping.
+[2025-10-24 22:27:51] 'CW (KFMB-TV2) San Diego' does not have a valid stream; skipping.
+[2025-10-24 22:27:51] Stream validation failed, unable to read: https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+[2025-10-24 22:27:51] 'CW (WDCW) District of Columbia' does not have a valid stream; skipping.
+[2025-10-24 22:27:52] 'Destination America' does not have a valid stream; skipping.
+[2025-10-24 22:27:53] 'Discovery Channel (US) Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:53] 'Discovery Family Channel' does not have a valid stream; skipping.
+[2025-10-24 22:27:54] Stream validation failed, unable to read: https://tvpass.org/live/DiscoveryLife/sd
+[2025-10-24 22:27:54] 'Discovery Life Channel' does not have a valid stream; skipping.
+[2025-10-24 22:27:55] 'Disney Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:55] 'Disney Junior USA East' does not have a valid stream; skipping.
+[2025-10-24 22:27:56] Stream validation failed, unable to read: https://tvpass.org/live/DisneyXDEast/sd
+[2025-10-24 22:27:56] 'Disney XD USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:57] 'E! Entertainment USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:27:57] 'ESPN' does not have a valid stream; skipping.
+[2025-10-24 22:27:58] 'ESPN Deportes' does not have a valid stream; skipping.
+[2025-10-24 22:27:59] 'ESPN News' does not have a valid stream; skipping.
+[2025-10-24 22:27:59] Stream validation failed, unable to read: https://tvpass.org/live/ESPNU/sd
+[2025-10-24 22:27:59] 'ESPN U' does not have a valid stream; skipping.
+[2025-10-24 22:28:00] 'ESPN2' does not have a valid stream; skipping.
+[2025-10-24 22:28:01] 'Fanduel Sports Indiana' does not have a valid stream; skipping.
+[2025-10-24 22:28:01] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+[2025-10-24 22:28:01] 'Fanduel Sports Network Detroit' does not have a valid stream; skipping.
+[2025-10-24 22:28:02] 'Fanduel Sports Network Florida' does not have a valid stream; skipping.
+[2025-10-24 22:28:02] 'Fanduel Sports Network Great Lakes' does not have a valid stream; skipping.
+[2025-10-24 22:28:03] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-network-north/sd
+[2025-10-24 22:28:03] 'Fanduel Sports Network North' does not have a valid stream; skipping.
+[2025-10-24 22:28:04] 'Fanduel Sports Network Ohio Cleveland' does not have a valid stream; skipping.
+[2025-10-24 22:28:09] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+[2025-10-24 22:28:09] 'Fanduel Sports Network Oklahoma' does not have a valid stream; skipping.
+[2025-10-24 22:28:15] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+[2025-10-24 22:28:15] 'Fanduel Sports Network San Diego' does not have a valid stream; skipping.
+[2025-10-24 22:28:15] 'Fanduel Sports Network Socal' does not have a valid stream; skipping.
+[2025-10-24 22:28:21] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+[2025-10-24 22:28:21] 'Fanduel Sports Network South Carolinas' does not have a valid stream; skipping.
+[2025-10-24 22:28:21] 'Fanduel Sports Network South Tennessee' does not have a valid stream; skipping.
+[2025-10-24 22:28:22] 'Fanduel Sports Network West' does not have a valid stream; skipping.
+[2025-10-24 22:28:23] 'Fanduel Sports Network Wisconsin' does not have a valid stream; skipping.
+[2025-10-24 22:28:23] 'Fanduel Sports Southeast Georgia' does not have a valid stream; skipping.
+[2025-10-24 22:28:24] 'Fanduel Sports Southeast North Carolina' does not have a valid stream; skipping.
+[2025-10-24 22:28:25] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+[2025-10-24 22:28:25] 'Fanduel Sports Southeast South Carolina' does not have a valid stream; skipping.
+[2025-10-24 22:28:25] 'Fanduel Sports Southeast Tennessee Nashville' does not have a valid stream; skipping.
+[2025-10-24 22:28:26] 'Fanduel Sports Sun' does not have a valid stream; skipping.
+[2025-10-24 22:28:27] Stream validation failed, unable to read: https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+[2025-10-24 22:28:27] 'Fanduel Sports Tennessee East' does not have a valid stream; skipping.
+[2025-10-24 22:28:27] 'Food Network USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:28] 'FOX (KTTV) Los Angeles' does not have a valid stream; skipping.
+[2025-10-24 22:28:29] 'FOX (WNYW) New York, NY' does not have a valid stream; skipping.
+[2025-10-24 22:28:29] 'Fox Business' does not have a valid stream; skipping.
+[2025-10-24 22:28:30] Stream validation failed, unable to read: https://tvpass.org/live/FoxNewsChannel/sd
+[2025-10-24 22:28:30] 'Fox News' does not have a valid stream; skipping.
+[2025-10-24 22:28:31] 'Fox Sports 1' does not have a valid stream; skipping.
+[2025-10-24 22:28:31] 'Fox Sports 2' does not have a valid stream; skipping.
+[2025-10-24 22:28:32] Stream validation failed, unable to read: https://tvpass.org/live/FreeformEast/sd
+[2025-10-24 22:28:32] 'Freeform East Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:33] 'FUSE TV Eastern feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:33] 'FX Movie Channel' does not have a valid stream; skipping.
+[2025-10-24 22:28:34] 'FX Networks East Coast' does not have a valid stream; skipping.
+[2025-10-24 22:28:34] 'FXX USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:28:35] Stream validation failed, unable to read: https://tvpass.org/live/FYIEast/sd
+[2025-10-24 22:28:35] 'FYI USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:28:36] 'Game Show Network East' does not have a valid stream; skipping.
+[2025-10-24 22:28:36] 'Golf Channel USA' does not have a valid stream; skipping.
+[2025-10-24 22:28:37] Stream validation failed, unable to read: https://tvpass.org/live/HallmarkChannelEast/sd
+[2025-10-24 22:28:37] 'Hallmark Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:38] 'Hallmark Family HD' does not have a valid stream; skipping.
+[2025-10-24 22:28:38] 'Hallmark Mystery Eastern HD' does not have a valid stream; skipping.
+[2025-10-24 22:28:39] Stream validation failed, unable to read: https://tvpass.org/live/HBOEast/sd
+[2025-10-24 22:28:39] 'HBO Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:40] 'HBO 2 Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:40] 'HBO Comedy HD East' does not have a valid stream; skipping.
+[2025-10-24 22:28:41] Stream validation failed, unable to read: https://tvpass.org/live/HBOFamilyEast/sd
+[2025-10-24 22:28:41] 'HBO Family Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:41] 'HBO Signature (HBO 3) Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:28:42] Stream validation failed, unable to read: https://tvpass.org/live/HBOZoneEast/sd
+[2025-10-24 22:28:42] 'HBO Zone HD East' does not have a valid stream; skipping.
+[2025-10-24 22:28:43] 'HGTV USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:43] 'History Channel US Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:44] 'HLN' does not have a valid stream; skipping.
+[2025-10-24 22:28:45] Stream validation failed, unable to read: https://tvpass.org/live/IFCEast/sd
+[2025-10-24 22:28:45] 'Independent Film Channel US' does not have a valid stream; skipping.
+[2025-10-24 22:28:45] 'Investigation Discovery USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:28:46] 'ION Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:47] Stream validation failed, unable to read: https://tvpass.org/live/LifetimeMoviesEast/sd
+[2025-10-24 22:28:47] 'Lifetime Movies East' does not have a valid stream; skipping.
+[2025-10-24 22:28:47] 'Lifetime Network US Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:28:48] 'LOGO East' does not have a valid stream; skipping.
+[2025-10-24 22:28:49] 'Marquee Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:28:54] Stream validation failed, unable to read: https://tvpass.org/live/metv-toons/sd
+[2025-10-24 22:28:54] 'MeTV Toons (WJLP2) New Jersey' does not have a valid stream; skipping.
+[2025-10-24 22:28:55] 'MeTV Wjlp New Jerseynew York' does not have a valid stream; skipping.
+[2025-10-24 22:28:55] 'Midatlantic Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:28:56] 'MLB Network' does not have a valid stream; skipping.
+[2025-10-24 22:28:57] 'Monumental Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:28:57] Stream validation failed, unable to read: https://tvpass.org/live/MoreMaxEast/sd
+[2025-10-24 22:28:57] 'MoreMax Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:28:58] 'Motor Trend HD' does not have a valid stream; skipping.
+[2025-10-24 22:29:04] Stream validation failed, unable to read: https://tvpass.org/live/MovieMaxEast/sd
+[2025-10-24 22:29:04] 'MovieMax (Max 6) East' does not have a valid stream; skipping.
+[2025-10-24 22:29:04] 'MSG Madison Square Gardens' does not have a valid stream; skipping.
+[2025-10-24 22:29:05] Stream validation failed, unable to read: https://tvpass.org/live/msg-plus/sd
+[2025-10-24 22:29:05] 'MSG Plus' does not have a valid stream; skipping.
+[2025-10-24 22:29:05] 'MSNBC USA' does not have a valid stream; skipping.
+[2025-10-24 22:29:06] Stream validation failed, unable to read: https://tvpass.org/live/mtv-2-east/sd
+[2025-10-24 22:29:06] 'MTV 2 East' does not have a valid stream; skipping.
+[2025-10-24 22:29:07] 'MTV USA Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:07] 'National Geographic US Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:08] Stream validation failed, unable to read: https://tvpass.org/live/NationalGeographicWildEast/sd
+[2025-10-24 22:29:08] 'National Geographic Wild' does not have a valid stream; skipping.
+[2025-10-24 22:29:09] 'NBA TV USA' does not have a valid stream; skipping.
+[2025-10-24 22:29:09] 'NBC (KNBC) Los Angeles' does not have a valid stream; skipping.
+[2025-10-24 22:29:10] Stream validation failed, unable to read: https://tvpass.org/live/WNBCDT1/sd
+[2025-10-24 22:29:10] 'NBC (WNBC) New York, NY' does not have a valid stream; skipping.
+[2025-10-24 22:29:11] 'NBC Sports Bay Area' does not have a valid stream; skipping.
+[2025-10-24 22:29:11] 'NBC Sports Boston' does not have a valid stream; skipping.
+[2025-10-24 22:29:12] Stream validation failed, unable to read: https://tvpass.org/live/nbc-sports-california/sd
+[2025-10-24 22:29:12] 'NBC Sports California' does not have a valid stream; skipping.
+[2025-10-24 22:29:13] 'NBC Sports Philadelphia' does not have a valid stream; skipping.
+[2025-10-24 22:29:13] 'New England Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:29:14] 'NewsMax TV' does not have a valid stream; skipping.
+[2025-10-24 22:29:15] 'NFL Network' does not have a valid stream; skipping.
+[2025-10-24 22:29:15] Stream validation failed, unable to read: https://tvpass.org/live/NFLRedZone/sd
+[2025-10-24 22:29:15] 'NFL RedZone' does not have a valid stream; skipping.
+[2025-10-24 22:29:16] 'NHL Network USA' does not have a valid stream; skipping.
+[2025-10-24 22:29:17] 'Nick Jr. East' does not have a valid stream; skipping.
+[2025-10-24 22:29:17] Stream validation failed, unable to read: https://tvpass.org/live/NickelodeonEast/sd
+[2025-10-24 22:29:17] 'Nickelodeon USA East Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:18] 'Nicktoons East' does not have a valid stream; skipping.
+[2025-10-24 22:29:19] 'Oprah Winfrey Network USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:19] Stream validation failed, unable to read: https://tvpass.org/live/OutdoorChannel/sd
+[2025-10-24 22:29:19] 'Outdoor Channel US' does not have a valid stream; skipping.
+[2025-10-24 22:29:20] 'Oxygen Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:21] 'PBS (WNET) New York, NY' does not have a valid stream; skipping.
+[2025-10-24 22:29:21] Stream validation failed, unable to read: https://tvpass.org/live/Reelz/sd
+[2025-10-24 22:29:21] 'ReelzChannel' does not have a valid stream; skipping.
+[2025-10-24 22:29:22] 'Science' does not have a valid stream; skipping.
+[2025-10-24 22:29:23] 'SEC Network' does not have a valid stream; skipping.
+[2025-10-24 22:29:23] 'Showtime Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:24] 'Showtime 2 Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:25] 'SNY Sportsnet New York Comcast' does not have a valid stream; skipping.
+[2025-10-24 22:29:25] Stream validation failed, unable to read: https://tvpass.org/live/space-city-home-network/sd
+[2025-10-24 22:29:25] 'Space City Home Network' does not have a valid stream; skipping.
+[2025-10-24 22:29:26] 'Spectrum SportsNet LA' does not have a valid stream; skipping.
+[2025-10-24 22:29:27] 'Spectrum Sportsnet Lakers' does not have a valid stream; skipping.
+[2025-10-24 22:29:27] Stream validation failed, unable to read: https://tvpass.org/live/sportsnet-east/sd
+[2025-10-24 22:29:27] 'Sportsnet (East)' does not have a valid stream; skipping.
+[2025-10-24 22:29:28] 'Sportsnet 360' does not have a valid stream; skipping.
+[2025-10-24 22:29:29] 'Sportsnet One' does not have a valid stream; skipping.
+[2025-10-24 22:29:29] Stream validation failed, unable to read: https://tvpass.org/live/sportsnet-ontario/sd
+[2025-10-24 22:29:29] 'Sportsnet Ontario' does not have a valid stream; skipping.
+[2025-10-24 22:29:30] 'Sportsnet Pacific' does not have a valid stream; skipping.
+[2025-10-24 22:29:31] 'Sportsnet Pittsburgh' does not have a valid stream; skipping.
+[2025-10-24 22:29:31] 'Sportsnet West' does not have a valid stream; skipping.
+[2025-10-24 22:29:32] 'Starz Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:33] 'SundanceTV USA East' does not have a valid stream; skipping.
+[2025-10-24 22:29:33] 'Syfy Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:34] 'TBS East' does not have a valid stream; skipping.
+[2025-10-24 22:29:34] 'TeenNick Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:35] 'Telemundo Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:36] 'The Cooking Channel' does not have a valid stream; skipping.
+[2025-10-24 22:29:36] 'The Tennis Channel' does not have a valid stream; skipping.
+[2025-10-24 22:29:37] 'The Weather Channel' does not have a valid stream; skipping.
+[2025-10-24 22:29:38] Stream validation failed, unable to read: https://tvpass.org/live/TLCEast/sd
+[2025-10-24 22:29:38] 'TLC USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:38] 'TMC (US) Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:39] 'TNT Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:40] Stream validation failed, unable to read: https://tvpass.org/live/TravelChannelEast/sd
+[2025-10-24 22:29:40] 'Travel US East' does not have a valid stream; skipping.
+[2025-10-24 22:29:40] 'truTV USA Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:41] 'TSN1' does not have a valid stream; skipping.
+[2025-10-24 22:29:42] 'TSN2' does not have a valid stream; skipping.
+[2025-10-24 22:29:42] 'TSN3' does not have a valid stream; skipping.
+[2025-10-24 22:29:43] Stream validation failed, unable to read: https://tvpass.org/live/tsn4/sd
+[2025-10-24 22:29:43] 'TSN4' does not have a valid stream; skipping.
+[2025-10-24 22:29:44] 'TSN5' does not have a valid stream; skipping.
+[2025-10-24 22:29:44] 'Turner Classic Movies USA' does not have a valid stream; skipping.
+[2025-10-24 22:29:45] 'TV Land Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:46] Stream validation failed, unable to read: https://tvpass.org/live/TVOne/sd
+[2025-10-24 22:29:46] 'TV One' does not have a valid stream; skipping.
+[2025-10-24 22:29:46] 'Universal Kids' does not have a valid stream; skipping.
+[2025-10-24 22:29:47] 'Univision Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:48] 'USA Network East Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:48] Stream validation failed, unable to read: https://tvpass.org/live/VH1East/sd
+[2025-10-24 22:29:48] 'VH1 Eastern Feed' does not have a valid stream; skipping.
+[2025-10-24 22:29:49] 'VICE' does not have a valid stream; skipping.
+[2025-10-24 22:29:50] 'WE (Women's Entertainment) Eastern' does not have a valid stream; skipping.
+[2025-10-24 22:29:50] Stream validation failed, unable to read: https://tvpass.org/live/WPIX/sd
+[2025-10-24 22:29:50] 'WPIX New York (SUPERSTATION)' does not have a valid stream; skipping.
+[2025-10-24 22:29:51] 'Yes Network' does not have a valid stream; skipping.
+[2025-10-24 22:29:52] 'Columbia vs. Dartmouth (10/24 6:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:52] Stream validation failed, unable to read: https://tvpass.org/live/NBA16/sd
+[2025-10-24 22:29:52] 'Milwaukee Bucks @ Toronto Raptors (10/24 6:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:53] 'Atlanta Hawks @ Orlando Magic (10/24 7:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:54] 'North Texas Mean Green @ Charlotte 49ers (10/24 7:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:54] Stream validation failed, unable to read: https://tvpass.org/live/NHL14/sd
+[2025-10-24 22:29:54] 'San Jose Sharks @ New Jersey Devils (10/24 7:10 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:55] 'Washington Capitals @ Columbus Blue Jackets (10/24 7:10 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:56] Stream validation failed, unable to read: https://tvpass.org/live/NHL19/sd
+[2025-10-24 22:29:56] 'Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:56] Stream validation failed, unable to read: https://tvpass.org/live/NBA14/sd
+[2025-10-24 22:29:56] 'Boston Celtics @ New York Knicks (10/24 7:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:57] 'California Golden Bears @ Virginia Tech Hokies (10/24 7:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:58] 'Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:58] Stream validation failed, unable to read: https://tvpass.org/live/WNYWDT1/sd
+[2025-10-24 22:29:58] 'Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:29:59] 'Detroit Pistons @ Houston Rockets (10/24 8:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:00] 'San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:00] Stream validation failed, unable to read: https://tvpass.org/live/NBA10/sd
+[2025-10-24 22:30:00] 'Miami Heat @ Memphis Grizzlies (10/24 8:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:01] 'Calgary Flames @ Winnipeg Jets (10/24 8:10 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:01] 'Washington Wizards @ Dallas Mavericks (10/24 8:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:07] Stream validation failed, unable to read: https://tvpass.org/live/NBA05/sd
+[2025-10-24 22:30:07] 'Utah Jazz @ Sacramento Kings (10/24 10:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:12] Stream validation failed, unable to read: https://tvpass.org/live/NBA21/sd
+[2025-10-24 22:30:12] 'Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:13] 'Golden State Warriors @ Portland Trail Blazers (10/24 10:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:14] 'Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:14] 'Phoenix Suns @ Los Angeles Clippers (10/24 10:30 PM ET)' does not have a valid stream; skipping.
+[2025-10-24 22:30:15] 'ABC 25 Columbia' does not have a valid stream; skipping.
+[2025-10-24 22:30:15] 'ACCN (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:15] 'AMC East (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:15] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+[2025-10-24 22:30:15] 'Antenna TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Aspire/index.m3u8
+[2025-10-24 22:30:16] 'Aspire' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+[2025-10-24 22:30:16] 'AXS TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+[2025-10-24 22:30:16] 'BBC America East' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+[2025-10-24 22:30:16] 'BBC News North America' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] 'beIN Sports USA' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] 'BET East' does not have a valid stream; skipping.
+[2025-10-24 22:30:16] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+[2025-10-24 22:30:16] 'BET Gospel' does not have a valid stream; skipping.
+[2025-10-24 22:30:17] 'BET Her East' does not have a valid stream; skipping.
+[2025-10-24 22:30:22] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+[2025-10-24 22:30:22] 'BET Jams' does not have a valid stream; skipping.
+[2025-10-24 22:30:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+[2025-10-24 22:30:27] 'BET Soul' does not have a valid stream; skipping.
+[2025-10-24 22:30:27] 'Big Ten Network' does not have a valid stream; skipping.
+[2025-10-24 22:30:27] 'Bloomberg TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+[2025-10-24 22:30:27] 'Bounce' does not have a valid stream; skipping.
+[2025-10-24 22:30:28] 'Bravo East' does not have a valid stream; skipping.
+[2025-10-24 22:30:28] 'Buzzr' does not have a valid stream; skipping.
+[2025-10-24 22:30:28] 'C-SPAN' does not have a valid stream; skipping.
+[2025-10-24 22:30:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CBS_News/index.m3u8
+[2025-10-24 22:30:33] 'CBS East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:33] 'CBS Sports Network USA' does not have a valid stream; skipping.
+[2025-10-24 22:30:38] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+[2025-10-24 22:30:38] 'CHBL-TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] 'Cleo TV (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CMT/index.m3u8
+[2025-10-24 22:30:39] 'CMT East' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CNBC/index.m3u8
+[2025-10-24 22:30:39] 'CNBC' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+[2025-10-24 22:30:39] 'CNBC World' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+[2025-10-24 22:30:39] 'Comedy Central East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] 'Comedy TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/COMET/index.m3u8
+[2025-10-24 22:30:39] 'Comet' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+[2025-10-24 22:30:40] 'Court TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+[2025-10-24 22:30:40] 'Cozi TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] 'Crave 1' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+[2025-10-24 22:30:40] 'Crave 2' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] 'Crave 3' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+[2025-10-24 22:30:40] 'Crave 4' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] 'Crime + Investigation' does not have a valid stream; skipping.
+[2025-10-24 22:30:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+[2025-10-24 22:30:40] 'CuriosityStream (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:45] Stream validation failed, unable to read: https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+[2025-10-24 22:30:45] 'CVM TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:46] 'Disney Channel East' does not have a valid stream; skipping.
+[2025-10-24 22:30:46] Stream validation failed, unable to read: https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+[2025-10-24 22:30:46] 'Disney Junior East' does not have a valid stream; skipping.
+[2025-10-24 22:30:51] Stream validation failed, unable to read: http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+[2025-10-24 22:30:51] 'Disney XD (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:51] 'E! East' does not have a valid stream; skipping.
+[2025-10-24 22:30:51] Stream validation failed, unable to read: https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+[2025-10-24 22:30:51] 'ESPN U (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:51] Stream validation failed, unable to read: https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+[2025-10-24 22:30:51] 'ESPNews (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:52] 'FanDuel Sports Network' does not have a valid stream; skipping.
+[2025-10-24 22:30:52] Stream validation failed, unable to read: https://fl1.moveonjoy.com/TVG/index.m3u8
+[2025-10-24 22:30:52] 'FanDuel TV' does not have a valid stream; skipping.
+[2025-10-24 22:30:52] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+[2025-10-24 22:30:52] 'Fox Business Network (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:52] 'Fox News Channel (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:57] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+[2025-10-24 22:30:57] 'Fox Soul' does not have a valid stream; skipping.
+[2025-10-24 22:30:57] 'Fox Sports 1' does not have a valid stream; skipping.
+[2025-10-24 22:30:57] 'Free form East' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FUSE/index.m3u8
+[2025-10-24 22:30:58] 'Fuse East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FX/index.m3u8
+[2025-10-24 22:30:58] 'FX East' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+[2025-10-24 22:30:58] 'FXM East' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FXX/index.m3u8
+[2025-10-24 22:30:58] 'FXX East' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FYI/index.m3u8
+[2025-10-24 22:30:58] 'FYI East' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/GET_TV/index.m3u8
+[2025-10-24 22:30:58] 'GetTV (480p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/GOLF/index.m3u8
+[2025-10-24 22:30:58] 'Golf Channel' does not have a valid stream; skipping.
+[2025-10-24 22:30:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+[2025-10-24 22:30:58] 'Great American Country' does not have a valid stream; skipping.
+[2025-10-24 22:30:59] 'Grit' does not have a valid stream; skipping.
+[2025-10-24 22:30:59] 'Hallmark Channel East' does not have a valid stream; skipping.
+[2025-10-24 22:30:59] 'Hallmark Drama (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:30:59] 'Hallmark Movies Mysteries East' does not have a valid stream; skipping.
+[2025-10-24 22:31:00] 'History' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] Stream validation failed, unable to read: https://fl1.moveonjoy.com/HSN/index.m3u8
+[2025-10-24 22:31:05] 'HSN' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] Stream validation failed, unable to read: https://fl1.moveonjoy.com/INSP/index.m3u8
+[2025-10-24 22:31:05] 'INSP' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] Stream validation failed, unable to read: https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+[2025-10-24 22:31:05] 'ION Plus East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] 'ION TV East' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] Stream validation failed, unable to read: https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+[2025-10-24 22:31:05] 'Lifetime East' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] 'Lifetime Movies East' does not have a valid stream; skipping.
+[2025-10-24 22:31:05] Stream validation failed, unable to read: https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+[2025-10-24 22:31:05] 'Love Nature' does not have a valid stream; skipping.
+[2025-10-24 22:31:11] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+[2025-10-24 22:31:11] 'MAV TV (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:11] 'MeTV' does not have a valid stream; skipping.
+[2025-10-24 22:31:11] 'MGM+ East' does not have a valid stream; skipping.
+[2025-10-24 22:31:11] Stream validation failed, unable to read: https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+[2025-10-24 22:31:11] 'MGM+ Marquee' does not have a valid stream; skipping.
+[2025-10-24 22:31:11] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Military_History/index.m3u8
+[2025-10-24 22:31:11] 'Military History' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] 'MLB Network' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MSG/index.m3u8
+[2025-10-24 22:31:12] 'MSG' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MTV_2/index.m3u8
+[2025-10-24 22:31:12] 'MTV2 (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+[2025-10-24 22:31:12] 'MTV Classic (360p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] 'MTV East' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+[2025-10-24 22:31:12] 'MTV Live (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:12] Stream validation failed, unable to read: https://fl1.moveonjoy.com/MTV_U/index.m3u8
+[2025-10-24 22:31:12] 'mtvU (480p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:13] 'Much (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:13] 'National Geographic East' does not have a valid stream; skipping.
+[2025-10-24 22:31:13] 'National Geographic Wild East' does not have a valid stream; skipping.
+[2025-10-24 22:31:13] 'NBA TV' does not have a valid stream; skipping.
+[2025-10-24 22:31:13] Stream validation failed, unable to read: https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+[2025-10-24 22:31:13] 'News Nation (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:14] 'NFL Network' does not have a valid stream; skipping.
+[2025-10-24 22:31:19] Stream validation failed, unable to read: https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+[2025-10-24 22:31:19] 'NFL RedZone' does not have a valid stream; skipping.
+[2025-10-24 22:31:19] 'NHL Network (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:19] 'Nick Jr. East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:19] Stream validation failed, unable to read: https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+[2025-10-24 22:31:19] 'Nick Music (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:19] Stream validation failed, unable to read: https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+[2025-10-24 22:31:19] 'Nickelodeon East' does not have a valid stream; skipping.
+[2025-10-24 22:31:20] Stream validation failed, unable to read: https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+[2025-10-24 22:31:20] 'Nicktoons East' does not have a valid stream; skipping.
+[2025-10-24 22:31:20] 'Outdoor Channel' does not have a valid stream; skipping.
+[2025-10-24 22:31:20] Stream validation failed, unable to read: https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
+[2025-10-24 22:31:20] 'OuterMax East (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:20] 'Outside TV' does not have a valid stream; skipping.
+[2025-10-24 22:31:20] 'Ovation (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:21] 'Oxygen East' does not have a valid stream; skipping.
+[2025-10-24 22:31:21] 'Paramount Network East' does not have a valid stream; skipping.
+[2025-10-24 22:31:21] 'Pop TV' does not have a valid stream; skipping.
+[2025-10-24 22:31:21] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+[2025-10-24 22:31:21] 'Pursuit Channel (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:22] 'QVC (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:22] 'Reelz (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:22] 'Revolt' does not have a valid stream; skipping.
+[2025-10-24 22:31:22] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+[2025-10-24 22:31:22] 'Showtime 2 East' does not have a valid stream; skipping.
+[2025-10-24 22:31:22] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+[2025-10-24 22:31:22] 'Showtime East' does not have a valid stream; skipping.
+[2025-10-24 22:31:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+[2025-10-24 22:31:27] 'Showtime Next East' does not have a valid stream; skipping.
+[2025-10-24 22:31:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+[2025-10-24 22:31:27] 'Showtime West (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+[2025-10-24 22:31:27] 'Showtime Women East' does not have a valid stream; skipping.
+[2025-10-24 22:31:27] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+[2025-10-24 22:31:27] 'Smithsonian Channel East' does not have a valid stream; skipping.
+[2025-10-24 22:31:28] 'Sony Channel' does not have a valid stream; skipping.
+[2025-10-24 22:31:28] 'Sportsman Channel' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SNY/index.m3u8
+[2025-10-24 22:31:33] 'SportsNet New York (540p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+[2025-10-24 22:31:33] 'Start TV' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/STARZ/index.m3u8
+[2025-10-24 22:31:33] 'Starz East' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+[2025-10-24 22:31:33] 'Starz Encore Classic East' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+[2025-10-24 22:31:33] 'Starz West' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] 'Stories by AMC (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:33] Stream validation failed, unable to read: https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+[2025-10-24 22:31:33] 'Sundance TV East' does not have a valid stream; skipping.
+[2025-10-24 22:31:34] 'Syfy East' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+[2025-10-24 22:31:39] 'TeenNick' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] 'Tennis Channel' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+[2025-10-24 22:31:39] 'The Cowboy Channel' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] 'TSN1 (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/TSN_2/index.m3u8
+[2025-10-24 22:31:39] 'TSN2' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] Stream validation failed, unable to read: https://fl1.moveonjoy.com/TSN_3/index.m3u8
+[2025-10-24 22:31:39] 'TSN3' does not have a valid stream; skipping.
+[2025-10-24 22:31:39] 'TSN4' does not have a valid stream; skipping.
+[2025-10-24 22:31:40] 'TSN5' does not have a valid stream; skipping.
+[2025-10-24 22:31:40] 'TV Land' does not have a valid stream; skipping.
+[2025-10-24 22:31:40] 'TV One' does not have a valid stream; skipping.
+[2025-10-24 22:31:40] Stream validation failed, unable to read: https://fl1.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
+[2025-10-24 22:31:40] 'TVJ (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:41] 'Up TV (1080p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:41] 'USA Network (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:41] Stream validation failed, unable to read: https://fl1.moveonjoy.com/VH1/index.m3u8
+[2025-10-24 22:31:41] 'VH1 East' does not have a valid stream; skipping.
+[2025-10-24 22:31:46] Stream validation failed, unable to read: https://fl1.moveonjoy.com/VICELAND/index.m3u8
+[2025-10-24 22:31:46] 'VICE TV (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:46] 'W Network (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:46] 'WCBS-DT1 (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:46] Stream validation failed, unable to read: https://fl1.moveonjoy.com/WE_TV/index.m3u8
+[2025-10-24 22:31:46] 'We TV East' does not have a valid stream; skipping.
+[2025-10-24 22:31:47] 'WFLA-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:47] 'WFLX-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:47] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+[2025-10-24 22:31:47] 'WFTS-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] Stream validation failed, unable to read: https://fl1.moveonjoy.com/WGN/index.m3u8
+[2025-10-24 22:31:52] 'WGN-DT1 (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] 'Willow' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] 'WKCF-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] 'WNBC-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] 'WOFL-DT1 (720p)' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] Stream validation failed, unable to read: https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+[2025-10-24 22:31:52] 'World Fishing Network' does not have a valid stream; skipping.
+[2025-10-24 22:31:52] 'WPEC-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:31:58] Stream validation failed, unable to read: https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+[2025-10-24 22:31:58] 'WTOG-DT1' does not have a valid stream; skipping.
+[2025-10-24 22:32:03] Stream validation failed, unable to read: https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+[2025-10-24 22:32:03] 'WVGN-LD1' does not have a valid stream; skipping.
+[2025-10-24 22:32:03] 'Yes Network' does not have a valid stream; skipping.
+[2025-10-24 22:36:04] Stream validation failed, unable to read: https://jmp2.uk/plex-68fa84637ac952737656ae5f-621674f168c966be92737ce6.m3u8
+[2025-10-24 22:36:04] 'El Conflicto TV' does not have a valid stream; skipping.
+[2025-10-24 22:37:21] Stream validation failed, unable to read: https://jmp2.uk/plex-68fa84637ac952737656ae5f-621674502c2627c068e73ada.m3u8
+[2025-10-24 22:37:21] 'FrightFlix' does not have a valid stream; skipping.
+[2025-10-24 22:43:08] Stream validation failed, unable to read: https://jmp2.uk/plex-68fa84637ac952737656ae5f-616df1be2cf008a748c8cb53.m3u8
+[2025-10-24 22:43:08] 'SLOPES' does not have a valid stream; skipping.
+[2025-10-24 22:43:16] Stream validation failed, unable to read: https://jmp2.uk/plex-68fa84637ac952737656ae5f-62ba4aaff663580a7238f327.m3u8
+[2025-10-24 22:43:16] 'Sonic TV' does not have a valid stream; skipping.
+[2025-10-24 22:46:02] Stream validation failed, unable to read: https://jmp2.uk/plex-68fa84637ac952737656ae5f-621671d05abdd3d5556a1baf.m3u8
+[2025-10-24 22:46:02] 'Watch it SCREAM' does not have a valid stream; skipping.
+[2025-10-24 22:49:36] Stream validation failed, unable to read: https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
+[2025-10-24 22:49:36] 'CNN HEADLINES' does not have a valid stream; skipping.
+[2025-10-24 22:50:22] Stream validation failed, unable to read: https://jmp2.uk/plu-649b6898f2ec0000081a9460.m3u8
+[2025-10-24 22:50:22] 'DAZN Ringside' does not have a valid stream; skipping.
+[2025-10-24 22:56:08] Stream validation failed, unable to read: https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
+[2025-10-24 22:56:08] 'Stories by AMC' does not have a valid stream; skipping.
+[2025-10-24 22:59:15] 'BABY SHARK TV' does not have a valid stream; skipping.
+[2025-10-24 23:01:57] 'Genie K-Drama' does not have a valid stream; skipping.
+[2025-10-24 23:01:58] 'Genie K-Movie' does not have a valid stream; skipping.
+[2025-10-24 23:02:21] 'Hollywire' does not have a valid stream; skipping.
+[2025-10-24 23:02:50] 'K-Drama+' does not have a valid stream; skipping.
+[2025-10-24 23:04:12] 'NEW KMOVIES' does not have a valid stream; skipping.
+[2025-10-24 23:04:13] 'NEW KPOP' does not have a valid stream; skipping.
+[2025-10-24 23:04:19] 'Ninja Kidz' does not have a valid stream; skipping.
+[2025-10-24 23:05:47] 'Stingray Classic Rock' does not have a valid stream; skipping.
+[2025-10-24 23:05:49] 'Stingray Country Greats' does not have a valid stream; skipping.
+[2025-10-24 23:05:52] 'Stingray Easy Listening' does not have a valid stream; skipping.
+[2025-10-24 23:05:53] 'Stingray Euro Hits' does not have a valid stream; skipping.
+[2025-10-24 23:05:54] 'Stingray Flashback 70s' does not have a valid stream; skipping.
+[2025-10-24 23:05:56] 'Stingray Greatest Hits' does not have a valid stream; skipping.
+[2025-10-24 23:05:57] 'Stingray Hip Hop' does not have a valid stream; skipping.
+[2025-10-24 23:05:59] 'Stingray Hot Country' does not have a valid stream; skipping.
+[2025-10-24 23:06:00] 'Stingray Jukebox Oldies' does not have a valid stream; skipping.
+[2025-10-24 23:06:03] 'Stingray Nothin' But 90s' does not have a valid stream; skipping.
+[2025-10-24 23:06:04] 'Stingray Remember the 80s' does not have a valid stream; skipping.
+[2025-10-24 23:06:06] 'Stingray Romance Latino' does not have a valid stream; skipping.
+[2025-10-24 23:06:07] 'Stingray Smooth Jazz' does not have a valid stream; skipping.
+[2025-10-24 23:06:08] 'Stingray Soft Hits' does not have a valid stream; skipping.
+[2025-10-24 23:06:09] 'Stingray Spa' does not have a valid stream; skipping.
+[2025-10-24 23:06:11] 'Stingray Today's K-Pop' does not have a valid stream; skipping.
+[2025-10-24 23:06:11] 'Stingray Today's Latin Pop' does not have a valid stream; skipping.
+[2025-10-24 23:07:49] 'WN Chicago' does not have a valid stream; skipping.
+[2025-10-24 23:08:17] Playlist written successfully to /var/tmp/m3u/playlist.m3u
