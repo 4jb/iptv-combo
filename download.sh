@@ -95,7 +95,7 @@ echo "✅ Merged playlists into output file located at: $OUTPUT_PLAYLIST"
 # === GIT OPERATIONS ===
 echo "🚀 Updating GitHub repo..."
 git pull --rebase "$GITHUB_REMOTE" "$GITHUB_BRANCH"
-git add "$OUTPUT_PLAYLIST"
+git add -A
 git commit -m "Auto-update combined IPTV playlist: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
 git push "$GITHUB_REMOTE" "$GITHUB_BRANCH"
 
