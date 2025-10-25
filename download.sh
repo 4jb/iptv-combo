@@ -70,7 +70,7 @@ echo "🔄 Starting to combine M3U files from $PLAYLISTS_DIR..."
 # Check if the output file already exists and remove it to start fresh
 if [ -f "$OUTPUT_PLAYLIST" ]; then
     echo "➤ Removing existing file: $OUTPUT_PLAYLIST"
-    mv -f "$OUTPUT_PLAYLIST" "$OUTPUT_PLAYLST.bak"
+    mv -f "$OUTPUT_PLAYLIST" "$OUTPUT_PLAYLIST.bak"
 fi
 
 # Add the standard M3U header to the new combined file
