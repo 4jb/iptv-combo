@@ -15,26 +15,29 @@
 WORKDIR="/usr/iptv-combo"       # Local clone of your GitHub repo
 DOWNLOAD_FOLDER="$WORKDIR/downloads"          # Final merged playlist name
 URL_LIST_FILE="$WORKDIR/playlists"  # Text file with one URL per line
+OUTPUT_PLAYLIST="$WORKDIR/free4jb.m3u"
+GITHUB_REMOTE="origin"
+GITHUB_BRANCH="main"
 
 # === SCRIPT START ===
 set -e
 cd "$WORKDIR" || { echo "▒^}^l Repo path not found: $WORKDIR"; exit 1; }
 
 if [[ ! -f "$URL_LIST_FILE" ]]; then
-  echo "▒^}^l URL list file not found: $URL_LIST_FILE"
+  echo "❌  URL list file not found: $URL_LIST_FILE"
   exit 1
 fi
 
 if [[ ! -d "$DOWNLOAD_FOLDER" ]]; then
-  echo "▒^}^l Downloads Folder not found: $DOWNLOAD_FOLDER"
+  echo "❌ Downloads Folder not found: $DOWNLOAD_FOLDER"
   exit 1
 fi
 
-echo "▒^=^t^d Fetching playlists from $URL_LIST_FILE..."
+echo "➤ Fetching playlists from $URL_LIST_FILE..."
 grep -Ev "^#|^$" $URL_LIST_FILE | wget -i - -P $DOWNLOAD_FOLDER -c -nv
-echo "▒^|^e Downloaded playlists into $DOWNLOAD_FOLDER folder."
+echo "✅ Downloaded playlists into $DOWNLOAD_FOLDER folder."
 
-echo "Renaming Playlists..."
+echo "🔄 Renaming Playlists..."
 mv $DOWNLOAD_FOLDER/m3u $DOWNLOAD_FOLDER/TVPass.m3u
 mv $DOWNLOAD_FOLDER/samsungtvplus_us.m3u $DOWNLOAD_FOLDER/Samsung.m3u
 mv $DOWNLOAD_FOLDER/plutotv_us.m3u $DOWNLOAD_FOLDER/PlutoTV.m3u
@@ -50,10 +53,10 @@ for FILE in $DOWNLOAD_FOLDER/*.m3u; do
 
   # Extract the filename without the extension
   # The `%.*` removes the shortest match from the end of the string
-  echo "Processing file: $FILE"
+  echo " ➤ Processing file: $FILE"
   $WORKDIR/cleanup.sh "$FILE"
 
-  echo "Setting FILENAME variable to: $SOURCE"
+  echo "🧹 Setting FILENAME variable to: $SOURCE"
   #SOURCE="${FILE%.*}"
   SOURCE=$(basename "$FILE" .m3u)
 
@@ -62,15 +65,11 @@ for FILE in $DOWNLOAD_FOLDER/*.m3u; do
 done
 
 # === COMBINE ALL PLAYLISTS
-
-OUTPUT_PLAYLIST=$WORKDIR/free4jb.m3u
-
-# --- Script starts here ---
-echo "Starting to combine M3U files from $PLAYLISTS_DIR..."
+echo "🔄 Starting to combine M3U files from $PLAYLISTS_DIR..."
 
 # Check if the output file already exists and remove it to start fresh
 if [ -f "$OUTPUT_PLAYLIST" ]; then
-    echo "Removing existing file: $OUTPUT_PLAYLIST"
+    echo "➤ Removing existing file: $OUTPUT_PLAYLIST"
     mv -f "$OUTPUT_PLAYLIST" "$OUTPUT_PLAYLST.bak"
 fi
 
@@ -84,14 +83,21 @@ for file in "$DOWNLOAD_FOLDER"/*.m3u; do
         continue
     fi
 
-    echo "Processing file: $file"
+    echo "➤ Processing file: $file"
 
     # Use 'grep' to find all lines that are not the #EXTM3U header.
     # The output is then appended to the combined playlist file.
     grep -v '^#EXTM3U' "$file" >> "$OUTPUT_PLAYLIST"
 done
 
-echo "Combination complete. The master playlist is located at: $OUTPUT_PLAYLIST"
+echo "✅ Merged playlists into output file located at: $OUTPUT_PLAYLIST"
+
+# === GIT OPERATIONS ===
+echo "🚀 Updating GitHub repo..."
+git pull --rebase "$GITHUB_REMOTE" "$GITHUB_BRANCH"
+git add "$OUTPUT_PLAYLIST"
+git commit -m "Auto-update combined IPTV playlist: $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+git push "$GITHUB_REMOTE" "$GITHUB_BRANCH"
 
 # === FINISHED
-echo "Done."
+echo "🎉 Update complete at $(date)"
