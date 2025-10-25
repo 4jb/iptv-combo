@@ -1,397 +1,397 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="Live",A&E US Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed - TVPass" group-title="Live",A&E US Eastern Feed - TVPass
 https://tvpass.org/live/AEEast/sd
-#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="Live",ABC (KABC) Los Angeles - TVPass
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles - TVPass" group-title="Live",ABC (KABC) Los Angeles - TVPass
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="Live",ABC (WABC) New York, NY - TVPass
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY - TVPass" group-title="Live",ABC (WABC) New York, NY - TVPass
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" group-title="Live",ACC Network - TVPass
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network - TVPass" group-title="Live",ACC Network - TVPass
 https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" group-title="Live",Altitude Sports Denver - TVPass
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver - TVPass" group-title="Live",Altitude Sports Denver - TVPass
 https://tvpass.org/live/altitude-sports-denver/sd
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="Live",AMC Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed - TVPass" group-title="Live",AMC Eastern Feed - TVPass
 https://tvpass.org/live/AMCEast/sd
-#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="Live",American Heroes Channel - TVPass
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel - TVPass" group-title="Live",American Heroes Channel - TVPass
 https://tvpass.org/live/AmericanHeroesChannel/sd
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Live",Animal Planet US East - TVPass
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East - TVPass" group-title="Live",Animal Planet US East - TVPass
 https://tvpass.org/live/AnimalPlanetEast/sd
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Live",BBC America East - TVPass
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East - TVPass" group-title="Live",BBC America East - TVPass
 https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="Live",BBC News North America HD - TVPass
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD - TVPass" group-title="Live",BBC News North America HD - TVPass
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="Live",BET Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed - TVPass" group-title="Live",BET Eastern Feed - TVPass
 https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="Live",BET Her - TVPass
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her - TVPass" group-title="Live",BET Her - TVPass
 https://tvpass.org/live/BETHerEast/sd
-#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="Live",Big Ten Network - TVPass
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network - TVPass" group-title="Live",Big Ten Network - TVPass
 https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="Live",Bloomberg TV USA - TVPass
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA - TVPass" group-title="Live",Bloomberg TV USA - TVPass
 https://tvpass.org/live/BloombergTV/sd
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="Live",Boomerang - TVPass
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang - TVPass" group-title="Live",Boomerang - TVPass
 https://tvpass.org/live/Boomerang/sd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="Live",Bravo USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed - TVPass" group-title="Live",Bravo USA Eastern Feed - TVPass
 https://tvpass.org/live/BravoEast/sd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="Live",C-SPAN - TVPass
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN - TVPass" group-title="Live",C-SPAN - TVPass
 https://tvpass.org/live/CSPAN/sd
-#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="Live",C-SPAN 2 - TVPass
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 - TVPass" group-title="Live",C-SPAN 2 - TVPass
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="Live",Cartoon Network USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed - TVPass" group-title="Live",Cartoon Network USA Eastern Feed - TVPass
 https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="Live",CBS (KCBS) Los Angeles - TVPass
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles - TVPass" group-title="Live",CBS (KCBS) Los Angeles - TVPass
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="Live",CBS (WCBS) New York, NY - TVPass
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY - TVPass" group-title="Live",CBS (WCBS) New York, NY - TVPass
 https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="Live",CBS Sports Network USA - TVPass
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA - TVPass" group-title="Live",CBS Sports Network USA - TVPass
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="Live",Chicago Sports Network - TVPass
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network - TVPass" group-title="Live",Chicago Sports Network - TVPass
 https://tvpass.org/live/chicago-sports-network/sd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="Live",Cinemax Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed - TVPass" group-title="Live",Cinemax Eastern Feed - TVPass
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="Live",CMT US Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed - TVPass" group-title="Live",CMT US Eastern Feed - TVPass
 https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="Live",CNBC USA - TVPass
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA - TVPass" group-title="Live",CNBC USA - TVPass
 https://tvpass.org/live/CNBC/sd
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="Live",CNN US - TVPass
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US - TVPass" group-title="Live",CNN US - TVPass
 https://tvpass.org/live/CNN/sd
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="Live",Comedy Central (US) Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed - TVPass" group-title="Live",Comedy Central (US) Eastern Feed - TVPass
 https://tvpass.org/live/ComedyCentralEast/sd
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="Live",Crime & Investigation Network USA HD - TVPass
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD - TVPass" group-title="Live",Crime & Investigation Network USA HD - TVPass
 https://tvpass.org/live/CrimePlusInvestigation/sd
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="Live",CW (KFMB-TV2) San Diego - TVPass
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego - TVPass" group-title="Live",CW (KFMB-TV2) San Diego - TVPass
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia" group-title="Live",CW (WDCW) District of Columbia - TVPass
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia - TVPass" group-title="Live",CW (WDCW) District of Columbia - TVPass
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="Live",Destination America - TVPass
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America - TVPass" group-title="Live",Destination America - TVPass
 https://tvpass.org/live/DestinationAmerica/sd
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Live",Discovery Channel (US) Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed - TVPass" group-title="Live",Discovery Channel (US) Eastern Feed - TVPass
 https://tvpass.org/live/DiscoveryChannelEast/sd
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Live",Discovery Family Channel - TVPass
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel - TVPass" group-title="Live",Discovery Family Channel - TVPass
 https://tvpass.org/live/DiscoveryFamily/sd
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Live",Discovery Life Channel - TVPass
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel - TVPass" group-title="Live",Discovery Life Channel - TVPass
 https://tvpass.org/live/DiscoveryLife/sd
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="Live",Disney Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed - TVPass" group-title="Live",Disney Eastern Feed - TVPass
 https://tvpass.org/live/DisneyChannelEast/sd
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="Live",Disney Junior USA East - TVPass
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East - TVPass" group-title="Live",Disney Junior USA East - TVPass
 https://tvpass.org/live/DisneyJuniorEast/sd
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="Live",Disney XD USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed - TVPass" group-title="Live",Disney XD USA Eastern Feed - TVPass
 https://tvpass.org/live/DisneyXDEast/sd
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="Live",E! Entertainment USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed - TVPass" group-title="Live",E! Entertainment USA Eastern Feed - TVPass
 https://tvpass.org/live/EEast/sd
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Live",ESPN - TVPass
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN - TVPass" group-title="Live",ESPN - TVPass
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="Live",ESPN Deportes - TVPass
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes - TVPass" group-title="Live",ESPN Deportes - TVPass
 https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Live",ESPN News - TVPass
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News - TVPass" group-title="Live",ESPN News - TVPass
 https://tvpass.org/live/ESPNews/sd
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Live",ESPN U - TVPass
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U - TVPass" group-title="Live",ESPN U - TVPass
 https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Live",ESPN2 - TVPass
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 - TVPass" group-title="Live",ESPN2 - TVPass
 https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana" group-title="Live",Fanduel Sports Indiana - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-indiana" tvg-name="Fanduel Sports Indiana - TVPass" group-title="Live",Fanduel Sports Indiana - TVPass
 https://tvpass.org/live/fanduel-sports-indiana/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit" group-title="Live",Fanduel Sports Network Detroit - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd" tvg-name="Fanduel Sports Network Detroit - TVPass" group-title="Live",Fanduel Sports Network Detroit - TVPass
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="Live",Fanduel Sports Network Florida - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida - TVPass" group-title="Live",Fanduel Sports Network Florida - TVPass
 https://tvpass.org/live/fanduel-sports-network-florida/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="Live",Fanduel Sports Network Great Lakes - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes - TVPass" group-title="Live",Fanduel Sports Network Great Lakes - TVPass
 https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="Live",Fanduel Sports Network North - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North - TVPass" group-title="Live",Fanduel Sports Network North - TVPass
 https://tvpass.org/live/fanduel-sports-network-north/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="Live",Fanduel Sports Network Ohio Cleveland - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland - TVPass" group-title="Live",Fanduel Sports Network Ohio Cleveland - TVPass
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="Live",Fanduel Sports Network Oklahoma - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma - TVPass" group-title="Live",Fanduel Sports Network Oklahoma - TVPass
 https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="Live",Fanduel Sports Network San Diego - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego - TVPass" group-title="Live",Fanduel Sports Network San Diego - TVPass
 https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="Live",Fanduel Sports Network Socal - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal - TVPass" group-title="Live",Fanduel Sports Network Socal - TVPass
 https://tvpass.org/live/fanduel-sports-network-socal/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="Live",Fanduel Sports Network South Carolinas - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas - TVPass" group-title="Live",Fanduel Sports Network South Carolinas - TVPass
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="Live",Fanduel Sports Network South Tennessee - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee - TVPass" group-title="Live",Fanduel Sports Network South Tennessee - TVPass
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="Live",Fanduel Sports Network West - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West - TVPass" group-title="Live",Fanduel Sports Network West - TVPass
 https://tvpass.org/live/fanduel-sports-network-west/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="Live",Fanduel Sports Network Wisconsin - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin - TVPass" group-title="Live",Fanduel Sports Network Wisconsin - TVPass
 https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="Live",Fanduel Sports Southeast Georgia - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia - TVPass" group-title="Live",Fanduel Sports Southeast Georgia - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="Live",Fanduel Sports Southeast North Carolina - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina - TVPass" group-title="Live",Fanduel Sports Southeast North Carolina - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="Live",Fanduel Sports Southeast South Carolina - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina - TVPass" group-title="Live",Fanduel Sports Southeast South Carolina - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="Live",Fanduel Sports Southeast Tennessee Nashville - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville - TVPass" group-title="Live",Fanduel Sports Southeast Tennessee Nashville - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun" group-title="Live",Fanduel Sports Sun - TVPass
+#EXTINF:-1 tvg-id="bally-sports-sun" tvg-name="Fanduel Sports Sun - TVPass" group-title="Live",Fanduel Sports Sun - TVPass
 https://tvpass.org/live/fanduel-sports-sun/sd
-#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East" group-title="Live",Fanduel Sports Tennessee East - TVPass
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East - TVPass" group-title="Live",Fanduel Sports Tennessee East - TVPass
 https://tvpass.org/live/fanduel-sports-tennessee-east/sd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="Live",Food Network USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed - TVPass" group-title="Live",Food Network USA Eastern Feed - TVPass
 https://tvpass.org/live/FoodNetworkEast/sd
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="Live",FOX (KTTV) Los Angeles - TVPass
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles - TVPass" group-title="Live",FOX (KTTV) Los Angeles - TVPass
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="Live",FOX (WNYW) New York, NY - TVPass
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY - TVPass" group-title="Live",FOX (WNYW) New York, NY - TVPass
 https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="Live",Fox Business - TVPass
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business - TVPass" group-title="Live",Fox Business - TVPass
 https://tvpass.org/live/FoxBusiness/sd
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="Live",Fox News - TVPass
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News - TVPass" group-title="Live",Fox News - TVPass
 https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" group-title="Live",Fox Sports 1 - TVPass
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 - TVPass" group-title="Live",Fox Sports 1 - TVPass
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" group-title="Live",Fox Sports 2 - TVPass
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 - TVPass" group-title="Live",Fox Sports 2 - TVPass
 https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="Live",Freeform East Feed - TVPass
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed - TVPass" group-title="Live",Freeform East Feed - TVPass
 https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="Live",FUSE TV Eastern feed - TVPass
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed - TVPass" group-title="Live",FUSE TV Eastern feed - TVPass
 https://tvpass.org/live/FuseEast/sd
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="Live",FX Movie Channel - TVPass
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel - TVPass" group-title="Live",FX Movie Channel - TVPass
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="Live",FX Networks East Coast - TVPass
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast - TVPass" group-title="Live",FX Networks East Coast - TVPass
 https://tvpass.org/live/FXEast/sd
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="Live",FXX USA Eastern - TVPass
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern - TVPass" group-title="Live",FXX USA Eastern - TVPass
 https://tvpass.org/live/FXXEast/sd
-#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="Live",FYI USA Eastern - TVPass
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern - TVPass" group-title="Live",FYI USA Eastern - TVPass
 https://tvpass.org/live/FYIEast/sd
-#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="Live",Game Show Network East - TVPass
+#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East - TVPass" group-title="Live",Game Show Network East - TVPass
 https://tvpass.org/live/game-show-network-east/sd
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA" group-title="Live",Golf Channel USA - TVPass
+#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA - TVPass" group-title="Live",Golf Channel USA - TVPass
 https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="Live",Hallmark Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed - TVPass" group-title="Live",Hallmark Eastern Feed - TVPass
 https://tvpass.org/live/HallmarkChannelEast/sd
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="Live",Hallmark Family HD - TVPass
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD - TVPass" group-title="Live",Hallmark Family HD - TVPass
 https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="Live",Hallmark Mystery Eastern HD - TVPass
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD - TVPass" group-title="Live",Hallmark Mystery Eastern HD - TVPass
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="Live",HBO Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed - TVPass" group-title="Live",HBO Eastern Feed - TVPass
 https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="Live",HBO 2 Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed - TVPass" group-title="Live",HBO 2 Eastern Feed - TVPass
 https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="Live",HBO Comedy HD East - TVPass
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East - TVPass" group-title="Live",HBO Comedy HD East - TVPass
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="Live",HBO Family Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed - TVPass" group-title="Live",HBO Family Eastern Feed - TVPass
 https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="Live",HBO Signature (HBO 3) Eastern - TVPass
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern - TVPass" group-title="Live",HBO Signature (HBO 3) Eastern - TVPass
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="Live",HBO Zone HD East - TVPass
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East - TVPass" group-title="Live",HBO Zone HD East - TVPass
 https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Live",HGTV USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed - TVPass" group-title="Live",HGTV USA Eastern Feed - TVPass
 https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Live",History Channel US Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed - TVPass" group-title="Live",History Channel US Eastern Feed - TVPass
 https://tvpass.org/live/HistoryEast/sd
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Live",HLN - TVPass
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN - TVPass" group-title="Live",HLN - TVPass
 https://tvpass.org/live/HLN/sd
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="Live",Independent Film Channel US - TVPass
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US - TVPass" group-title="Live",Independent Film Channel US - TVPass
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Live",Investigation Discovery USA Eastern - TVPass
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern - TVPass" group-title="Live",Investigation Discovery USA Eastern - TVPass
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="Live",ION Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed - TVPass" group-title="Live",ION Eastern Feed - TVPass
 https://tvpass.org/live/IONTVEast/sd
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Live",Lifetime Movies East - TVPass
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East - TVPass" group-title="Live",Lifetime Movies East - TVPass
 https://tvpass.org/live/LifetimeMoviesEast/sd
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="Live",Lifetime Network US Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed - TVPass" group-title="Live",Lifetime Network US Eastern Feed - TVPass
 https://tvpass.org/live/LifetimeEast/sd
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="Live",LOGO East - TVPass
+#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East - TVPass" group-title="Live",LOGO East - TVPass
 https://tvpass.org/live/LogoEast/sd
-#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network" group-title="Live",Marquee Sports Network - TVPass
+#EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network - TVPass" group-title="Live",Marquee Sports Network - TVPass
 https://tvpass.org/live/marquee-sports-network/sd
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="Live",MeTV Toons (WJLP2) New Jersey - TVPass
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey - TVPass" group-title="Live",MeTV Toons (WJLP2) New Jersey - TVPass
 https://tvpass.org/live/metv-toons/sd
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="Live",MeTV Wjlp New Jerseynew York - TVPass
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York - TVPass" group-title="Live",MeTV Wjlp New Jerseynew York - TVPass
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network" group-title="Live",Midatlantic Sports Network - TVPass
+#EXTINF:-1 tvg-id="midatlantic-sports-network" tvg-name="Midatlantic Sports Network - TVPass" group-title="Live",Midatlantic Sports Network - TVPass
 https://tvpass.org/live/midatlantic-sports-network/sd
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" group-title="Live",MLB Network - TVPass
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network - TVPass" group-title="Live",MLB Network - TVPass
 https://tvpass.org/live/MLBNetwork/sd
-#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network" group-title="Live",Monumental Sports Network - TVPass
+#EXTINF:-1 tvg-id="monumental-sports-network" tvg-name="Monumental Sports Network - TVPass" group-title="Live",Monumental Sports Network - TVPass
 https://tvpass.org/live/monumental-sports-network/sd
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="Live",MoreMax Eastern - TVPass
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern - TVPass" group-title="Live",MoreMax Eastern - TVPass
 https://tvpass.org/live/MoreMaxEast/sd
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="Live",Motor Trend HD - TVPass
+#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD - TVPass" group-title="Live",Motor Trend HD - TVPass
 https://tvpass.org/live/Motortrend/sd
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="Live",MovieMax (Max 6) East - TVPass
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East - TVPass" group-title="Live",MovieMax (Max 6) East - TVPass
 https://tvpass.org/live/MovieMaxEast/sd
-#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="Live",MSG Madison Square Gardens - TVPass
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens - TVPass" group-title="Live",MSG Madison Square Gardens - TVPass
 https://tvpass.org/live/msg-madison-square-gardens/sd
-#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus" group-title="Live",MSG Plus - TVPass
+#EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus - TVPass" group-title="Live",MSG Plus - TVPass
 https://tvpass.org/live/msg-plus/sd
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" group-title="Live",MSNBC USA - TVPass
+#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA - TVPass" group-title="Live",MSNBC USA - TVPass
 https://tvpass.org/live/MSNBC/sd
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="Live",MTV 2 East - TVPass
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East - TVPass" group-title="Live",MTV 2 East - TVPass
 https://tvpass.org/live/mtv-2-east/sd
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="Live",MTV USA Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed - TVPass" group-title="Live",MTV USA Eastern Feed - TVPass
 https://tvpass.org/live/MTVEast/sd
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Live",National Geographic US Eastern - TVPass
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern - TVPass" group-title="Live",National Geographic US Eastern - TVPass
 https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Live",National Geographic Wild - TVPass
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild - TVPass" group-title="Live",National Geographic Wild - TVPass
 https://tvpass.org/live/NationalGeographicWildEast/sd
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Live",NBA TV USA - TVPass
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA - TVPass" group-title="Live",NBA TV USA - TVPass
 https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="Live",NBC (KNBC) Los Angeles - TVPass
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles - TVPass" group-title="Live",NBC (KNBC) Los Angeles - TVPass
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="Live",NBC (WNBC) New York, NY - TVPass
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY - TVPass" group-title="Live",NBC (WNBC) New York, NY - TVPass
 https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" group-title="Live",NBC Sports Bay Area - TVPass
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area - TVPass" group-title="Live",NBC Sports Bay Area - TVPass
 https://tvpass.org/live/nbc-sports-bay-area/sd
-#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" group-title="Live",NBC Sports Boston - TVPass
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston - TVPass" group-title="Live",NBC Sports Boston - TVPass
 https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California" group-title="Live",NBC Sports California - TVPass
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California - TVPass" group-title="Live",NBC Sports California - TVPass
 https://tvpass.org/live/nbc-sports-california/sd
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" group-title="Live",NBC Sports Philadelphia - TVPass
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia - TVPass" group-title="Live",NBC Sports Philadelphia - TVPass
 https://tvpass.org/live/nbc-sports-philadelphia/sd
-#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network" group-title="Live",New England Sports Network - TVPass
+#EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network - TVPass" group-title="Live",New England Sports Network - TVPass
 https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV" group-title="Live",NewsMax TV - TVPass
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV - TVPass" group-title="Live",NewsMax TV - TVPass
 https://tvpass.org/live/NewsmaxTV/sd
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Live",NFL Network - TVPass
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network - TVPass" group-title="Live",NFL Network - TVPass
 https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="Live",NFL RedZone - TVPass
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone - TVPass" group-title="Live",NFL RedZone - TVPass
 https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA" group-title="Live",NHL Network USA - TVPass
+#EXTINF:-1 tvg-id="nhl-network-usa" tvg-name="NHL Network USA - TVPass" group-title="Live",NHL Network USA - TVPass
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="Live",Nick Jr. East - TVPass
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East - TVPass" group-title="Live",Nick Jr. East - TVPass
 https://tvpass.org/live/NickJrEast/sd
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="Live",Nickelodeon USA East Feed - TVPass
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed - TVPass" group-title="Live",Nickelodeon USA East Feed - TVPass
 https://tvpass.org/live/NickelodeonEast/sd
-#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="Live",Nicktoons East - TVPass
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East - TVPass" group-title="Live",Nicktoons East - TVPass
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="Live",Oprah Winfrey Network USA Eastern - TVPass
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern - TVPass" group-title="Live",Oprah Winfrey Network USA Eastern - TVPass
 https://tvpass.org/live/OWNEast/sd
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="Live",Outdoor Channel US - TVPass
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US - TVPass" group-title="Live",Outdoor Channel US - TVPass
 https://tvpass.org/live/OutdoorChannel/sd
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="Live",Oxygen Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed - TVPass" group-title="Live",Oxygen Eastern Feed - TVPass
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY" group-title="Live",PBS (WNET) New York, NY - TVPass
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY - TVPass" group-title="Live",PBS (WNET) New York, NY - TVPass
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="Live",ReelzChannel - TVPass
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel - TVPass" group-title="Live",ReelzChannel - TVPass
 https://tvpass.org/live/Reelz/sd
-#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="Live",Science - TVPass
+#EXTINF:-1 tvg-id="science" tvg-name="Science - TVPass" group-title="Live",Science - TVPass
 https://tvpass.org/live/Science/sd
-#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" group-title="Live",SEC Network - TVPass
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network - TVPass" group-title="Live",SEC Network - TVPass
 https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="Live",Showtime Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed - TVPass" group-title="Live",Showtime Eastern Feed - TVPass
 https://tvpass.org/live/ShowtimeEast/sd
-#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="Live",Showtime 2 Eastern - TVPass
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern - TVPass" group-title="Live",Showtime 2 Eastern - TVPass
 https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast" group-title="Live",SNY Sportsnet New York Comcast - TVPass
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast - TVPass" group-title="Live",SNY Sportsnet New York Comcast - TVPass
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network" group-title="Live",Space City Home Network - TVPass
+#EXTINF:-1 tvg-id="space-city-home-network" tvg-name="Space City Home Network - TVPass" group-title="Live",Space City Home Network - TVPass
 https://tvpass.org/live/space-city-home-network/sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA" group-title="Live",Spectrum SportsNet LA - TVPass
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA - TVPass" group-title="Live",Spectrum SportsNet LA - TVPass
 https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers" group-title="Live",Spectrum Sportsnet Lakers - TVPass
+#EXTINF:-1 tvg-id="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers - TVPass" group-title="Live",Spectrum Sportsnet Lakers - TVPass
 https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East)" group-title="Live",Sportsnet (East) - TVPass
+#EXTINF:-1 tvg-id="sportsnet-east" tvg-name="Sportsnet (East) - TVPass" group-title="Live",Sportsnet (East) - TVPass
 https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" group-title="Live",Sportsnet 360 - TVPass
+#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360 - TVPass" group-title="Live",Sportsnet 360 - TVPass
 https://tvpass.org/live/sportsnet-360/sd
-#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" group-title="Live",Sportsnet One - TVPass
+#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One - TVPass" group-title="Live",Sportsnet One - TVPass
 https://tvpass.org/live/sportsnet-one/sd
-#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario" group-title="Live",Sportsnet Ontario - TVPass
+#EXTINF:-1 tvg-id="sportsnet-ontario" tvg-name="Sportsnet Ontario - TVPass" group-title="Live",Sportsnet Ontario - TVPass
 https://tvpass.org/live/sportsnet-ontario/sd
-#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific" group-title="Live",Sportsnet Pacific - TVPass
+#EXTINF:-1 tvg-id="sportsnet-pacific" tvg-name="Sportsnet Pacific - TVPass" group-title="Live",Sportsnet Pacific - TVPass
 https://tvpass.org/live/sportsnet-pacific/sd
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh" group-title="Live",Sportsnet Pittsburgh - TVPass
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh - TVPass" group-title="Live",Sportsnet Pittsburgh - TVPass
 https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" group-title="Live",Sportsnet West - TVPass
+#EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West - TVPass" group-title="Live",Sportsnet West - TVPass
 https://tvpass.org/live/sportsnet-west/sd
-#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="Live",Starz Eastern - TVPass
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern - TVPass" group-title="Live",Starz Eastern - TVPass
 https://tvpass.org/live/StarzEast/sd
-#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="Live",SundanceTV USA East - TVPass
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East - TVPass" group-title="Live",SundanceTV USA East - TVPass
 https://tvpass.org/live/SundanceTVEast/sd
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="Live",Syfy Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed - TVPass" group-title="Live",Syfy Eastern Feed - TVPass
 https://tvpass.org/live/SyfyEast/sd
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="Live",TBS East - TVPass
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East - TVPass" group-title="Live",TBS East - TVPass
 https://tvpass.org/live/TBSEast/sd
-#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="Live",TeenNick Eastern - TVPass
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern - TVPass" group-title="Live",TeenNick Eastern - TVPass
 https://tvpass.org/live/TeenNickEast/sd
-#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="Live",Telemundo Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed - TVPass" group-title="Live",Telemundo Eastern Feed - TVPass
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="Live",The Cooking Channel - TVPass
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel - TVPass" group-title="Live",The Cooking Channel - TVPass
 https://tvpass.org/live/CookingChannel/sd
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="Live",The Tennis Channel - TVPass
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel - TVPass" group-title="Live",The Tennis Channel - TVPass
 https://tvpass.org/live/TennisChannel/sd
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="Live",The Weather Channel - TVPass
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel - TVPass" group-title="Live",The Weather Channel - TVPass
 https://tvpass.org/live/TheWeatherChannel/sd
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="Live",TLC USA Eastern - TVPass
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern - TVPass" group-title="Live",TLC USA Eastern - TVPass
 https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="Live",TMC (US) Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed - TVPass" group-title="Live",TMC (US) Eastern Feed - TVPass
 https://tvpass.org/live/TheMovieChannelEast/sd
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="Live",TNT Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed - TVPass" group-title="Live",TNT Eastern Feed - TVPass
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="Live",Travel US East - TVPass
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East - TVPass" group-title="Live",Travel US East - TVPass
 https://tvpass.org/live/TravelChannelEast/sd
-#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="Live",truTV USA Eastern - TVPass
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern - TVPass" group-title="Live",truTV USA Eastern - TVPass
 https://tvpass.org/live/truTVEast/sd
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="Live",TSN1 - TVPass
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 - TVPass" group-title="Live",TSN1 - TVPass
 https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="Live",TSN2 - TVPass
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 - TVPass" group-title="Live",TSN2 - TVPass
 https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="Live",TSN3 - TVPass
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 - TVPass" group-title="Live",TSN3 - TVPass
 https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="Live",TSN4 - TVPass
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 - TVPass" group-title="Live",TSN4 - TVPass
 https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="Live",TSN5 - TVPass
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 - TVPass" group-title="Live",TSN5 - TVPass
 https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="Live",Turner Classic Movies USA - TVPass
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA - TVPass" group-title="Live",Turner Classic Movies USA - TVPass
 https://tvpass.org/live/TCMEast/sd
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="Live",TV Land Eastern - TVPass
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern - TVPass" group-title="Live",TV Land Eastern - TVPass
 https://tvpass.org/live/tv-land-eastern/sd
-#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="Live",TV One - TVPass
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One - TVPass" group-title="Live",TV One - TVPass
 https://tvpass.org/live/TVOne/sd
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="Live",Universal Kids - TVPass
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids - TVPass" group-title="Live",Universal Kids - TVPass
 https://tvpass.org/live/UniversalKidsEast/sd
-#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" group-title="Live",Univision Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed - TVPass" group-title="Live",Univision Eastern Feed - TVPass
 https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="Live",USA Network East Feed - TVPass
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed - TVPass" group-title="Live",USA Network East Feed - TVPass
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="Live",VH1 Eastern Feed - TVPass
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed - TVPass" group-title="Live",VH1 Eastern Feed - TVPass
 https://tvpass.org/live/VH1East/sd
-#EXTINF:-1 tvg-id="vice" tvg-name="VICE" group-title="Live",VICE - TVPass
+#EXTINF:-1 tvg-id="vice" tvg-name="VICE - TVPass" group-title="Live",VICE - TVPass
 https://tvpass.org/live/VICETV/sd
-#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="Live",WE (Women's Entertainment) Eastern - TVPass
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern - TVPass" group-title="Live",WE (Women's Entertainment) Eastern - TVPass
 https://tvpass.org/live/WeTVEast/sd
-#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)" group-title="Live",WPIX New York (SUPERSTATION) - TVPass
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) - TVPass" group-title="Live",WPIX New York (SUPERSTATION) - TVPass
 https://tvpass.org/live/WPIX/sd
-#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" group-title="Live",Yes Network - TVPass
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network - TVPass" group-title="Live",Yes Network - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="Columbia vs. Dartmouth (10/24 6:00 PM ET)" group-title="NCAAF",Columbia vs. Dartmouth (10/24 6:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Columbia vs. Dartmouth (10/24 6:00 PM ET) - TVPass" group-title="NCAAF",Columbia vs. Dartmouth (10/24 6:00 PM ET) - TVPass
 https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Bucks @ Toronto Raptors (10/24 6:30 PM ET)" group-title="NBA",Milwaukee Bucks @ Toronto Raptors (10/24 6:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Milwaukee Bucks @ Toronto Raptors (10/24 6:30 PM ET) - TVPass" group-title="NBA",Milwaukee Bucks @ Toronto Raptors (10/24 6:30 PM ET) - TVPass
 https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Orlando Magic (10/24 7:00 PM ET)" group-title="NBA",Atlanta Hawks @ Orlando Magic (10/24 7:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ Orlando Magic (10/24 7:00 PM ET) - TVPass" group-title="NBA",Atlanta Hawks @ Orlando Magic (10/24 7:00 PM ET) - TVPass
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="" tvg-name="North Texas Mean Green @ Charlotte 49ers (10/24 7:00 PM ET)" group-title="NCAAF",North Texas Mean Green @ Charlotte 49ers (10/24 7:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="North Texas Mean Green @ Charlotte 49ers (10/24 7:00 PM ET) - TVPass" group-title="NCAAF",North Texas Mean Green @ Charlotte 49ers (10/24 7:00 PM ET) - TVPass
 https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Jose Sharks @ New Jersey Devils (10/24 7:10 PM ET)" group-title="NHL",San Jose Sharks @ New Jersey Devils (10/24 7:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="San Jose Sharks @ New Jersey Devils (10/24 7:10 PM ET) - TVPass" group-title="NHL",San Jose Sharks @ New Jersey Devils (10/24 7:10 PM ET) - TVPass
 https://tvpass.org/live/NHL14/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Columbus Blue Jackets (10/24 7:10 PM ET)" group-title="NHL",Washington Capitals @ Columbus Blue Jackets (10/24 7:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Columbus Blue Jackets (10/24 7:10 PM ET) - TVPass" group-title="NHL",Washington Capitals @ Columbus Blue Jackets (10/24 7:10 PM ET) - TVPass
 https://tvpass.org/live/NHL30/sd
-#EXTINF:-1 tvg-id="" tvg-name="Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 PM ET)" group-title="NHL",Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 PM ET) - TVPass" group-title="NHL",Toronto Maple Leafs @ Buffalo Sabres (10/24 7:10 PM ET) - TVPass
 https://tvpass.org/live/NHL19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ New York Knicks (10/24 7:30 PM ET)" group-title="NBA",Boston Celtics @ New York Knicks (10/24 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Boston Celtics @ New York Knicks (10/24 7:30 PM ET) - TVPass" group-title="NBA",Boston Celtics @ New York Knicks (10/24 7:30 PM ET) - TVPass
 https://tvpass.org/live/NBA14/sd
-#EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Virginia Tech Hokies (10/24 7:30 PM ET)" group-title="NCAAF",California Golden Bears @ Virginia Tech Hokies (10/24 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="California Golden Bears @ Virginia Tech Hokies (10/24 7:30 PM ET) - TVPass" group-title="NCAAF",California Golden Bears @ Virginia Tech Hokies (10/24 7:30 PM ET) - TVPass
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 PM ET)" group-title="NBA",Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 PM ET) - TVPass" group-title="NBA",Cleveland Cavaliers @ Brooklyn Nets (10/24 7:30 PM ET) - TVPass
 https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 PM ET)" group-title="MLB",Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 PM ET) - TVPass" group-title="MLB",Los Angeles Dodgers @ Toronto Blue Jays (10/24 8:00 PM ET) - TVPass
 https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="" tvg-name="Detroit Pistons @ Houston Rockets (10/24 8:00 PM ET)" group-title="NBA",Detroit Pistons @ Houston Rockets (10/24 8:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Detroit Pistons @ Houston Rockets (10/24 8:00 PM ET) - TVPass" group-title="NBA",Detroit Pistons @ Houston Rockets (10/24 8:00 PM ET) - TVPass
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 PM ET)" group-title="NBA",San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 PM ET) - TVPass" group-title="NBA",San Antonio Spurs @ New Orleans Pelicans (10/24 8:00 PM ET) - TVPass
 https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Memphis Grizzlies (10/24 8:00 PM ET)" group-title="NBA",Miami Heat @ Memphis Grizzlies (10/24 8:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Memphis Grizzlies (10/24 8:00 PM ET) - TVPass" group-title="NBA",Miami Heat @ Memphis Grizzlies (10/24 8:00 PM ET) - TVPass
 https://tvpass.org/live/NBA10/sd
-#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Winnipeg Jets (10/24 8:10 PM ET)" group-title="NHL",Calgary Flames @ Winnipeg Jets (10/24 8:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Calgary Flames @ Winnipeg Jets (10/24 8:10 PM ET) - TVPass" group-title="NHL",Calgary Flames @ Winnipeg Jets (10/24 8:10 PM ET) - TVPass
 https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Dallas Mavericks (10/24 8:30 PM ET)" group-title="NBA",Washington Wizards @ Dallas Mavericks (10/24 8:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Dallas Mavericks (10/24 8:30 PM ET) - TVPass" group-title="NBA",Washington Wizards @ Dallas Mavericks (10/24 8:30 PM ET) - TVPass
 https://tvpass.org/live/NBA20/sd
-#EXTINF:-1 tvg-id="" tvg-name="Utah Jazz @ Sacramento Kings (10/24 10:00 PM ET)" group-title="NBA",Utah Jazz @ Sacramento Kings (10/24 10:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Utah Jazz @ Sacramento Kings (10/24 10:00 PM ET) - TVPass" group-title="NBA",Utah Jazz @ Sacramento Kings (10/24 10:00 PM ET) - TVPass
 https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 PM ET)" group-title="NBA",Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 PM ET) - TVPass" group-title="NBA",Minnesota Timberwolves @ Los Angeles Lakers (10/24 10:00 PM ET) - TVPass
 https://tvpass.org/live/NBA21/sd
-#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Portland Trail Blazers (10/24 10:00 PM ET)" group-title="NBA",Golden State Warriors @ Portland Trail Blazers (10/24 10:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Golden State Warriors @ Portland Trail Blazers (10/24 10:00 PM ET) - TVPass" group-title="NBA",Golden State Warriors @ Portland Trail Blazers (10/24 10:00 PM ET) - TVPass
 https://tvpass.org/live/NBA11/sd
-#EXTINF:-1 tvg-id="" tvg-name="Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 PM ET)" group-title="NCAAF",Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 PM ET) - TVPass" group-title="NCAAF",Boise State Broncos @ Nevada Wolf Pack (10/24 10:00 PM ET) - TVPass
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Los Angeles Clippers (10/24 10:30 PM ET)" group-title="NBA",Phoenix Suns @ Los Angeles Clippers (10/24 10:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix Suns @ Los Angeles Clippers (10/24 10:30 PM ET) - TVPass" group-title="NBA",Phoenix Suns @ Los Angeles Clippers (10/24 10:30 PM ET) - TVPass
 https://tvpass.org/live/NBA18/sd

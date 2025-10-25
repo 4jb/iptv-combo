@@ -18,7 +18,8 @@ cp $INPUT_FILE "${INPUT_FILE%.m3u}_unmodified.m3u.bak"
 
 # Use sed to find lines with '#EXTINF' and append the text
 sed -i -E "s/(,#EXTM3U|,-?[^,]*$)/\1${APPEND_TEXT}/" "$INPUT_FILE" 
-sed -i 's/\(tvg-name="[^"]*\)"/\1'"$APPEND_TEXT"'"/' "$INPUT_FILE"
+
+#"s/^\(#EXTINF.*,\)\(.*\)/\1${APPEND_TEXT} \2/" "$ORIGINAL_FILE" > "$OUTPUT_FILE"
 
 echo "Successfully appended '${APPEND_TEXT}' to channel names."
 echo "New playlist saved to: $OUTPUT_FILE"
