@@ -21,7 +21,7 @@ This generator currently creates playlists for
 *   **TVPass** (`tvpass.m3u`)
 *   **MoveOnJoy** (`us_moveonjoy.m3u`) 
 
-*   **EPG is NOT provided**
+**   **EPG is NOT provided**
 *   You will need another server such as m3u4u.com to manipulate the EPG TVG_ID to match your source.
 *   They also provide a limited EPG source, but if you search around there are better sources.
 
