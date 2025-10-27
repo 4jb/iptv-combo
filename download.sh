@@ -8,7 +8,7 @@
 # only if changes exist.
 #
 # Example cron job (every 6 hours):
-# 0 */6 * * * /path/to/update_playlists.sh >> /path/to/update_playlists.log 2>&1
+# 0 */6 * * * /path/to/download.sh >> /path/to/downlaod.log 2>&1
 # =====================================
 
 # === CONFIGURATION ===
@@ -51,13 +51,12 @@ for FILE in $DOWNLOAD_FOLDER/*.m3u; do
   # Skip if the glob doesn't match any files (prevents running on literal "*.m3u")
   [[ -e "$FILE" ]] || continue
 
-  # Extract the filename without the extension
-  # The `%.*` removes the shortest match from the end of the string
+  # Remove carriage returns from downloaded playlists.
   echo " ➤ Processing file: $FILE"
   $WORKDIR/cleanup.sh "$FILE"
 
+  # Extract the filename without the extension
   echo "🧹 Setting FILENAME variable to: $SOURCE"
-  #SOURCE="${FILE%.*}"
   SOURCE=$(basename "$FILE" .m3u)
 
   # Run your separate script, EXAMPLE.SH, with the full filename and the stripped name
@@ -67,9 +66,10 @@ done
 # === COMBINE ALL PLAYLISTS
 echo "🔄 Starting to combine M3U files from $PLAYLISTS_DIR..."
 
-# Check if the output file already exists and remove it to start fresh
+# Check if the output file already exists and back it up
+## TODO: Daily backups
 if [ -f "$OUTPUT_PLAYLIST" ]; then
-    echo "➤ Removing existing file: $OUTPUT_PLAYLIST"
+    echo "➤ Backing up existing file: $OUTPUT_PLAYLIST"
     mv -f "$OUTPUT_PLAYLIST" "$OUTPUT_PLAYLIST.bak"
 fi
 
