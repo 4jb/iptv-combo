@@ -15,7 +15,9 @@
 WORKDIR="/usr/iptv-combo"       # Local clone of your GitHub repo
 DOWNLOAD_FOLDER="$WORKDIR/downloads"          # Final merged playlist name
 URL_LIST_FILE="$WORKDIR/playlists"  # Text file with one URL per line
-OUTPUT_PLAYLIST="$WORKDIR/free4jb.m3u"
+PRIVATE_LIST_FILE="/etc/playlists"  # Text file with one URL per line
+OUTPUT_PLAYLIST="$WORKDIR/free4jb-merged.m3u"
+UPDATED_PLAYLIST="$WORKDIR/free4jb.m3u"
 GITHUB_REMOTE="origin"
 GITHUB_BRANCH="main"
 
@@ -36,6 +38,11 @@ fi
 echo "➤ Fetching playlists from $URL_LIST_FILE..."
 grep -Ev "^#|^$" $URL_LIST_FILE | wget -i - -P $DOWNLOAD_FOLDER -c -nv
 echo "✅ Downloaded playlists into $DOWNLOAD_FOLDER folder."
+
+if [[ -f "$PRIVATE_LIST_FILE" ]]; then
+  echo "➤ Fetching private playlists from $PRIVATE_LIST_FILE..."
+  grep -Ev "^#|^$" $PRIVATE_LIST_FILE | wget -i - -P $WORKDIR -c -nv -O $UPDATED_PLAYLIST
+fi
 
 echo "🔄 Renaming Playlists..."
 mv $DOWNLOAD_FOLDER/m3u $DOWNLOAD_FOLDER/TVPass.m3u
