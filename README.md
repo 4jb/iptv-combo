@@ -27,7 +27,7 @@ This generator currently creates playlists for
 
 **Example URL:**
 
-*   **Free4JB Combo:** `https://raw.githubusercontent.com/4jb/iptv-combo/refs/heads/main/free4jb.m3u`
+*   **FreeTV Combo:** `https://raw.githubusercontent.com/4jb/iptv-combo/refs/heads/main/freetv.m3u`
 
 ## ▶️ How to Use
 
@@ -38,14 +38,14 @@ You can use this playlist in any IPTV player application that supports M3U playl
 **To get the URL for a specific playlist:**
 
 1.  Navigate to the [`/`](https://github.com/4jb/iptv-combo/tree/main) directory.
-2.  Click on the `free4jb.m3u` file.
+2.  Click on the `freetv.m3u` file.
 3.  On the file page, click the **"Raw"** button.
 4.  Copy the URL from your browser's address bar.
    
 ## OR
 
 Copy this url and add the playlist you want:
-https://raw.githubusercontent.com/4jb/iptv-combo/main/free4jb.m3u
+https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv.m3u
 
 Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
 
