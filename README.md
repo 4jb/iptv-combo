@@ -23,9 +23,9 @@ This generator currently creates playlists for
 *   **MoveOnJoy** (`us_moveonjoy.m3u`) 
 
 ###   **Limited EPG is available**
-*   This repository does provide an EPG provide by m3u4u specific for the `freetv.m3u` playlist.
+*   This repository does provide an EPG from m3u4u specific for the `freetv.m3u` playlist.
 *   The guide will be incomplete and the channels provided are likely to contain some issues.
-*   You can certainly use another guide, but keep in mind that you will need another server, such as m3u4u.com, to manipulate the EPG TVG_ID to match your source.
+*   You can certainly use another guide, but keep in mind that you will need another server, such as m3u4u.com, to manipulate the EPG TVG_ID on each channel to match your source.
 *   If you are handy with scripts you can automate pulling guide data for every desired channel from zap2it and/or schedules direct. 
 
 ## ▶️ How to Use
@@ -51,7 +51,10 @@ Copy this url and add the playlist you want:
 + **Merged Playlist** *(Unmodified / Unfiltered / Unsorted)*
     -     https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv-merged.m3u
 
-Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
++ **Limited EPG** 
+    -     https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv-epg.xml.gz
+
+Paste this complete raw URL into your IPTV player's M3U playlist and/or EPG source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
 
 **Example URL:**
 
