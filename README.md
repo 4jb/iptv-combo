@@ -6,7 +6,7 @@ This repository automatically generates M3U playlist files for various free ad-s
 
 ## ▶️ How It Works
 
-This is a custom set of scripts that are used to pull various sources and combine them into a single playlist.
+This is a custom set of scripts that are used to pull various free TV sources and combine them into a single playlist. This playlist is then processed locally to clean up files, appends source details on each channel name. This merged playlist is then pushed through an external m3u manager (https://m3u4u.com/) to automatically filter unwanted channels, rearrange all categories, adjust tvg-ids, as well as rename channels according to personal preference. This file is then stored on Github along with the EPG XML file.
 
 ## ▶️ Services Included
 
@@ -19,21 +19,20 @@ This generator currently creates playlists for
 *   **Samsung TV Plus**  = ( `samsungtvplus_us.m3u` )
 
 *   **TVPass** (`tvpass.m3u`)
+  
 *   **MoveOnJoy** (`us_moveonjoy.m3u`) 
 
-###   **EPG is NOT provided**
-*   You will need another server such as m3u4u.com to manipulate the EPG TVG_ID to match your source.
-*   They also provide a limited EPG source, but if you search around there are better sources.
-
-**Example URL:**
-
-*   **FreeTV Combo:** `https://raw.githubusercontent.com/4jb/iptv-combo/refs/heads/main/freetv.m3u`
+###   **Limited EPG is available**
+*   This repository does provide an EPG provide by m3u4u specific for the `freetv.m3u` playlist.
+*   The guide will be incomplete and the channels provided are likely to contain some issues.
+*   You can certainly use another guide, but keep in mind that you will need another server, such as m3u4u.com, to manipulate the EPG TVG_ID to match your source.
+*   If you are handy with scripts you can automate pulling guide data for every desired channel from zap2it and/or schedules direct. 
 
 ## ▶️ How to Use
 
-The generated M3U file can be found in the [`/`](https://github.com/4jb/iptv-combo/tree/main) directory of this repository.
+The generated M3U files can be found in the [`/`](https://github.com/4jb/iptv-combo/tree/main) directory of this repository.
 
-You can use this playlist in any IPTV player application that supports M3U playlists with remote URLs (e.g., TiviMate, IPTV Smarters, VLC, Kodi PVR IPTV Simple Client, OTT Navigator, etc.).
+You can use these playlist in any IPTV player application that supports M3U playlists with remote URLs (e.g., TiviMate, IPTV Smarters, VLC, Kodi PVR IPTV Simple Client, OTT Navigator, etc.).
 
 **To get the URL for a specific playlist:**
 
@@ -45,9 +44,19 @@ You can use this playlist in any IPTV player application that supports M3U playl
 ## OR
 
 Copy this url and add the playlist you want:
+
+# Customized Playlist `(Modified / Filtered / Sorted)`
 https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv.m3u
 
+# Merged Playlist `(Unmodified / Unfiltered / Unsorted)`
+https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv-merged.m3u
+
 Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
+
+**Example URL:**
+
+*   **Customized FreeTV:** `https://raw.githubusercontent.com/4jb/iptv-combo/refs/heads/main/freetv.m3u`
+*   **Merged FreeTV:** `https://raw.githubusercontent.com/4jb/iptv-combo/refs/heads/main/freetv-merged.m3u`
 
 ## ▶️ Update Schedule
 
