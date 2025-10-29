@@ -16,8 +16,10 @@ WORKDIR="/usr/iptv-combo"       # Local clone of your GitHub repo
 DOWNLOAD_FOLDER="$WORKDIR/downloads"          # Final merged playlist name
 URL_LIST_FILE="$WORKDIR/playlists"  # Text file with one URL per line
 PRIVATE_LIST_FILE="/etc/playlists"  # Text file with one URL per line
+PRIVATE_EPG_LIST="/etc/epglists"  # Text file with one URL per line
 OUTPUT_PLAYLIST="$WORKDIR/free4jb-merged.m3u"
 UPDATED_PLAYLIST="$WORKDIR/free4jb.m3u"
+UPDATED_EPG="$WORKDIR/free4jb-epg.xml.gz"
 GITHUB_REMOTE="origin"
 GITHUB_BRANCH="main"
 
@@ -81,6 +83,14 @@ if [[ -f "$PRIVATE_LIST_FILE" ]]; then
     mv $UPDATED_PLAYLIST $UPDATED_PLAYLIST.bak
   fi
   grep -Ev "^#|^$" $PRIVATE_LIST_FILE | wget -i - -P $WORKDIR -c -nv -O $UPDATED_PLAYLIST
+fi
+
+if [[ -f "$PRIVATE_EPG_LIST" ]]; then
+  echo "➤ Fetching private playlists from $PRIVATE_EPG_LIST..."
+  if [[ -f "$UPDATED_EPG" ]]; then
+    mv $UPDATED_EPG $UPDATED_EPG.bak
+  fi
+  grep -Ev "^#|^$" $PRIVATE_EPG_LIST | wget -i - -P $WORKDIR -c -nv
 fi
 
 # Add the standard M3U header to the new combined file
