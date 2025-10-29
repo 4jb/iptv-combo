@@ -91,6 +91,7 @@ if [[ -f "$PRIVATE_EPG_LIST" ]]; then
     mv $UPDATED_EPG $UPDATED_EPG.bak
   fi
   grep -Ev "^#|^$" $PRIVATE_EPG_LIST | wget -i - -P $WORKDIR -c -nv
+  gunzip -fk $UPDATED_EPG
 fi
 
 # Add the standard M3U header to the new combined file
