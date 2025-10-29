@@ -17,9 +17,9 @@ DOWNLOAD_FOLDER="$WORKDIR/downloads"          # Final merged playlist name
 URL_LIST_FILE="$WORKDIR/playlists"  # Text file with one URL per line
 PRIVATE_LIST_FILE="/etc/playlists"  # Text file with one URL per line
 PRIVATE_EPG_LIST="/etc/epglists"  # Text file with one URL per line
-OUTPUT_PLAYLIST="$WORKDIR/free4jb-merged.m3u"
-UPDATED_PLAYLIST="$WORKDIR/free4jb.m3u"
-UPDATED_EPG="$WORKDIR/free4jb-epg.xml.gz"
+OUTPUT_PLAYLIST="$WORKDIR/freetv-merged.m3u"
+UPDATED_PLAYLIST="$WORKDIR/freetv.m3u"
+UPDATED_EPG="$WORKDIR/freetv-epg.xml.gz"
 GITHUB_REMOTE="origin"
 GITHUB_BRANCH="main"
 
