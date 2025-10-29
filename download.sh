@@ -39,11 +39,6 @@ echo "➤ Fetching playlists from $URL_LIST_FILE..."
 grep -Ev "^#|^$" $URL_LIST_FILE | wget -i - -P $DOWNLOAD_FOLDER -c -nv
 echo "✅ Downloaded playlists into $DOWNLOAD_FOLDER folder."
 
-if [[ -f "$PRIVATE_LIST_FILE" ]]; then
-  echo "➤ Fetching private playlists from $PRIVATE_LIST_FILE..."
-  grep -Ev "^#|^$" $PRIVATE_LIST_FILE | wget -i - -P $WORKDIR -c -nv -O $UPDATED_PLAYLIST
-fi
-
 echo "🔄 Renaming Playlists..."
 mv $DOWNLOAD_FOLDER/m3u $DOWNLOAD_FOLDER/TVPass.m3u
 mv $DOWNLOAD_FOLDER/samsungtvplus_us.m3u $DOWNLOAD_FOLDER/Samsung.m3u
@@ -78,6 +73,14 @@ echo "🔄 Starting to combine M3U files from $PLAYLISTS_DIR..."
 if [ -f "$OUTPUT_PLAYLIST" ]; then
     echo "➤ Backing up existing file: $OUTPUT_PLAYLIST"
     mv -f "$OUTPUT_PLAYLIST" "$OUTPUT_PLAYLIST.bak"
+fi
+
+if [[ -f "$PRIVATE_LIST_FILE" ]]; then
+  echo "➤ Fetching private playlists from $PRIVATE_LIST_FILE..."
+  if [[ -f "$UPDATED_PLAYLIST" ]]; then
+    mv $UPDATED_PLAYLIST $UPDATED_PLAYLIST.bak
+  fi
+  grep -Ev "^#|^$" $PRIVATE_LIST_FILE | wget -i - -P $WORKDIR -c -nv -O $UPDATED_PLAYLIST
 fi
 
 # Add the standard M3U header to the new combined file
