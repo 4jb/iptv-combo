@@ -45,10 +45,10 @@ You can use these playlist in any IPTV player application that supports M3U play
 
 Copy this url and add the playlist you want:
 
-# Customized Playlist `(Modified / Filtered / Sorted)`
+- **Customized Playlist** *(Modified / Filtered / Sorted)*
 https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv.m3u
 
-# Merged Playlist `(Unmodified / Unfiltered / Unsorted)`
+- **Merged Playlist** *(Unmodified / Unfiltered / Unsorted)*
 https://raw.githubusercontent.com/4jb/iptv-combo/main/freetv-merged.m3u
 
 Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
