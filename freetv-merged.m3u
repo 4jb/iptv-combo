@@ -351,7 +351,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e" tvg-id="5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e" tvg-chno="" tvg-name="America's Funniest Home Videos - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1de51e48-edc1-44c4-97b7-0f8a25da9efd/AFHV_LogoA_Color_1500x1000.png" group-title="Uncategorized",America's Funniest Home Videos - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-690549d77a3fc35d95153b9e.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e16" tvg-id="5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e16" tvg-chno="" tvg-name="American Crimes - PlexTV" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/283cd8df7cd9aced05f980443e201452.png" group-title="Uncategorized",American Crimes - PlexTV
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e16" tvg-id="5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e16" tvg-chno="" tvg-name="American Crimes - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png" group-title="Uncategorized",American Crimes - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6467891c73e5e029428f0e16.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6876f9be20555588ef322221" tvg-id="5e20b730f2f8d5003d739db7-6876f9be20555588ef322221" tvg-chno="" tvg-name="American Gladiators by MGM - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18f1bacd-6b37-4f59-acbf-f2ec32680589/AmericanGladiators_logo_dark_-_Carl_HoffelderRDX.png" group-title="Uncategorized",American Gladiators by MGM - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6876f9be20555588ef322221.m3u8
@@ -3869,39 +3869,33 @@ https://tvpass.org/live/WeTVEast/sd
 https://tvpass.org/live/WPIX/sd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network - TVPass" group-title="Live",Yes Network - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Clippers @ Orlando Magic (11/20 7:10 PM ET) - TVPass" group-title="NBA",Los Angeles Clippers @ Orlando Magic (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="" tvg-name="St Louis Blues @ Philadelphia Flyers (11/20 7:10 PM ET) - TVPass" group-title="NHL",St Louis Blues @ Philadelphia Flyers (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL22/sd
-#EXTINF:-1 tvg-id="" tvg-name="Columbus Blue Jackets @ Toronto Maple Leafs (11/20 7:10 PM ET) - TVPass" group-title="NHL",Columbus Blue Jackets @ Toronto Maple Leafs (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL20/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Islanders @ Detroit Red Wings (11/20 7:10 PM ET) - TVPass" group-title="NHL",New York Islanders @ Detroit Red Wings (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL09/sd
-#EXTINF:-1 tvg-id="" tvg-name="New Jersey Devils @ Florida Panthers (11/20 7:10 PM ET) - TVPass" group-title="NHL",New Jersey Devils @ Florida Panthers (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-id="" tvg-name="Washington Capitals @ Montréal Canadiens (11/20 7:10 PM ET) - TVPass" group-title="NHL",Washington Capitals @ Montréal Canadiens (11/20 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL30/sd
-#EXTINF:-1 tvg-id="" tvg-name="Louisiana Ragin Cajuns @ Arkansas State Red Wolves (11/20 7:30 PM ET) - TVPass" group-title="NCAAF",Louisiana Ragin Cajuns @ Arkansas State Red Wolves (11/20 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Pacers @ Cleveland Cavaliers (11/21 7:00 PM ET) - TVPass" group-title="NBA",Indiana Pacers @ Cleveland Cavaliers (11/21 7:00 PM ET) - TVPass
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Blackhawks @ Buffalo Sabres (11/21 7:10 PM ET) - TVPass" group-title="NHL",Chicago Blackhawks @ Buffalo Sabres (11/21 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL05/sd
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Wild @ Pittsburgh Penguins (11/21 7:10 PM ET) - TVPass" group-title="NHL",Minnesota Wild @ Pittsburgh Penguins (11/21 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 tvg-id="" tvg-name="Brooklyn Nets @ Boston Celtics (11/21 7:40 PM ET) - TVPass" group-title="NBA",Brooklyn Nets @ Boston Celtics (11/21 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA24/sd
+#EXTINF:-1 tvg-id="" tvg-name="Washington Wizards @ Toronto Raptors (11/21 7:40 PM ET) - TVPass" group-title="NBA",Washington Wizards @ Toronto Raptors (11/21 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA20/sd
+#EXTINF:-1 tvg-id="" tvg-name="Florida State Seminoles @ NC State Wolfpack (11/21 8:00 PM ET) - TVPass" group-title="NCAAF",Florida State Seminoles @ NC State Wolfpack (11/21 8:00 PM ET) - TVPass
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="" tvg-name="Edmonton Oilers @ Tampa Bay Lightning (11/20 7:40 PM ET) - TVPass" group-title="NHL",Edmonton Oilers @ Tampa Bay Lightning (11/20 7:40 PM ET) - TVPass
-https://tvpass.org/live/NHL15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Philadelphia 76ers @ Milwaukee Bucks (11/20 8:10 PM ET) - TVPass" group-title="NBA",Philadelphia 76ers @ Milwaukee Bucks (11/20 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Sacramento Kings @ Memphis Grizzlies (11/20 8:10 PM ET) - TVPass" group-title="NBA",Sacramento Kings @ Memphis Grizzlies (11/20 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="" tvg-name="Seattle Kraken @ Chicago Blackhawks (11/20 8:10 PM ET) - TVPass" group-title="NHL",Seattle Kraken @ Chicago Blackhawks (11/20 8:10 PM ET) - TVPass
-https://tvpass.org/live/NHL16/sd
-#EXTINF:-1 tvg-id="" tvg-name="Atlanta Hawks @ San Antonio Spurs (11/20 8:10 PM ET) - TVPass" group-title="NBA",Atlanta Hawks @ San Antonio Spurs (11/20 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="" tvg-name="Buffalo Bills @ Houston Texans (11/20 8:15 PM ET) - TVPass" group-title="NFL",Buffalo Bills @ Houston Texans (11/20 8:15 PM ET) - TVPass
-https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="" tvg-name="New York Rangers @ Colorado Avalanche (11/20 9:10 PM ET) - TVPass" group-title="NHL",New York Rangers @ Colorado Avalanche (11/20 9:10 PM ET) - TVPass
-https://tvpass.org/live/NHL23/sd
-#EXTINF:-1 tvg-id="" tvg-name="Vegas Golden Knights @ Utah Mammoth (11/20 9:10 PM ET) - TVPass" group-title="NHL",Vegas Golden Knights @ Utah Mammoth (11/20 9:10 PM ET) - TVPass
-https://tvpass.org/live/NHL28/sd
-#EXTINF:-1 tvg-id="" tvg-name="Ottawa Senators @ Anaheim Ducks (11/20 10:10 PM ET) - TVPass" group-title="NHL",Ottawa Senators @ Anaheim Ducks (11/20 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="" tvg-name="Dallas Stars @ Vancouver Canucks (11/20 10:10 PM ET) - TVPass" group-title="NHL",Dallas Stars @ Vancouver Canucks (11/20 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL27/sd
-#EXTINF:-1 tvg-id="" tvg-name="Los Angeles Kings @ San Jose Sharks (11/20 10:10 PM ET) - TVPass" group-title="NHL",Los Angeles Kings @ San Jose Sharks (11/20 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="" tvg-name="Miami Heat @ Chicago Bulls (11/21 8:10 PM ET) - TVPass" group-title="NBA",Miami Heat @ Chicago Bulls (11/21 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA10/sd
+#EXTINF:-1 tvg-id="" tvg-name="Carolina Hurricanes @ Winnipeg Jets (11/21 8:10 PM ET) - TVPass" group-title="NHL",Carolina Hurricanes @ Winnipeg Jets (11/21 8:10 PM ET) - TVPass
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="" tvg-name="New Orleans Pelicans @ Dallas Mavericks (11/21 8:40 PM ET) - TVPass" group-title="NBA",New Orleans Pelicans @ Dallas Mavericks (11/21 8:40 PM ET) - TVPass
+https://tvpass.org/live/NBA27/sd
+#EXTINF:-1 tvg-id="" tvg-name="Minnesota Timberwolves @ Phoenix Suns (11/21 9:10 PM ET) - TVPass" group-title="NBA",Minnesota Timberwolves @ Phoenix Suns (11/21 9:10 PM ET) - TVPass
+https://tvpass.org/live/NBA21/sd
+#EXTINF:-1 tvg-id="" tvg-name="Denver Nuggets @ Houston Rockets (11/21 9:40 PM ET) - TVPass" group-title="NBA",Denver Nuggets @ Houston Rockets (11/21 9:40 PM ET) - TVPass
+https://tvpass.org/live/NBA26/sd
+#EXTINF:-1 tvg-id="" tvg-name="Portland Trail Blazers @ Golden State Warriors (11/21 10:10 PM ET) - TVPass" group-title="NBA",Portland Trail Blazers @ Golden State Warriors (11/21 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA17/sd
+#EXTINF:-1 tvg-id="" tvg-name="Oklahoma City Thunder @ Utah Jazz (11/21 10:10 PM ET) - TVPass" group-title="NBA",Oklahoma City Thunder @ Utah Jazz (11/21 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA22/sd
+#EXTINF:-1 tvg-id="" tvg-name="Hawaii Rainbow Warriors @ UNLV Rebels (11/21 10:30 PM ET) - TVPass" group-title="NCAAF",Hawaii Rainbow Warriors @ UNLV Rebels (11/21 10:30 PM ET) - TVPass
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="" tvg-name="Boston Bruins @ Los Angeles Kings (11/21 10:40 PM ET) - TVPass" group-title="NHL",Boston Bruins @ Los Angeles Kings (11/21 10:40 PM ET) - TVPass
+https://tvpass.org/live/NHL03/sd
