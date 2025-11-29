@@ -51,7 +51,7 @@ https://jmp2.uk/stvp-US3400005I4
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be.m3u8
 #EXTINF:-1 tvg-id="FilmRiseAnime.us" tvg-name="FilmRise Anime US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf5d15fc-60ea-417b-8d71-3dbaab2b3521/FilmRiseAnime_Logo_Color.png" group-title="Anime",FilmRise Anime US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
-#EXTINF:-1 tvg-id="FilmRiseAnime.us" tvg-name="FilmRise Anime US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20250701T224527SQUARE.png" group-title="Anime",FilmRise Anime US - Samsung
+#EXTINF:-1 tvg-id="FilmRiseAnime.us" tvg-name="FilmRise Anime US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20251125T191310SQUARE.png" group-title="Anime",FilmRise Anime US - Samsung
 https://jmp2.uk/stvp-US3500004M7
 #EXTINF:-1 tvg-id="US270000585" tvg-name="Hunter x Hunter US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000585_20250826T234529SQUARE.png" group-title="Anime",Hunter x Hunter US - Samsung
 https://jmp2.uk/stvp-US270000585
@@ -351,7 +351,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000145C_20241210T013825SQUARE.png" group-title="Comedy",Comedy Dynamics US - Samsung
 https://jmp2.uk/stvp-USBD7000145C
-#EXTINF:-1 tvg-id="691cf0410a78a9ce61ad2121" tvg-name="America's Funniest Home Videos: Holiday Edition - PlutoTV" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG_1764003775041.png" group-title="Comedy",America's Funniest Home Videos: Holiday Edition - PlutoTV
+#EXTINF:-1 tvg-id="691cf0410a78a9ce61ad2121" tvg-name="America's Funniest Home Videos: Holiday Edition - PlutoTV" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG-1764176949336.png" group-title="Comedy",America's Funniest Home Videos: Holiday Edition - PlutoTV
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV US - MoveOnJoy" tvg-logo="" group-title="Comedy",Comedy TV US - MoveOnJoy
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
@@ -393,12 +393,14 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f.m3u8
 #EXTINF:-1 tvg-id="JustForLaughsGags.us" tvg-name="Just for Laughs GAGS US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240722T230829SQUARE.png" group-title="Comedy",Just for Laughs GAGS US - Samsung
 https://jmp2.uk/stvp-USBC4400004KK
+#EXTINF:-1 tvg-id="US4100039PO" tvg-name="America’s Funniest Home Videos - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100039PO_20251125T030910SQUARE.png" group-title="Comedy",America’s Funniest Home Videos - Samsung
+https://jmp2.uk/stvp-US4100039PO
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c" tvg-name="Kim's Convenience US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png" group-title="Comedy",Kim's Convenience US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6707d359da81682f2d1e683c.m3u8
-#EXTINF:-1 tvg-id="US1900011ZN" tvg-name="Are We There Yet? - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20251110T235042SQUARE.png" group-title="Comedy",Are We There Yet? - Samsung
-https://jmp2.uk/stvp-US1900011ZN
 #EXTINF:-1 tvg-id="LaffMore.us" tvg-name="Laff More US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700002P0_20241112T000848SQUARE.png" group-title="Comedy",Laff More US - Samsung
 https://jmp2.uk/stvp-US3700002P0
+#EXTINF:-1 tvg-id="US1900011ZN" tvg-name="Are We There Yet? - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900011ZN_20251110T235042SQUARE.png" group-title="Comedy",Are We There Yet? - Samsung
+https://jmp2.uk/stvp-US1900011ZN
 #EXTINF:-1 tvg-id="US4000004N1" tvg-name="Letterman TV US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20250915T233921SQUARE.png" group-title="Comedy",Letterman TV US - Samsung
 https://jmp2.uk/stvp-US4000004N1
 #EXTINF:-1 tvg-id="LOLNetwork.us" tvg-name="LOL! Network US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ccac86b4-f8b8-445a-89ce-1b79927b857c/1500_x_1000_Color_Logo_PLEX.png" group-title="Comedy",LOL! Network US - PlexTV
@@ -447,10 +449,10 @@ https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705eea2236e002d69f5ae.m3u8
 #EXTINF:-1 tvg-id="US2100007V7" tvg-name="Smosh US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100007V7_20251017T161839SQUARE.png" group-title="Comedy",Smosh US - Samsung
 https://jmp2.uk/stvp-US2100007V7
-#EXTINF:-1 tvg-id="US1900012GD" tvg-name="The Conners - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900012GD_20251110T235127SQUARE.png" group-title="Comedy",The Conners - Samsung
-https://jmp2.uk/stvp-US1900012GD
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34" tvg-name="SNL Vault US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Comedy",SNL Vault US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
+#EXTINF:-1 tvg-id="US1900012GD" tvg-name="The Conners - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1900012GD_20251110T235127SQUARE.png" group-title="Comedy",The Conners - Samsung
+https://jmp2.uk/stvp-US1900012GD
 #EXTINF:-1 tvg-id="US1800012MT" tvg-name="SNL Vault US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800012MT_20251125T030951SQUARE.png" group-title="Comedy",SNL Vault US - Samsung
 https://jmp2.uk/stvp-US1800012MT
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68e03664c63d8255360a2cd7" tvg-name="That Girl US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b38aaa6-5232-47c9-b139-da66586aee88/ThatGirl_Logo_ColorRDX.png" group-title="Comedy",That Girl US - PlexTV
@@ -2921,7 +2923,7 @@ https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-680ad9f73f3c406c06d7392b.m3u8
 #EXTINF:-1 tvg-id="DeathValleyDays(English).ca" tvg-name="Death Valley Days US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900007HA_20241210T013851SQUARE.png" group-title="Westerns",Death Valley Days US - Samsung
 https://jmp2.uk/stvp-US2900007HA
-#EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-name="FilmRise Westerns US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20250211T021706SQUARE.png" group-title="Westerns",FilmRise Westerns US - Samsung
+#EXTINF:-1 tvg-id="FilmRiseWestern.us" tvg-name="FilmRise Westerns US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20251125T191307SQUARE.png" group-title="Westerns",FilmRise Westerns US - Samsung
 https://jmp2.uk/stvp-USBB32000196O
 #EXTINF:-1 tvg-id="USBC24000213P" tvg-name="Grit Xtra US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20250616T221715SQUARE.png" group-title="Westerns",Grit Xtra US - Samsung
 https://jmp2.uk/stvp-USBC24000213P
@@ -3069,10 +3071,10 @@ https://tvpass.org/live/fanduel-sports-sun/sd
 https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 #EXTINF:-1 tvg-id="FanDuelTVExtra.us" tvg-name="FanDuel TV Extra US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2102b336-c77e-4f12-a447-a451f326beca/FDTV_EXTRA_AttributionWhite_RDX.png" group-title="Sports",FanDuel TV Extra US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e9f17c7511e20e999d6c34.m3u8
-#EXTINF:-1 tvg-id="690d0a3a1187b68782e27beb" tvg-name="MODUS Super Series Darts - PlutoTV" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="Sports",MODUS Super Series Darts - PlutoTV
-https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 tvg-id="FanDuelTVExtra.us" tvg-name="FanDuel TV Extra US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png" group-title="Sports",FanDuel TV Extra US - PlutoTV
 https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
+#EXTINF:-1 tvg-id="690d0a3a1187b68782e27beb" tvg-name="MODUS Super Series Darts - PlutoTV" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="Sports",MODUS Super Series Darts - PlutoTV
+https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 tvg-id="FanDuelTVExtra.us" tvg-name="FanDuel TV Extra US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png" group-title="Sports",FanDuel TV Extra US - Samsung
 https://jmp2.uk/stvp-US1400012RF
 #EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="FanDuel TV US - MoveOnJoy" tvg-logo="" group-title="Sports",FanDuel TV US - MoveOnJoy
@@ -3113,6 +3115,8 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel US - TVPass" tvg-logo="" group-title="Sports",Golf Channel US - TVPass
 https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" tvg-name="GolfPass US - PlexTV" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8305bd749cf0b0d63cffde46d8142a73.png" group-title="Sports",GolfPass US - PlexTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e.m3u8
 #EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-name="GolfPass US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png" group-title="Sports",GolfPass US - PlutoTV
 https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 #EXTINF:-1 tvg-id="USBB400000145" tvg-name="GolfPass US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png" group-title="Sports",GolfPass US - Samsung
@@ -3177,6 +3181,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6759a32270e41582b1b7a236.m3u8
 https://jmp2.uk/stvp-US300062TG
 #EXTINF:-1 tvg-id="NESNNATION.us" tvg-name="New England Sports Network US - TVPass" tvg-logo="" group-title="Sports",New England Sports Network US - TVPass
 https://tvpass.org/live/new-england-sports-network/sd
+#EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png" group-title="Sports",NFL Channel US - PlexTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel US - PlutoTV
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20251110T235116SQUARE.png" group-title="Sports",NFL Channel US - Samsung
@@ -3383,18 +3389,50 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atlanta Hawks @ Washington Wizards (11/25 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Atlanta Hawks @ Washington Wizards (11/25 7:10 PM ET) - TVPass
-https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orlando Magic @ Philadelphia 76ers (11/25 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Orlando Magic @ Philadelphia 76ers (11/25 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Clippers @ Los Angeles Lakers (11/25 11:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Los Angeles Clippers @ Los Angeles Lakers (11/25 11:10 PM ET) - TVPass
-https://tvpass.org/live/NBA28/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bowling Green Falcons @ UMass Minutemen (11/25 4:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Bowling Green Falcons @ UMass Minutemen (11/25 4:30 PM ET) - TVPass
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Western Michigan Broncos @ Eastern Michigan Eagles (11/25 7:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Western Michigan Broncos @ Eastern Michigan Eagles (11/25 7:30 PM ET) - TVPass
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Edmonton Oilers (11/25 9:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Edmonton Oilers (11/25 9:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Pistons @ Boston Celtics (11/26 5:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Detroit Pistons @ Boston Celtics (11/26 5:10 PM ET) - TVPass
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Knicks @ Charlotte Hornets (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",New York Knicks @ Charlotte Hornets (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NBA08/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milwaukee Bucks @ Miami Heat (11/26 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Milwaukee Bucks @ Miami Heat (11/26 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA16/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indiana Pacers @ Toronto Raptors (11/26 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Indiana Pacers @ Toronto Raptors (11/26 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA23/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memphis Grizzlies @ New Orleans Pelicans (11/26 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Memphis Grizzlies @ New Orleans Pelicans (11/26 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA15/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Antonio Spurs @ Portland Trail Blazers (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",San Antonio Spurs @ Portland Trail Blazers (11/26 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ Sacramento Kings (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ Sacramento Kings (11/26 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA18/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Winnipeg Jets @ Washington Capitals (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Winnipeg Jets @ Washington Capitals (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="St Louis Blues @ New Jersey Devils (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",St Louis Blues @ New Jersey Devils (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia Flyers @ Florida Panthers (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Philadelphia Flyers @ Florida Panthers (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nashville Predators @ Detroit Red Wings (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Nashville Predators @ Detroit Red Wings (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL12/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Maple Leafs @ Columbus Blue Jackets (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Toronto Maple Leafs @ Columbus Blue Jackets (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL19/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Rangers @ Carolina Hurricanes (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",New York Rangers @ Carolina Hurricanes (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL23/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calgary Flames @ Tampa Bay Lightning (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Calgary Flames @ Tampa Bay Lightning (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buffalo Sabres @ Pittsburgh Penguins (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Buffalo Sabres @ Pittsburgh Penguins (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Bruins @ New York Islanders (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Boston Bruins @ New York Islanders (11/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minnesota Wild @ Chicago Blackhawks (11/26 8:40 PM ET) - TVPass" tvg-logo="" group-title="NHL",Minnesota Wild @ Chicago Blackhawks (11/26 8:40 PM ET) - TVPass
+https://tvpass.org/live/NHL11/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Jose Sharks @ Colorado Avalanche (11/26 9:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",San Jose Sharks @ Colorado Avalanche (11/26 9:10 PM ET) - TVPass
+https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montréal Canadiens @ Utah Mammoth (11/26 9:40 PM ET) - TVPass" tvg-logo="" group-title="NHL",Montréal Canadiens @ Utah Mammoth (11/26 9:40 PM ET) - TVPass
+https://tvpass.org/live/NHL25/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vancouver Canucks @ Anaheim Ducks (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vancouver Canucks @ Anaheim Ducks (11/26 10:10 PM ET) - TVPass
+https://tvpass.org/live/NHL31/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Seattle Kraken (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Seattle Kraken (11/26 10:10 PM ET) - TVPass
 https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ottawa Senators @ Vegas Golden Knights (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Ottawa Senators @ Vegas Golden Knights (11/26 10:10 PM ET) - TVPass
+https://tvpass.org/live/NHL18/sd
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Season's Greetings",Crackling Fireplace US - PlutoTV
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Season's Greetings",Festive Fireplace US - PlutoTV
