@@ -351,7 +351,7 @@ https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000145C_20241210T013825SQUARE.png" group-title="Comedy",Comedy Dynamics US - Samsung
 https://jmp2.uk/stvp-USBD7000145C
-#EXTINF:-1 tvg-id="691cf0410a78a9ce61ad2121" tvg-name="America's Funniest Home Videos: Holiday Edition - PlutoTV" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG-1764176949336.png" group-title="Comedy",America's Funniest Home Videos: Holiday Edition - PlutoTV
+#EXTINF:-1 tvg-id="691cf0410a78a9ce61ad2121" tvg-name="America's Funniest Home Videos: Holiday Edition - PlutoTV" tvg-logo="https://images.pluto.tv/channels/691cf0410a78a9ce61ad2121/colorLogoPNG_1764219074507.png" group-title="Comedy",America's Funniest Home Videos: Holiday Edition - PlutoTV
 https://jmp2.uk/plu-691cf0410a78a9ce61ad2121.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV US - MoveOnJoy" tvg-logo="" group-title="Comedy",Comedy TV US - MoveOnJoy
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
@@ -3389,50 +3389,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Pistons @ Boston Celtics (11/26 5:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Detroit Pistons @ Boston Celtics (11/26 5:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Navy Midshipmen @ Memphis Tigers (11/27 7:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Navy Midshipmen @ Memphis Tigers (11/27 7:30 PM ET) - TVPass
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Knicks @ Charlotte Hornets (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",New York Knicks @ Charlotte Hornets (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NBA08/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milwaukee Bucks @ Miami Heat (11/26 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Milwaukee Bucks @ Miami Heat (11/26 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indiana Pacers @ Toronto Raptors (11/26 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Indiana Pacers @ Toronto Raptors (11/26 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA23/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memphis Grizzlies @ New Orleans Pelicans (11/26 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Memphis Grizzlies @ New Orleans Pelicans (11/26 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Antonio Spurs @ Portland Trail Blazers (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",San Antonio Spurs @ Portland Trail Blazers (11/26 10:10 PM ET) - TVPass
-https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ Sacramento Kings (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ Sacramento Kings (11/26 10:10 PM ET) - TVPass
-https://tvpass.org/live/NBA18/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Winnipeg Jets @ Washington Capitals (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Winnipeg Jets @ Washington Capitals (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL01/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="St Louis Blues @ New Jersey Devils (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",St Louis Blues @ New Jersey Devils (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL22/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia Flyers @ Florida Panthers (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Philadelphia Flyers @ Florida Panthers (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nashville Predators @ Detroit Red Wings (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Nashville Predators @ Detroit Red Wings (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL12/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Maple Leafs @ Columbus Blue Jackets (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Toronto Maple Leafs @ Columbus Blue Jackets (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL19/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Rangers @ Carolina Hurricanes (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",New York Rangers @ Carolina Hurricanes (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL23/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calgary Flames @ Tampa Bay Lightning (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Calgary Flames @ Tampa Bay Lightning (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buffalo Sabres @ Pittsburgh Penguins (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Buffalo Sabres @ Pittsburgh Penguins (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL17/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Bruins @ New York Islanders (11/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Boston Bruins @ New York Islanders (11/26 7:10 PM ET) - TVPass
-https://tvpass.org/live/NHL03/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minnesota Wild @ Chicago Blackhawks (11/26 8:40 PM ET) - TVPass" tvg-logo="" group-title="NHL",Minnesota Wild @ Chicago Blackhawks (11/26 8:40 PM ET) - TVPass
-https://tvpass.org/live/NHL11/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Jose Sharks @ Colorado Avalanche (11/26 9:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",San Jose Sharks @ Colorado Avalanche (11/26 9:10 PM ET) - TVPass
-https://tvpass.org/live/NHL14/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montréal Canadiens @ Utah Mammoth (11/26 9:40 PM ET) - TVPass" tvg-logo="" group-title="NHL",Montréal Canadiens @ Utah Mammoth (11/26 9:40 PM ET) - TVPass
-https://tvpass.org/live/NHL25/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vancouver Canucks @ Anaheim Ducks (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vancouver Canucks @ Anaheim Ducks (11/26 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL31/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Seattle Kraken (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Seattle Kraken (11/26 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL27/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ottawa Senators @ Vegas Golden Knights (11/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Ottawa Senators @ Vegas Golden Knights (11/26 10:10 PM ET) - TVPass
-https://tvpass.org/live/NHL18/sd
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Season's Greetings",Crackling Fireplace US - PlutoTV
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Season's Greetings",Festive Fireplace US - PlutoTV
@@ -3491,3 +3449,9 @@ https://jmp2.uk/stvp-USAJ3400014LK
 https://jmp2.uk/stvp-US3800007CR
 #EXTINF:-1 tvg-id="USBC2100008DP" tvg-name="Xplore - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240520T214902SQUARE.png" group-title="Nature History & Science",Xplore - Samsung
 https://jmp2.uk/stvp-USBC2100008DP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Green Bay Packers @ Detroit Lions (11/27 1:00 PM ET) - TVPass" tvg-logo="" group-title="NFL",Green Bay Packers @ Detroit Lions (11/27 1:00 PM ET) - TVPass
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kansas City Chiefs @ Dallas Cowboys (11/27 4:30 PM ET) - TVPass" tvg-logo="" group-title="NFL",Kansas City Chiefs @ Dallas Cowboys (11/27 4:30 PM ET) - TVPass
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cincinnati Bengals @ Baltimore Ravens (11/27 8:20 PM ET) - TVPass" tvg-logo="" group-title="NFL",Cincinnati Bengals @ Baltimore Ravens (11/27 8:20 PM ET) - TVPass
+https://tvpass.org/live/WNBCDT1/sd
