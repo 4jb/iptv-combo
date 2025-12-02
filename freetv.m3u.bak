@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/x79znkwx9wa4j3zdngk2"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE Survivor Series WarGames 2025 (11/29 7:00 PM ET) - TVPass" tvg-logo="" group-title="PPV",WWE Survivor Series WarGames 2025 (11/29 7:00 PM ET) - TVPass
+https://tvpass.org/live/PPV01/sd
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" tvg-name="50 Cent Action US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="Action",50 Cent Action US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55.m3u8
 #EXTINF:-1 tvg-id="US35000201T" tvg-name="Acorn TV Mysteries - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20251110T235039SQUARE.png" group-title="Action",Acorn TV Mysteries - Samsung
@@ -3059,6 +3061,8 @@ https://tvpass.org/live/fanduel-sports-network-west/sd
 https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheastOutofMarket.us" tvg-name="Fanduel Sports Southeast Georgia US - TVPass" tvg-logo="" group-title="Sports",Fanduel Sports Southeast Georgia US - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+#EXTINF:-1 tvg-id="6903f5e3b573e6b45cbf5508" tvg-name="FanDuel Sports Network NOW - PlutoTV" tvg-logo="https://images.pluto.tv/channels/6903f5e3b573e6b45cbf5508/colorLogoPNG_1762283503707.png" group-title="Sports",FanDuel Sports Network NOW - PlutoTV
+https://jmp2.uk/plu-6903f5e3b573e6b45cbf5508.m3u8
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheastOutofMarket.us" tvg-name="Fanduel Sports Southeast North Carolina US - TVPass" tvg-logo="" group-title="Sports",Fanduel Sports Southeast North Carolina US - TVPass
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
 #EXTINF:-1 tvg-id="FanDuelSportsNetworkSoutheastOutofMarket.us" tvg-name="Fanduel Sports Southeast South Carolina US - TVPass" tvg-logo="" group-title="Sports",Fanduel Sports Southeast South Carolina US - TVPass
@@ -3073,10 +3077,10 @@ https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64e9f17c7511e20e999d6c34.m3u8
 #EXTINF:-1 tvg-id="FanDuelTVExtra.us" tvg-name="FanDuel TV Extra US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png" group-title="Sports",FanDuel TV Extra US - PlutoTV
 https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
-#EXTINF:-1 tvg-id="690d0a3a1187b68782e27beb" tvg-name="MODUS Super Series Darts - PlutoTV" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="Sports",MODUS Super Series Darts - PlutoTV
-https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 tvg-id="FanDuelTVExtra.us" tvg-name="FanDuel TV Extra US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png" group-title="Sports",FanDuel TV Extra US - Samsung
 https://jmp2.uk/stvp-US1400012RF
+#EXTINF:-1 tvg-id="690d0a3a1187b68782e27beb" tvg-name="MODUS Super Series Darts - PlutoTV" tvg-logo="https://images.pluto.tv/channels/690d0a3a1187b68782e27beb/colorLogoPNG_1763658709514.png" group-title="Sports",MODUS Super Series Darts - PlutoTV
+https://jmp2.uk/plu-690d0a3a1187b68782e27beb.m3u8
 #EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="FanDuel TV US - MoveOnJoy" tvg-logo="" group-title="Sports",FanDuel TV US - MoveOnJoy
 https://fl1.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 tvg-id="FIFAplus.us" tvg-name="FIFA+ US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6281ae4b-8ce7-45ea-a431-524ca3104d3f/FIFA__Logo_Rectangle_1500x1000_WHT.png" group-title="Sports",FIFA+ US - PlexTV
@@ -3389,82 +3393,110 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia 76ers @ Brooklyn Nets (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Philadelphia 76ers @ Brooklyn Nets (11/28 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA07/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milwaukee Bucks @ New York Knicks (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Milwaukee Bucks @ New York Knicks (11/28 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA16/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Washington Wizards @ Indiana Pacers (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Washington Wizards @ Indiana Pacers (11/28 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA20/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orlando Magic @ Detroit Pistons (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Orlando Magic @ Detroit Pistons (11/28 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Bulls @ Charlotte Hornets (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Chicago Bulls @ Charlotte Hornets (11/28 7:40 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Celtics @ Minnesota Timberwolves (11/29 5:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Boston Celtics @ Minnesota Timberwolves (11/29 5:10 PM ET) - TVPass
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Raptors @ Charlotte Hornets (11/29 6:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Toronto Raptors @ Charlotte Hornets (11/29 6:10 PM ET) - TVPass
+https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Bulls @ Indiana Pacers (11/29 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Chicago Bulls @ Indiana Pacers (11/29 7:40 PM ET) - TVPass
 https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cleveland Cavaliers @ Atlanta Hawks (11/28 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Cleveland Cavaliers @ Atlanta Hawks (11/28 7:40 PM ET) - TVPass
-https://tvpass.org/live/NBA19/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sacramento Kings @ Utah Jazz (11/28 9:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Sacramento Kings @ Utah Jazz (11/28 9:40 PM ET) - TVPass
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ Oklahoma City Thunder (11/28 9:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ Oklahoma City Thunder (11/28 9:40 PM ET) - TVPass
-https://tvpass.org/live/NBA18/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Antonio Spurs @ Denver Nuggets (11/28 9:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",San Antonio Spurs @ Denver Nuggets (11/28 9:40 PM ET) - TVPass
-https://tvpass.org/live/NBA09/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memphis Grizzlies @ Los Angeles Clippers (11/28 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Memphis Grizzlies @ Los Angeles Clippers (11/28 10:10 PM ET) - TVPass
-https://tvpass.org/live/NBA15/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Mavericks @ Los Angeles Lakers (11/28 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Dallas Mavericks @ Los Angeles Lakers (11/28 10:10 PM ET) - TVPass
-https://tvpass.org/live/NBA12/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ohio Bobcats @ Buffalo Bulls (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Ohio Bobcats @ Buffalo Bulls (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iowa Hawkeyes @ Nebraska Cornhuskers (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Iowa Hawkeyes @ Nebraska Cornhuskers (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utah Utes @ Kansas Jayhawks (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Utah Utes @ Kansas Jayhawks (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ole Miss Rebels @ Mississippi State Bulldogs (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Ole Miss Rebels @ Mississippi State Bulldogs (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kent State Golden Flashes @ Northern Illinois Huskies (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Kent State Golden Flashes @ Northern Illinois Huskies (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Air Force Falcons @ Colorado State Rams (11/28 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Air Force Falcons @ Colorado State Rams (11/28 3:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brooklyn Nets @ Milwaukee Bucks (11/29 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Brooklyn Nets @ Milwaukee Bucks (11/29 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA24/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Pistons @ Miami Heat (11/29 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Detroit Pistons @ Miami Heat (11/29 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Denver Nuggets @ Phoenix Suns (11/29 9:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Denver Nuggets @ Phoenix Suns (11/29 9:10 PM ET) - TVPass
+https://tvpass.org/live/NBA26/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Mavericks @ Los Angeles Clippers (11/29 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Dallas Mavericks @ Los Angeles Clippers (11/29 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA28/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorado Buffaloes @ Kansas State Wildcats (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Colorado Buffaloes @ Kansas State Wildcats (11/29 12:00 PM ET) - TVPass
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indiana Hoosiers @ Purdue Boilermakers (11/28 7:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Indiana Hoosiers @ Purdue Boilermakers (11/28 7:30 PM ET) - TVPass
-https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arizona Wildcats @ Arizona State Sun Devils (11/28 9:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Arizona Wildcats @ Arizona State Sun Devils (11/28 9:00 PM ET) - TVPass
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Bears @ Philadelphia Eagles (11/28 3:00 PM ET) - TVPass" tvg-logo="" group-title="NFL",Chicago Bears @ Philadelphia Eagles (11/28 3:00 PM ET) - TVPass
-https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tampa Bay Lightning @ Detroit Red Wings (11/28 12:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Tampa Bay Lightning @ Detroit Red Wings (11/28 12:00 PM ET) - TVPass
-https://tvpass.org/live/NHL08/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Rangers @ Boston Bruins (11/28 1:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",New York Rangers @ Boston Bruins (11/28 1:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clemson Tigers @ South Carolina Gamecocks (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Clemson Tigers @ South Carolina Gamecocks (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toledo Rockets @ Central Michigan Chippewas (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Toledo Rockets @ Central Michigan Chippewas (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF01/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Houston Cougars @ Baylor Bears (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Houston Cougars @ Baylor Bears (11/29 12:00 PM ET) - TVPass
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorado Avalanche @ Minnesota Wild (11/28 3:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",Colorado Avalanche @ Minnesota Wild (11/28 3:30 PM ET) - TVPass
-https://tvpass.org/live/NHL13/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia Flyers @ New York Islanders (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Philadelphia Flyers @ New York Islanders (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL21/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vancouver Canucks @ San Jose Sharks (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vancouver Canucks @ San Jose Sharks (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL31/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ottawa Senators @ St Louis Blues (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Ottawa Senators @ St Louis Blues (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL18/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montréal Canadiens @ Vegas Golden Knights (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Montréal Canadiens @ Vegas Golden Knights (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL28/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calgary Flames @ Florida Panthers (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Calgary Flames @ Florida Panthers (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Jersey Devils @ Buffalo Sabres (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",New Jersey Devils @ Buffalo Sabres (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Kings @ Anaheim Ducks (11/28 4:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Los Angeles Kings @ Anaheim Ducks (11/28 4:00 PM ET) - TVPass
-https://tvpass.org/live/NHL29/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Winnipeg Jets @ Carolina Hurricanes (11/28 5:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Winnipeg Jets @ Carolina Hurricanes (11/28 5:00 PM ET) - TVPass
-https://tvpass.org/live/NHL01/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Maple Leafs @ Washington Capitals (11/28 5:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Toronto Maple Leafs @ Washington Capitals (11/28 5:00 PM ET) - TVPass
-https://tvpass.org/live/NHL19/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pittsburgh Penguins @ Columbus Blue Jackets (11/28 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Pittsburgh Penguins @ Columbus Blue Jackets (11/28 7:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ball State Cardinals @ Miami (OH) RedHawks (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Ball State Cardinals @ Miami (OH) RedHawks (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="East Carolina Pirates @ Florida Atlantic Owls (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",East Carolina Pirates @ Florida Atlantic Owls (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF02/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iowa State Cyclones @ Oklahoma State Cowboys (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Iowa State Cyclones @ Oklahoma State Cowboys (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kentucky Wildcats @ Louisville Cardinals (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Kentucky Wildcats @ Louisville Cardinals (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miami Hurricanes @ Pittsburgh Panthers (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Miami Hurricanes @ Pittsburgh Panthers (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/WABCDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ohio State Buckeyes @ Michigan Wolverines (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Ohio State Buckeyes @ Michigan Wolverines (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Texas Tech Red Raiders @ West Virginia Mountaineers (11/29 12:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Texas Tech Red Raiders @ West Virginia Mountaineers (11/29 12:00 PM ET) - TVPass
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCF Knights @ BYU Cougars (11/29 1:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",UCF Knights @ BYU Cougars (11/29 1:00 PM ET) - TVPass
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTEP Miners @ Delaware Blue Hens (11/29 1:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",UTEP Miners @ Delaware Blue Hens (11/29 1:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF03/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Florida International Panthers @ Sam Houston State Bearkats (11/29 1:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Florida International Panthers @ Sam Houston State Bearkats (11/29 1:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF04/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Georgia Southern Eagles @ Marshall Thundering Herd (11/29 1:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Georgia Southern Eagles @ Marshall Thundering Herd (11/29 1:30 PM ET) - TVPass
+https://tvpass.org/live/NCAAF05/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Georgia State Panthers @ Old Dominion Monarchs (11/29 2:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Georgia State Panthers @ Old Dominion Monarchs (11/29 2:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF06/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Western Kentucky Hilltoppers @ Jacksonville State Gamecocks (11/29 2:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Western Kentucky Hilltoppers @ Jacksonville State Gamecocks (11/29 2:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF07/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Louisiana Tech Bulldogs @ Missouri State Bears (11/29 2:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Louisiana Tech Bulldogs @ Missouri State Bears (11/29 2:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF08/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arkansas State Red Wolves @ Appalachian State Mountaineers (11/29 2:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Arkansas State Red Wolves @ Appalachian State Mountaineers (11/29 2:30 PM ET) - TVPass
+https://tvpass.org/live/NCAAF09/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Alabama Jaguars @ Texas State Bobcats (11/29 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",South Alabama Jaguars @ Texas State Bobcats (11/29 3:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF12/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston College Eagles @ Syracuse Orange (11/29 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Boston College Eagles @ Syracuse Orange (11/29 3:00 PM ET) - TVPass
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UL Monroe Warhawks @ Louisiana Ragin Cajuns (11/29 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",UL Monroe Warhawks @ Louisiana Ragin Cajuns (11/29 3:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF10/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Middle Tennessee Blue Raiders @ New Mexico State Aggies (11/29 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Middle Tennessee Blue Raiders @ New Mexico State Aggies (11/29 3:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF11/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UAB Blazers @ Tulsa Golden Hurricane (11/29 3:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",UAB Blazers @ Tulsa Golden Hurricane (11/29 3:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF13/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Troy Trojans @ Southern Mississippi Golden Eagles (11/29 3:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Troy Trojans @ Southern Mississippi Golden Eagles (11/29 3:30 PM ET) - TVPass
+https://tvpass.org/live/NCAAF15/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Penn State Nittany Lions @ Rutgers Scarlet Knights (11/29 3:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Penn State Nittany Lions @ Rutgers Scarlet Knights (11/29 3:30 PM ET) - TVPass
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oregon Ducks @ Washington Huskies (11/29 3:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Oregon Ducks @ Washington Huskies (11/29 3:30 PM ET) - TVPass
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Army Black Knights @ UTSA Roadrunners (11/29 3:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Army Black Knights @ UTSA Roadrunners (11/29 3:30 PM ET) - TVPass
+https://tvpass.org/live/NCAAF14/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rice Owls @ South Florida Bulls (11/29 7:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Rice Owls @ South Florida Bulls (11/29 7:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF16/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UCLA Bruins @ USC Trojans (11/29 7:30 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",UCLA Bruins @ USC Trojans (11/29 7:30 PM ET) - TVPass
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wyoming Cowboys @ Hawaii Rainbow Warriors (11/29 11:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Wyoming Cowboys @ Hawaii Rainbow Warriors (11/29 11:00 PM ET) - TVPass
+https://tvpass.org/live/NCAAF17/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tampa Bay Lightning @ New York Rangers (11/29 2:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Tampa Bay Lightning @ New York Rangers (11/29 2:10 PM ET) - TVPass
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utah Mammoth @ Dallas Stars (11/28 8:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Utah Mammoth @ Dallas Stars (11/28 8:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montréal Canadiens @ Colorado Avalanche (11/29 3:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Montréal Canadiens @ Colorado Avalanche (11/29 3:10 PM ET) - TVPass
+https://tvpass.org/live/NHL13/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edmonton Oilers @ Seattle Kraken (11/29 4:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Edmonton Oilers @ Seattle Kraken (11/29 4:10 PM ET) - TVPass
+https://tvpass.org/live/NHL15/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia Flyers @ New Jersey Devils (11/29 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Philadelphia Flyers @ New Jersey Devils (11/29 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL21/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Winnipeg Jets @ Nashville Predators (11/29 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Winnipeg Jets @ Nashville Predators (11/29 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL01/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Red Wings @ Boston Bruins (11/29 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Detroit Red Wings @ Boston Bruins (11/29 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL06/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utah Mammoth @ St Louis Blues (11/29 8:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Utah Mammoth @ St Louis Blues (11/29 8:10 PM ET) - TVPass
 https://tvpass.org/live/NHL25/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nashville Predators @ Chicago Blackhawks (11/28 8:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Nashville Predators @ Chicago Blackhawks (11/28 8:00 PM ET) - TVPass
-https://tvpass.org/live/NHL12/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buffalo Sabres @ Minnesota Wild (11/29 8:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Buffalo Sabres @ Minnesota Wild (11/29 8:10 PM ET) - TVPass
+https://tvpass.org/live/NHL17/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Jose Sharks @ Vegas Golden Knights (11/29 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",San Jose Sharks @ Vegas Golden Knights (11/29 10:10 PM ET) - TVPass
+https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vancouver Canucks @ Los Angeles Kings (11/29 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vancouver Canucks @ Los Angeles Kings (11/29 10:10 PM ET) - TVPass
+https://tvpass.org/live/NHL31/sd
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Season's Greetings",Crackling Fireplace US - PlutoTV
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Season's Greetings",Festive Fireplace US - PlutoTV
 https://jmp2.uk/plu-614501c653ceee000772b0ca.m3u8
 #EXTINF:-1 tvg-id="5d9ccd538661290009ecbdb7" tvg-name="Pluto TV Mistletoe - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1762555055191.png" group-title="Season's Greetings",Pluto TV Mistletoe - PlutoTV
 https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
+#EXTINF:-1 tvg-id="68ed86f1fae18f8db6e4bcf9" tvg-name="FanDuel Sports Network NOW - PlutoTV" tvg-logo="https://images.pluto.tv/channels/68ed86f1fae18f8db6e4bcf9/colorLogoPNG_1761081450863.png" group-title="Live Sports",FanDuel Sports Network NOW - PlutoTV
+https://jmp2.uk/plu-68ed86f1fae18f8db6e4bcf9.m3u8
 #EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="BBC Earth - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png" group-title="Nature History & Science",BBC Earth - Samsung
 https://jmp2.uk/stvp-USBD1700001RW
 #EXTINF:-1 tvg-id="US2100010AB" tvg-name="Brave Wilderness - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2100010AB_20251110T235049SQUARE.png" group-title="Nature History & Science",Brave Wilderness - Samsung
