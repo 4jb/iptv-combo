@@ -3383,16 +3383,40 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ Oklahoma City Thunder (12/10 7:30 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ Oklahoma City Thunder (12/10 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Clippers @ Houston Rockets (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Los Angeles Clippers @ Houston Rockets (12/11 8:10 PM ET) - TVPass
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Antonio Spurs @ Los Angeles Lakers (12/10 10:00 PM ET) - TVPass" tvg-logo="" group-title="NBA",San Antonio Spurs @ Los Angeles Lakers (12/10 10:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Portland Trail Blazers @ New Orleans Pelicans (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Portland Trail Blazers @ New Orleans Pelicans (12/11 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Celtics @ Milwaukee Bucks (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Boston Celtics @ Milwaukee Bucks (12/11 8:10 PM ET) - TVPass
 https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New York Rangers @ Chicago Blackhawks (12/10 7:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",New York Rangers @ Chicago Blackhawks (12/10 7:30 PM ET) - TVPass
-https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Red Wings @ Calgary Flames (12/10 8:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",Detroit Red Wings @ Calgary Flames (12/10 8:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Denver Nuggets @ Sacramento Kings (12/11 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Denver Nuggets @ Sacramento Kings (12/11 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atlanta Falcons @ Tampa Bay Buccaneers (12/11 8:15 PM ET) - TVPass" tvg-logo="" group-title="NFL",Atlanta Falcons @ Tampa Bay Buccaneers (12/11 8:15 PM ET) - TVPass
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anaheim Ducks @ New York Islanders (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Anaheim Ducks @ New York Islanders (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL24/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carolina Hurricanes @ Washington Capitals (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Carolina Hurricanes @ Washington Capitals (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL04/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ottawa Senators @ Columbus Blue Jackets (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Ottawa Senators @ Columbus Blue Jackets (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Montréal Canadiens @ Pittsburgh Penguins (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Montréal Canadiens @ Pittsburgh Penguins (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL10/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tampa Bay Lightning @ New Jersey Devils (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Tampa Bay Lightning @ New Jersey Devils (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL08/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vegas Golden Knights @ Philadelphia Flyers (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vegas Golden Knights @ Philadelphia Flyers (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Jose Sharks @ Toronto Maple Leafs (12/11 7:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",San Jose Sharks @ Toronto Maple Leafs (12/11 7:10 PM ET) - TVPass
+https://tvpass.org/live/NHL14/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="St Louis Blues @ Nashville Predators (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",St Louis Blues @ Nashville Predators (12/11 8:10 PM ET) - TVPass
+https://tvpass.org/live/NHL22/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Minnesota Wild (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Minnesota Wild (12/11 8:10 PM ET) - TVPass
+https://tvpass.org/live/NHL27/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Bruins @ Winnipeg Jets (12/11 8:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Boston Bruins @ Winnipeg Jets (12/11 8:10 PM ET) - TVPass
+https://tvpass.org/live/NHL03/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Red Wings @ Edmonton Oilers (12/11 9:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Detroit Red Wings @ Edmonton Oilers (12/11 9:10 PM ET) - TVPass
 https://tvpass.org/live/NHL06/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Florida Panthers @ Utah Mammoth (12/10 9:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Florida Panthers @ Utah Mammoth (12/10 9:00 PM ET) - TVPass
-https://tvpass.org/live/NHL07/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buffalo Sabres @ Vancouver Canucks (12/11 10:10 PM ET) - TVPass" tvg-logo="" group-title="NHL",Buffalo Sabres @ Vancouver Canucks (12/11 10:10 PM ET) - TVPass
+https://tvpass.org/live/NHL17/sd
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Season's Greetings",Crackling Fireplace US - PlutoTV
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Season's Greetings",Festive Fireplace US - PlutoTV
