@@ -3105,6 +3105,8 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://fl1.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel US - TVPass" tvg-logo="" group-title="Sports",Golf Channel US - TVPass
 https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e" tvg-name="GolfPass US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8639a81b-d79c-4a70-8034-26edfb0e13bc/golfpass-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="Sports",GolfPass US - PlexTV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc706038aba71002d8b7c8e.m3u8
 #EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-name="GolfPass US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG_1766432879705.png" group-title="Sports",GolfPass US - PlutoTV
 https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 #EXTINF:-1 tvg-id="USBB400000145" tvg-name="GolfPass US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20251209T005933SQUARE.png" group-title="Sports",GolfPass US - Samsung
@@ -3375,10 +3377,26 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cleveland Cavaliers @ New York Knicks (12/25 12:00 PM ET) - TVPass" tvg-logo="" group-title="NBA",Cleveland Cavaliers @ New York Knicks (12/25 12:00 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miami Heat @ Atlanta Hawks (12/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Miami Heat @ Atlanta Hawks (12/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NBA01/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Celtics @ Indiana Pacers (12/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Boston Celtics @ Indiana Pacers (12/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Charlotte Hornets @ Orlando Magic (12/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Charlotte Hornets @ Orlando Magic (12/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NBA02/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Raptors @ Washington Wizards (12/26 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Toronto Raptors @ Washington Wizards (12/26 7:10 PM ET) - TVPass
+https://tvpass.org/live/NBA03/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Philadelphia 76ers @ Chicago Bulls (12/26 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Philadelphia 76ers @ Chicago Bulls (12/26 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA05/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ New Orleans Pelicans (12/26 8:00 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ New Orleans Pelicans (12/26 8:00 PM ET) - TVPass
+https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milwaukee Bucks @ Memphis Grizzlies (12/26 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Milwaukee Bucks @ Memphis Grizzlies (12/26 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA06/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detroit Pistons @ Utah Jazz (12/26 9:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Detroit Pistons @ Utah Jazz (12/26 9:40 PM ET) - TVPass
+https://tvpass.org/live/NBA08/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Clippers @ Portland Trail Blazers (12/26 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Los Angeles Clippers @ Portland Trail Blazers (12/26 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Central Michigan Chippewas @ Northwestern Wildcats (12/26 1:00 PM ET) - TVPass" tvg-logo="" group-title="NCAAF",Central Michigan Chippewas @ Northwestern Wildcats (12/26 1:00 PM ET) - TVPass
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Cowboys @ Washington Commanders (12/25 1:00 PM ET) - TVPass" tvg-logo="" group-title="NFL",Dallas Cowboys @ Washington Commanders (12/25 1:00 PM ET) - TVPass
-https://tvpass.org/live/tsn1/sd
 #EXTINF:-1 tvg-id="5bf48085851dd5632e2f7b4d" tvg-name="Crackling Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/5bf48085851dd5632e2f7b4d/colorLogoPNG.png" group-title="Season's Greetings",Crackling Fireplace US - PlutoTV
 https://jmp2.uk/plu-5bf48085851dd5632e2f7b4d.m3u8
 #EXTINF:-1 tvg-id="614501c653ceee000772b0ca" tvg-name="Festive Fireplace US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Season's Greetings",Festive Fireplace US - PlutoTV
