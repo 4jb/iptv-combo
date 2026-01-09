@@ -2107,8 +2107,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder US - PlexTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-title="Nature & Travel",Wonder US - PlexTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d.m3u8
-#EXTINF:-1 tvg-id="62cdca1cda044a00077b903d" tvg-name="CBS News Philadelphia US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/62cdca1cda044a00077b903d/colorLogoPNG.png" group-title="News",CBS News Philadelphia US - PlutoTV
-https://jmp2.uk/plu-62cdca1cda044a00077b903d.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live US - PlutoTV" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News",ABC News Live US - PlutoTV
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live US - Samsung" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="News",ABC News Live US - Samsung
@@ -3345,38 +3343,36 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b0af6097cf9742e13391a5.m3u8
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network US - TVPass" tvg-logo="" group-title="Sports",Yes Network US - TVPass
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cleveland Cavaliers @ Indiana Pacers (01/06 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Cleveland Cavaliers @ Indiana Pacers (01/06 7:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toronto Raptors @ Charlotte Hornets (01/07 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Toronto Raptors @ Charlotte Hornets (01/07 7:10 PM ET) - TVPass
 https://tvpass.org/live/NBA01/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orlando Magic @ Washington Wizards (01/06 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Orlando Magic @ Washington Wizards (01/06 7:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Bulls @ Detroit Pistons (01/07 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Chicago Bulls @ Detroit Pistons (01/07 7:10 PM ET) - TVPass
 https://tvpass.org/live/NBA03/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Lakers @ New Orleans Pelicans (01/06 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Los Angeles Lakers @ New Orleans Pelicans (01/06 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA04/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Antonio Spurs @ Memphis Grizzlies (01/06 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",San Antonio Spurs @ Memphis Grizzlies (01/06 8:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Washington Wizards @ Philadelphia 76ers (01/07 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Washington Wizards @ Philadelphia 76ers (01/07 7:10 PM ET) - TVPass
 https://tvpass.org/live/NBA02/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Miami Heat @ Minnesota Timberwolves (01/06 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Miami Heat @ Minnesota Timberwolves (01/06 8:10 PM ET) - TVPass
-https://tvpass.org/live/NBA05/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Mavericks @ Sacramento Kings (01/06 11:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Dallas Mavericks @ Sacramento Kings (01/06 11:10 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Denver Nuggets @ Boston Celtics (01/07 7:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Denver Nuggets @ Boston Celtics (01/07 7:10 PM ET) - TVPass
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Orleans Pelicans @ Atlanta Hawks (01/07 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",New Orleans Pelicans @ Atlanta Hawks (01/07 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA04/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orlando Magic @ Brooklyn Nets (01/07 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Orlando Magic @ Brooklyn Nets (01/07 7:40 PM ET) - TVPass
 https://tvpass.org/live/NBA06/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anaheim Ducks @ Philadelphia Flyers (01/06 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Anaheim Ducks @ Philadelphia Flyers (01/06 7:00 PM ET) - TVPass
-https://tvpass.org/live/NHL24/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vancouver Canucks @ Buffalo Sabres (01/06 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vancouver Canucks @ Buffalo Sabres (01/06 7:00 PM ET) - TVPass
-https://tvpass.org/live/NHL31/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Carolina Hurricanes (01/06 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Carolina Hurricanes (01/06 7:00 PM ET) - TVPass
-https://tvpass.org/live/NHL27/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colorado Avalanche @ Tampa Bay Lightning (01/06 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Colorado Avalanche @ Tampa Bay Lightning (01/06 7:00 PM ET) - TVPass
-https://tvpass.org/live/NHL13/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Florida Panthers @ Toronto Maple Leafs (01/06 7:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",Florida Panthers @ Toronto Maple Leafs (01/06 7:30 PM ET) - TVPass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Los Angeles Clippers @ New York Knicks (01/07 7:40 PM ET) - TVPass" tvg-logo="" group-title="NBA",Los Angeles Clippers @ New York Knicks (01/07 7:40 PM ET) - TVPass
+https://tvpass.org/live/NBA07/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utah Jazz @ Oklahoma City Thunder (01/07 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Utah Jazz @ Oklahoma City Thunder (01/07 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA09/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Phoenix Suns @ Memphis Grizzlies (01/07 8:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Phoenix Suns @ Memphis Grizzlies (01/07 8:10 PM ET) - TVPass
+https://tvpass.org/live/NBA08/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Milwaukee Bucks @ Golden State Warriors (01/07 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Milwaukee Bucks @ Golden State Warriors (01/07 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA11/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Houston Rockets @ Portland Trail Blazers (01/07 10:10 PM ET) - TVPass" tvg-logo="" group-title="NBA",Houston Rockets @ Portland Trail Blazers (01/07 10:10 PM ET) - TVPass
+https://tvpass.org/live/NBA12/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dallas Stars @ Washington Capitals (01/07 7:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Dallas Stars @ Washington Capitals (01/07 7:00 PM ET) - TVPass
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Jersey Devils @ New York Islanders (01/06 7:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",New Jersey Devils @ New York Islanders (01/06 7:30 PM ET) - TVPass
-https://tvpass.org/live/NHL26/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vegas Golden Knights @ Winnipeg Jets (01/06 8:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Vegas Golden Knights @ Winnipeg Jets (01/06 8:00 PM ET) - TVPass
-https://tvpass.org/live/NHL28/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nashville Predators @ Edmonton Oilers (01/06 9:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Nashville Predators @ Edmonton Oilers (01/06 9:00 PM ET) - TVPass
-https://tvpass.org/live/NHL12/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Bruins @ Seattle Kraken (01/06 10:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Boston Bruins @ Seattle Kraken (01/06 10:00 PM ET) - TVPass
-https://tvpass.org/live/NHL03/sd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Columbus Blue Jackets @ San Jose Sharks (01/06 10:00 PM ET) - TVPass" tvg-logo="" group-title="NHL",Columbus Blue Jackets @ San Jose Sharks (01/06 10:00 PM ET) - TVPass
-https://tvpass.org/live/NHL20/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calgary Flames @ Montréal Canadiens (01/07 7:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",Calgary Flames @ Montréal Canadiens (01/07 7:30 PM ET) - TVPass
+https://tvpass.org/live/NHL02/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ottawa Senators @ Utah Mammoth (01/07 9:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",Ottawa Senators @ Utah Mammoth (01/07 9:30 PM ET) - TVPass
+https://tvpass.org/live/NHL18/sd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Jose Sharks @ Los Angeles Kings (01/07 10:30 PM ET) - TVPass" tvg-logo="" group-title="NHL",San Jose Sharks @ Los Angeles Kings (01/07 10:30 PM ET) - TVPass
+https://tvpass.org/live/NHL14/sd
 #EXTINF:-1 tvg-id="WLSDT1.us@SD" tvg-name="ABC Chicago WLS-DT1 - MoveOnJoy" tvg-logo="" group-title="MoveOnJoy",ABC Chicago WLS-DT1 - MoveOnJoy
 https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WBBMDT1.us@SD" tvg-name="CBS Chicago WBBM-DT1 - MoveOnJoy" tvg-logo="" group-title="MoveOnJoy",CBS Chicago WBBM-DT1 - MoveOnJoy
