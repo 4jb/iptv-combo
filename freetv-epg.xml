@@ -290,8 +290,8 @@
 <display-name>Hallmark Family HD US -  TVPass</display-name>
 </channel>
 <channel id="HallmarkMystery.us">
-<display-name>Hallmark Mystery East HD US - TVPass</display-name>
 <display-name>Hallmark Movies Mysteries East US - MoveOnJoy</display-name>
+<display-name>Hallmark Mystery East HD US - TVPass</display-name>
 </channel>
 <channel id="HBO(East).us">
 <display-name>HBO East US - TVPass</display-name>
@@ -47721,54 +47721,6 @@
 <title lang="en">Follow the Money</title>
 <desc lang="en">Mitch Moss and Paul Howard share their knowledge of pop culture, sports, and gambling.</desc>
 </programme>
-<programme start="20260110000000 +0000" stop="20260110040000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260110040000 +0000" stop="20260110080000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260110080000 +0000" stop="20260110120000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260110120000 +0000" stop="20260110160000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260110160000 +0000" stop="20260110200000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260110200000 +0000" stop="20260111000000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111000000 +0000" stop="20260111040000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111040000 +0000" stop="20260111080000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111080000 +0000" stop="20260111120000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111120000 +0000" stop="20260111160000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111160000 +0000" stop="20260111200000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
-<programme start="20260111200000 +0000" stop="20260112000000 +0000" channel="MATVNATIONAL.uk">
-<title lang="en-GB">MATV National</title>
-<desc lang="en-GB">Bringing the best in entertainment.</desc>
-</programme>
 <programme start="20260112000000 +0000" stop="20260112040000 +0000" channel="MATVNATIONAL.uk">
 <title lang="en-GB">MATV National</title>
 <desc lang="en-GB">Bringing the best in entertainment.</desc>
@@ -47814,6 +47766,54 @@
 <desc lang="en-GB">Bringing the best in entertainment.</desc>
 </programme>
 <programme start="20260113200000 +0000" stop="20260114000000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114000000 +0000" stop="20260114040000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114040000 +0000" stop="20260114080000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114080000 +0000" stop="20260114120000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114120000 +0000" stop="20260114160000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114160000 +0000" stop="20260114200000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260114200000 +0000" stop="20260115000000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115000000 +0000" stop="20260115040000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115040000 +0000" stop="20260115080000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115080000 +0000" stop="20260115120000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115120000 +0000" stop="20260115160000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115160000 +0000" stop="20260115200000 +0000" channel="MATVNATIONAL.uk">
+<title lang="en-GB">MATV National</title>
+<desc lang="en-GB">Bringing the best in entertainment.</desc>
+</programme>
+<programme start="20260115200000 +0000" stop="20260116000000 +0000" channel="MATVNATIONAL.uk">
 <title lang="en-GB">MATV National</title>
 <desc lang="en-GB">Bringing the best in entertainment.</desc>
 </programme>
@@ -63005,509 +63005,6 @@
 <title lang="en">Jack Reacher</title>
 <desc lang="en">One morning in an ordinary town, five people are shot dead in a seemingly random attack; all evidence points to a single suspect: an ex-military sniper who is quickly brought into custody; Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney.. However, the more Reacher delves into the case, the less clear-cut it appears.</desc>
 </programme>
-<programme start="20260111001500 +0000" stop="20260111004000 +0000" channel="PopTV(src01).si">
-<title lang="">Prijatelji</title>
-<desc lang="">Monica in Chandler se živčno pripravljata na prihod delavke Laure iz agencije za posvojitve. Ta bo odločila, ali bosta primerna starša. Na žalost je Laura pred časom imela kratko razmerje z Joeyjem, ki se je neprijetno končalo.nnPhoebe in Mike se odločita za skromno poroko, preostanek denarja pa podarita v dobrodelne namene. Toda kasneje si premislita in denar zahtevata nazaj. Rachel se zaradi neprijetnega dogodka iz otroštva bolestno boji gugalnic, zato noče, da bi se Emma kdajkoli v življenju gugala.
-
-Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
-
-Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
-
-Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.</desc>
-</programme>
-<programme start="20260111004000 +0000" stop="20260111010500 +0000" channel="PopTV(src01).si">
-<title lang="">Prijatelji</title>
-<desc lang="">Monica za prijatelje pripravi razkošno večerjo za zahvalni dan, vendar jo razbesni, da prav vsi zamudijo. Ross in Joey sta hotela še prej na hokejsko tekmo, Phoebe in Rachel pa sta Emmo skrivaj odpeljali na otroško lepotno tekmovanje. Še večje težave sledijo, ko Monica ne dovoli sestradanim gostom vstopiti v njeno in Chandlerjevo stanovanje.
-
-Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
-
-Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
-
-Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.
-Jennifer Aniston
-Courteney Cox
-Lisa Kudrow
-Matt LeBlanc
-Matthew Perry
-David Schwimmer
-Cali Sheldon
-Noelle Sheldon.</desc>
-</programme>
-<programme start="20260111010500 +0000" stop="20260111020500 +0000" channel="PopTV(src01).si">
-<title lang="">24UR</title>
-<desc lang="">24UR je na programu vsak dan ob 18:55.
-
-Z dinamičnim pristopom, voditeljskimi pari, novimi idejami in atraktivno podobo, ki omogoča vsebinsko bogato podajo novic, je dnevno najbolj gledana osrednja dnevnoinformativna oddaja v Sloveniji. Poleg rednih rubrik najaktualnejše novice dneva zajemajo tudi vremensko napoved, družabno kroniko in šport.
-
-Voditelji: Jani Muhič in Petra Kerčmar, Edi Pucer in Darja Zgonc.</desc>
-</programme>
-<programme start="20260111020500 +0000" stop="20260111032500 +0000" channel="PopTV(src01).si">
-<title lang="">Pavza!: FRISH'N'BUM</title>
-<desc lang="">Prepustite se glasbi!
-
-Videospoti popularnih izvajalcev, povezani v najboljši miks za odmor, zabavo in počitek, za sprostitev možgančkov, za vzdušje, za ples, da se napolni srce! Za vas smo pripravili Pavzo!</desc>
-</programme>
-<programme start="20260111032500 +0000" stop="20260111040500 +0000" channel="PopTV(src01).si">
-<title lang="">Ko cvetijo češnje</title>
-<desc lang="">Ayaz in Oyku se bosta kmalu poročila, med pripravami na poroko pa morata loviti ravnotežje med svojimi željami in željami obeh mater, Onem in Meral. Na Oyku dodatno pritiskajo prijateljice, ki se prepirajo, katera bo njena poročna priča. Sibel kritizira vse, kar Ilker počne z dojenčkom.
-
-
-
-Oyku bi rada uspela kot modna oblikovalka, Ayaz pa je uspešen arhitekt. Sprva si gresta na živce, saj je Oyku všeč njegov sodelavec Mete, ki pa je všeč tudi njeni prijateljici Seymi.
-Filiz Gülmez Pakman, Tarkan Karlidag, Eda Teksöz
-Nilperi Sahinkaya
-Özge Gürel
-Nihal Isiksaçan
-Aras Aydin
-Fatma Toptas.</desc>
-</programme>
-<programme start="20260111040500 +0000" stop="20260111050000 +0000" channel="PopTV(src01).si">
-<title lang="">Ko cvetijo češnje</title>
-<desc lang="">Seyma pod pretvezo zvabi Meteja k sebi in mu postreže večerjo. Sibel obtoži Ilkerja, da ji ne pomaga pri skrbi za otroka, zato Ilker za nekaj časa odide od doma. Oyku slučajno prestreže klic, namenjen Ilkerju, in obtoži Ayaza, da je hotel najeti majhno stanovanje zase. Končno napoči dan poroke in zdi se, da gre vse narobe.
-
-
-
-Oyku bi rada uspela kot modna oblikovalka, Ayaz pa je uspešen arhitekt. Sprva si gresta na živce, saj je Oyku všeč njegov sodelavec Mete, ki pa je všeč tudi njeni prijateljici Seymi.
-Filiz Gülmez Pakman, Tarkan Karlidag, Eda Teksöz
-Nilperi Sahinkaya
-Özge Gürel
-Nihal Isiksaçan
-Aras Aydin
-Fatma Toptas.</desc>
-</programme>
-<programme start="20260111050000 +0000" stop="20260111051500 +0000" channel="PopTV(src01).si">
-<title lang="">24UR Inšpektor: Cena prazničnega blišča</title>
-<desc lang="">Vsako leto prižgemo skoraj 20 odstotkov več svetlobnih verig, posledice pa: več odpadkov, večja poraba. Kako izbrati jelko, okraske in kaj z njimi po praznikih, da bomo čim manj obremenili okolje?
-
-24UR Inšpektor je rubrika, obarvana potrošniško, uporabniško.
-
-V njen skupaj s strokovnjaki analizirajo teme, izdelke testirajo in preizkušajo v laboratorijih. Opozarjajo na napake, zavajanja in nepravilnosti posnamejo s skrito kamero. Z relevantnimi strokovnjaki dajejo nasvete in povedo, kaj je prav in kaj ne, z enim samim ciljem - ozavestiti potrošnike. Vsako leto prižgemo skoraj 20 odstotkov več svetlobnih verig, posledice pa: več odpadkov, večja poraba. Kako izbrati jelko, okraske in kaj z njimi po praznikih, da bomo čim manj obremenili okolje?</desc>
-</programme>
-<programme start="20260111051500 +0000" stop="20260111053000 +0000" channel="PopTV(src01).si">
-<title lang="">24UR Fokus: Ko medicina premika meje</title>
-<desc lang="">Berlinsko srce, zdravljenje epilepsije, odstranitev odvečne kože in robotska presaditev ledvice. Zgodbe bolnikov in zdravnikov. Upanja in preobratov. Zgodbe napredka slovenskega zdravstva.
-
-Poglobljena, preiskovalna rubrika, ki se v 15-minutnih prispevkih do potankosti poglobi v družbeno relevantne, tudi zamolčane teme, laži in afere.
-
-24UR Fokus je rubrika informativne oddaje 24UR, v kateri se do potankosti poglobijo v družbeno relevantne, tudi zamolčane in prezrte teme, laži in afere. Osvetlijo ozadja, dejstvom dajo kontekst. V rubriki izpostavljajo tudi dobre, pozitivne zgodbe, portrete in intervjuje izjemnih ljudi. Berlinsko srce, zdravljenje epilepsije, odstranitev odvečne kože in robotska presaditev ledvice. Zgodbe bolnikov in zdravnikov. Upanja in preobratov. Zgodbe napredka slovenskega zdravstva.</desc>
-</programme>
-<programme start="20260111053000 +0000" stop="20260111053400 +0000" channel="PopTV(src01).si">
-<title lang="">OTO čira čara</title>
-<desc lang="">OTO čira čara je poln domišljije, plesa, petja in neskončne zabave. Številne sinhronizirane risanke otroke bodo popolnoma očarale!</desc>
-</programme>
-<programme start="20260111053400 +0000" stop="20260111055500 +0000" channel="PopTV(src01).si">
-<title lang="">Viking Viki: Ljubitelj glasbe</title>
-<desc lang="">Vikingom gre Ulmejevo petje tako na živce, da si mora ta najti osamljen kraj, kjer bi lahko pel po mili volji. Zanimivo je, da tam živeči medved obožuje Ulmejeve balade in mu sledi vse do vasi, kjer medved plani po vikinških zalogah hrane.nnSeveda Vikingi za vse skupaj krivijo Ulmeja, zato se ta odloči oditi v prijaznejšo vasico, kjer bodo z veseljem prisluhnili njegovemu petju. Toda kako se bodo Vikingi znebili medveda, ki se zdaj ne da odgnati?
-
-Viki je desetletni sin vikinškega poglavarja, ki živi daleč na severu v skromni vasici.
-
-
-Marc Wasik, Eric Cazes
-Lionel Tua
-Peter Callan
-Paul Davies
-Benoît Du Pac
-Marie Facundo
-Tanguy Goasdoué
-Nathalie Homs
-Thierry Kazazian
-Cyrille Monge
-Cam Ralph
-Stéphane Ronchewski
-Magali Rosenzweig.</desc>
-</programme>
-<programme start="20260111055500 +0000" stop="20260111061500 +0000" channel="PopTV(src01).si">
-<title lang="">Blaze in megakolesniki: Trikmanija!</title>
-<desc lang="">Darington se bo peljal po največji progi za trike in vsi megakolesniki v mestu si bodo ogledali njegovo predstavo! Crusherja seveda takoj zajame ljubosumje in iz same nevoščljivosti mu spretno uspe Daringtona poslati daleč proč.nnTako daleč, da nihče ne ve, kje je, zato se Blaze in AJ takoj odpravita na iskalno misijo, da še pravočasno rešita Daringtona in njegov trik.
-
-AJ in Blaze se skupaj spopadata z dogodivščinami. Veliko zagat jima povzroča Blazov tekmec Crusher, ki bi naredil vse, da premaga druga vozila.
-
-Blaze in megakolesniki je interaktivna risanka za predšolske otroke o Blazu, najboljšem megakolesniku na svetu, in o njegovem najboljšem prijatelju in vozniku AJ-ju.
-Mike Fetterly, Michael Martines, Blair Simmons, Miguel Martinez-Joffre
-Nolan North
-Dusan Brown
-Kate Higgins
-Alexander Polinsky
-James Patrick Stuart
-Sunil Malhotra
-Angelina Wahler
-Kevin Michael Richardson
-Nat Faxon
-Dee Bradley Baker
-Jeff Bennett
-WhaleShark1.</desc>
-</programme>
-<programme start="20260111061500 +0000" stop="20260111064000 +0000" channel="PopTV(src01).si">
-<title lang="">Tačke na patrulji: Kužki rešijo drobcenega pingvina / Kužki rešijo mačjo razstavo</title>
-<desc lang="">Everest in Jaka se odpravita proti južnemu polu, da bi opazovala pingvine. Ko jih hranita, Everest opazi pingvinjega mladička, ki je obtičal na otoku.nnTakoj mu priskočita na pomoč, a nesreča nikoli ne počiva. Katkini mucki so umazani od blata in tekajo naokoli! Če jih ne spravi na kup, bo mačja razstava uničena. Seveda se v razstavo vplete tudi župan Humdinger.
-
-Spremljamo vsakodnevne dogodivščine skupine hrabrih psičkov. Ti na čelu z dečkom Rikijem rešujejo težave prebivalcev Zaliva zabave.
-
-Z edinstveno mešanico veščin za reševanje težav, krasnih vozil in veliko srčkanega pasjega humorja, Tačja patrulja sodeluje na vratolomnih reševalnih odpravah, da bi varovala prebivalce Zaliva zabave. Od gasilskega kužka Maršala do policijskega kužka Brona in do kužka Sile, ki s helikopterjem visoko leta - vsak od kužkov prispeva k ekipi edinstveno osebnost in sposobnosti, kar poudarja pomembnost ekipnega dela in odlike dobrega meščana.
-
-Vsi imajo na hrbtih posebne kužko-nahrbtnike, ki se jim pom</desc>
-</programme>
-<programme start="20260111064000 +0000" stop="20260111065000 +0000" channel="PopTV(src01).si">
-<title lang="">Mišek Tip: Nočem se kopati!</title>
-<desc lang="">Pridružite se mišku Tipu, ki s svojo družino živi na robu gozda.
-
-Z miškom se podamo na čarobne prigode, polne smeha, nepričakovanih zapletov in ganljivih trenutkov, ki mišku Tipu pomagajo na razburljivi poti odraščanja. Skupaj z njim raziskujemo svet, kjer je vsak dan nova, čudovita dogodivščina!
-Andrea Bozzetto
-Barbara Pitotti
-Maura Cenciarelli
-Mimmo Strati
-Gaia Bolognesi.</desc>
-</programme>
-<programme start="20260111065000 +0000" stop="20260111074500 +0000" channel="PopTV(src01).si">
-<title lang="">Mišek Tip: Hočem iti s tabo</title>
-<desc lang="">Mišek Tip živi s svojo družino na majhni jasi v drobceni hišici s pohištvom iz pozabljenih in zavrženih drobnarij. Z njim se podamo na čarobne prigode, polne smeha, nepričakovanih zapletov in ganljivih trenutkov, ki mišku Tipu pomagajo na razburljivi poti odraščanja. Skupaj z njim raziskujemo svet, kjer je vsak dan nova, čudovita dogodivščina!
-
-Pridružite se mišku Tipu, ki s svojo družino živi na robu gozda.
-
-Z miškom se podamo na čarobne prigode, polne smeha, nepričakovanih zapletov in ganljivih trenutkov, ki mišku Tipu pomagajo na razburljivi poti odraščanja. Skupaj z njim raziskujemo svet, kjer je vsak dan nova, čudovita dogodivščina!
-Andrea Bozzetto
-Barbara Pitotti
-Maura Cenciarelli
-Mimmo Strati
-Gaia Bolognesi.</desc>
-</programme>
-<programme start="20260111074500 +0000" stop="20260111081000 +0000" channel="PopTV(src01).si">
-<title lang="">Mia in jaz: Kralj za en dan</title>
-<desc lang="">Mia, Vincent in Paula se odpravijo na sladoled, tam pa srečajo fanta, ki je na las podoben Moju. Ko se čedni fant zagleda v Mio, Vincent ne more skriti ljubosumja.nnToda dolžnost kliče in Mia se mora odpraviti v Centopijo, kjer ima Mo prav posebno nalogo. Ker imata kralj in kraljica gripo, mora sam začasno zasesti kraljevski prestol.
-
-Tako kot ostale punce njene starosti, je tudi Mia očarana nad čarobnim svetom, o katerem prebira v knjigi mitov.
-
-Nekega dne je zaradi očetove iznajdbe Mia posrkana v svet škratov, samorogov, vil in zmajev. Kmalu spozna, da je čarobno kraljestvo v težavah, saj želi hudobna kraljica uloviti vse samoroge in jim posrkati moč, da bi za vedno ostala mlada. Mia tako postane ključ do rešitve pravljičnega sveta pred zlobno kraljico, poleg tega pa se mora v svojem resničnem svetu še navaditi na novo šolo.
-Bill Speers, Anthony Power, Andrea De Sica, Luca Morsella
-Rosabell Laurenti Sellers
-Asia Amodeo
-Jordan Barrit
-Josephine Benini
-Filippo Berti
-Riccardo Bono
-Andrew</desc>
-</programme>
-<programme start="20260111081000 +0000" stop="20260111081500 +0000" channel="PopTV(src01).si">
-<title lang="">Vsevedi: Narava</title>
-<desc lang="">Vsevedi tokrat pripravljajo prav poseben izziv! Tvoja naloga je, da naslednjič, ko greš peš v šolo ali pa z mamico na sprehod, dobro opazuješ okolico. Kaj vse najdeš na travniku zraven šole?nnKdo vse živi v bližnjem gozdu? Kako to, da vode v potoku nikoli ne zmanjka? Vse to in še več danes v Vsevedih!
-
-Če kdo ve vse, so to gotovo otroci! Imajo odgovor na vsako vprašanje, pa naj bo še tako zapleteno in naj si odrasli zaradi njega še tako belijo glave.</desc>
-</programme>
-<programme start="20260111081500 +0000" stop="20260111084000 +0000" channel="PopTV(src01).si">
-<title lang="">Punci iz vesolja: Super moč</title>
-<desc lang="">Kiki in Zoey z olajšanjem ugotovita, da Brandon ne more pravilno uporabljati plazma kartice, ker je Luminec le po biološki materi. Brandon je namreč hibrid med človekom in Luminko. Edini način, da se znebijo nevarnosti, je uničenje kartice. Zato pa je treba kartico najprej ukrasti. Ko pri tem Brandon skoraj ujame Zoey, Luca stvari vzame v svoje roke.
-
-Najstnici z drugega planeta se na Zemlji navdušita nad deskanjem na valovih. Njihova pustolovščina na tem svetu se pričenja.
-
-Zemljo obiščeta, da bi neopazno zbrali čim več podatkov o njej in nato tudi neopazno odšli. Njune sanje o deskanju na valovih zemeljskih oceanov se končno uresničijo!
-
-Obrneta se na lokalno učiteljico surfanja, najstnico Amber, da ju nauči osnov deskanja. Ko Amberina psička Piper uniči plazmično kartico, dekleti ostaneta ujeti na Zemlji. Njun pristan postane mirno avstralsko obalno mestece Lightning Point.
-Evan Clarry
-Philippa Coulthard
-Lucy Fry
-Jessica Green
-Kenji Fitzgerald
-Paige Houden
-Andrew J. Morley
-Simone Be</desc>
-</programme>
-<programme start="20260111084000 +0000" stop="20260111091000 +0000" channel="PopTV(src01).si">
-<title lang="">Kuhinja na kolesih: Goriška: Gredič</title>
-<desc lang="">Dober glas seže v deveto vas! Tako bi lahko začeli opis naslednje kulinarične avanture. Filip na skrajnem zahodu Slovenije obišče Goriška Brda.nnZadnja leta vse bolj petično destinacijo, ki jo lokalni proizvajalci vin, turistični delavci, gostinci in pridelovalci hrane uspešno izvažajo preko meja naše domovine. Pravzaprav so oni, skupaj s športniki, najboljši ambasadorji Slovenije.
-
-Kuhinja na kolesih: Goriška je kuharsko-etnološka oddaja s primesmi turizma, ki se osredotoča na lokalne posebnosti in spodbuja zavedanje o tradiciji.
-
-Lokalne kuharje in kuharice obiskuje Filip Flisar. V vsaki epizodi spoznavamo krajevno zgodovino in tradicijo ter vaške specialitete, ki jih Filip skupaj z lokalnim chefom pripravi in postreže v svojem mobilnem tovornjaku.</desc>
-</programme>
-<programme start="20260111091000 +0000" stop="20260111101000 +0000" channel="PopTV(src01).si">
-<title lang="">Poroka na prvi pogled: Hrvaška</title>
-<desc lang="">Po romantični poroki ob morju si bosta Saša in Bojan privoščila nekaj časa zase ter poskušala rešiti prvotna nesoglasja. Toda niti iskren pogovor niti rezanje poročne torte ne bosta minila v veselem tonu.nnOzebla Saša zavrne celo Bojanov suknjič, ki ji ga velikodušno ponudi. Hedviga in Zoran medtem ne moreta verjeti, da sta postala mož in žena. Strokovnjaki predstavijo nov, najmlajši par te sezone: Loreno in Stefana.
-
-Poroka na prvi pogled: Hrvaška je sociološki eksperiment.</desc>
-</programme>
-<programme start="20260111101000 +0000" stop="20260111112000 +0000" channel="PopTV(src01).si">
-<title lang="">Poroka na prvi pogled: Hrvaška</title>
-<desc lang="">Sledi poročni obred najstarejšega para sezone - Manuele in Tihomirja. Lorena in Stefan še vedno uživata v slavju in skupnih trenutkih v Istri, medtem ko se nekateri že veselijo medenih tednov in vsega razburjenja, ki ga prinašajo.nnNapetost med Sašo in Bojanom bo morda ublažil obisk drugega para, Petra in Dario ter Hedviga in Zoran pa uživajo v spoznavanju svojih partnerjev.
-
-Poroka na prvi pogled: Hrvaška je sociološki eksperiment.</desc>
-</programme>
-<programme start="20260111112000 +0000" stop="20260111113500 +0000" channel="PopTV(src01).si">
-<title lang="">Vaše zdravje, naša skrb</title>
-<desc lang="">Oddaja, namenjena izključno vašemu zdravju, v kateri se bomo posvetili zdravstvenim tegobam današnjega časa in vam ponudili rešitve za boljši jutri.
-
-Hiter tempo življenja, slaba kvaliteta hrane, stres in genska zasnova – vse to vpliva na naše življenje bolj, kot bi si mislili. Po 40. letu starosti pa se začnejo počasi kazati posledice na našem telesu.
-
-Slabo počutje, težave s prebavo, težave s sklepi, bolezni srca in ožilja, težave s sečili (ledvice, prostata), slaba koncentracija in slabši spomin; vse to in še mnogo več težav, s katerimi se borimo. Mi vam lahko pomagamo in svetujemo, kako lahko izboljšate svoj jutri.
-
-Strokovnjaki iz slovenskega družinskega podjetja Biovis vam bomo v vsaki oddaji svetovali in vas informirali o različnih zdravstvenih težavah, s katerimi se spopadate, ter vam pomagali k boljšemu počutju.
-
-Strokovnjaki, ki se z različnimi zdravstvenimi problemi ukvarjamo že skoraj 20 let, točno vemo, katero prehransko dopolnilo vam bo pri vaši težavi prišlo prav.
-
-Pa ne</desc>
-</programme>
-<programme start="20260111113500 +0000" stop="20260111123000 +0000" channel="PopTV(src01).si">
-<title lang="">Kuharski mojster</title>
-<desc lang="">Kuharji se tokrat pridružijo Tomu, Padmi in gostujočemu sodniku Franku Leeju pri tradicionalni pripravi jedi iz kozic. Tekmovalce najprej razdelijo v dve ekipi, v katerih se odpravijo na večerjo na domu lokalnega kuharskega mojstra iz Charlestona. Nato pa morajo pripraviti družinski obrok, navdihnjen z domačimi jedmi, ki so jim jih postregli.
-
-Prestižno tekmovanje za naziv vrhunskega kuharja se seli nazaj v Los Angeles, kjer se bodo za štedilnikom pomerili le najboljši kuharji.
-
-Dvanajst tekmovalcev iz ZDA približno 21 dni živi skupaj in tekmuje v različnih izzivih. Najboljši kuhar dobi 100.000 dolarjev. Tedensko serijo vodi Katie Lee Joel skupaj s sodnikoma Tomom Colicchiom in Gail Simmons iz revije Food &amp; Wine.
-Ariel Boles
-Silvia Barban
-Amanda Baumgarten
-Sean Brock
-Shirley Chung
-B.J. Dennis
-Lee Frank
-Emily Hahn
-Padma Lakshmi
-Jamie Lynch
-Carrie Morey
-Annie Pettry
-Sylva Senat
-Sheldon Simeon
-Gail Simmons
-B.J. Smith
-Jim Smith
-Robert Stehling
-Sam Talbot
-Katsuji Tanabe.</desc>
-</programme>
-<programme start="20260111123000 +0000" stop="20260111124500 +0000" channel="PopTV(src01).si">
-<title lang="">Vaše zdravje, naša skrb</title>
-<desc lang="">Oddaja, namenjena izključno vašemu zdravju, v kateri se bomo posvetili zdravstvenim tegobam današnjega časa in vam ponudili rešitve za boljši jutri.
-
-Hiter tempo življenja, slaba kvaliteta hrane, stres in genska zasnova – vse to vpliva na naše življenje bolj, kot bi si mislili. Po 40. letu starosti pa se začnejo počasi kazati posledice na našem telesu.
-
-Slabo počutje, težave s prebavo, težave s sklepi, bolezni srca in ožilja, težave s sečili (ledvice, prostata), slaba koncentracija in slabši spomin; vse to in še mnogo več težav, s katerimi se borimo. Mi vam lahko pomagamo in svetujemo, kako lahko izboljšate svoj jutri.
-
-Strokovnjaki iz slovenskega družinskega podjetja Biovis vam bomo v vsaki oddaji svetovali in vas informirali o različnih zdravstvenih težavah, s katerimi se spopadate, ter vam pomagali k boljšemu počutju.
-
-Strokovnjaki, ki se z različnimi zdravstvenimi problemi ukvarjamo že skoraj 20 let, točno vemo, katero prehransko dopolnilo vam bo pri vaši težavi prišlo prav.
-
-Pa ne</desc>
-</programme>
-<programme start="20260111124500 +0000" stop="20260111141500 +0000" channel="PopTV(src01).si">
-<title lang="">Ledena doba 2</title>
-<desc lang="">Ledenodobni junaki iz svetovne animirane uspešnice Ledena doba se vračajo s filmom Ledena doba 2: Otoplitev.
-
-Ker se ledena doba počasi bliža koncu, se led pod njihovimi nogami in povsod okrog njih nezadržno topi. To med drugim pomeni, da bo velikanski ledeni jez, ki zadržuje ogromne količine oceanske vode, slej ko prej popustil.
-
-Zato bo dolino, v kateri živijo, kmalu zalila voda. Mannyju, Sidu in Diegu ne preostane drugega, kot da na nevarnost opozorijo tudi druge živali in se čim prej rešijo pred neizbežno nevarnostjo. Manny pri tem spozna Ellie, edino samico mamuta na svetu.
-
-V filmu boste lahko spremljali tudi nove prigode oziroma nezgode Scrata, ki ima tokrat še večjo vlogo. V drugem delu filma Ledena doba 2 boste uživali enako kot v prvem, le da je tu še več zabave, akcije in enkratnih vizualnih učinkov. Prijateljstvo naših treh junakov še naprej ostaja trdno, zraven pa je dodanih še nekaj novih nepozabnih likov. Rezultat bo omehčal srca vseh generacij.
-Carlos Saldanha
-Ray Roman</desc>
-</programme>
-<programme start="20260111141500 +0000" stop="20260111143000 +0000" channel="PopTV(src01).si">
-<title lang="">Vaše zdravje, naša skrb</title>
-<desc lang="">Oddaja, namenjena izključno vašemu zdravju, v kateri se bomo posvetili zdravstvenim tegobam današnjega časa in vam ponudili rešitve za boljši jutri.
-
-Hiter tempo življenja, slaba kvaliteta hrane, stres in genska zasnova – vse to vpliva na naše življenje bolj, kot bi si mislili. Po 40. letu starosti pa se začnejo počasi kazati posledice na našem telesu.
-
-Slabo počutje, težave s prebavo, težave s sklepi, bolezni srca in ožilja, težave s sečili (ledvice, prostata), slaba koncentracija in slabši spomin; vse to in še mnogo več težav, s katerimi se borimo. Mi vam lahko pomagamo in svetujemo, kako lahko izboljšate svoj jutri.
-
-Strokovnjaki iz slovenskega družinskega podjetja Biovis vam bomo v vsaki oddaji svetovali in vas informirali o različnih zdravstvenih težavah, s katerimi se spopadate, ter vam pomagali k boljšemu počutju.
-
-Strokovnjaki, ki se z različnimi zdravstvenimi problemi ukvarjamo že skoraj 20 let, točno vemo, katero prehransko dopolnilo vam bo pri vaši težavi prišlo prav.
-
-Pa ne</desc>
-</programme>
-<programme start="20260111143000 +0000" stop="20260111155500 +0000" channel="PopTV(src01).si">
-<title lang="">Beležnica</title>
-<desc lang="">Na začetku zgodbe se odpravimo v Severno Karolino leta 1940.
-
-Spoznamo mlada Allie Hamilton in Noaha Calhouna, ki se zaljubita in preživita skupaj brezskrbno poletje. Ob koncu poletja morata zaradi vojne in različnih obveznosti končati svojo romanco.
-
-Dolga leta kasneje srečamo Noaha, kako hodi v dom za ostarele, kjer Allie, ki izgublja spomin, bere zapiske iz beležnice. Pripovedovanje o noro zaljubljenem mladem paru v Allie obudi spomine na mladost in stara čustva.
-Nick Cassavetes
-Ryan Gosling
-Rachel McAdams
-James Garner
-Gena Rowlands
-Joan Allen
-James Marsden
-Jamie Anne Allman
-Sam Shepard
-David Thornton
-Kevin Connolly
-Heather Wahlquist
-Ed Grady
-Tim Ivey
-Anthony-Michael Q. Thomas
-Renée Amber
-Geoffrey Knight
-Andrew Schaff
-Tim O'Brien
-Meredith O'Brien
-Cullen Moss.</desc>
-</programme>
-<programme start="20260111155500 +0000" stop="20260111160500 +0000" channel="PopTV(src01).si">
-<title lang="">24UR popoldne</title>
-<desc lang="">24UR popoldne je na programu vsak dan ob 16.55 in poteka v živo iz osrednjega studia POP TV.
-
-Oddaja na kratek, zgoščen in dinamičen način ponuja do takrat najaktualnejše novice dneva z različnih področij življenja: politike, gospodarstva, kronike, športa in vremensko napoved. Voditelji: Petra Kerčmar, Jani Muhič, Darja Zgonc in Edi Pucer.</desc>
-</programme>
-<programme start="20260111160500 +0000" stop="20260111170000 +0000" channel="PopTV(src01).si">
-<title lang="">Beležnica</title>
-<desc lang="">Na začetku zgodbe se odpravimo v Severno Karolino leta 1940.
-
-Spoznamo mlada Allie Hamilton in Noaha Calhouna, ki se zaljubita in preživita skupaj brezskrbno poletje. Ob koncu poletja morata zaradi vojne in različnih obveznosti končati svojo romanco.
-
-Dolga leta kasneje srečamo Noaha, kako hodi v dom za ostarele, kjer Allie, ki izgublja spomin, bere zapiske iz beležnice. Pripovedovanje o noro zaljubljenem mladem paru v Allie obudi spomine na mladost in stara čustva.
-Nick Cassavetes
-Ryan Gosling
-Rachel McAdams
-James Garner
-Gena Rowlands
-Joan Allen
-James Marsden
-Jamie Anne Allman
-Sam Shepard
-David Thornton
-Kevin Connolly
-Heather Wahlquist
-Ed Grady
-Tim Ivey
-Anthony-Michael Q. Thomas
-Renée Amber
-Geoffrey Knight
-Andrew Schaff
-Tim O'Brien
-Meredith O'Brien
-Cullen Moss.</desc>
-</programme>
-<programme start="20260111170000 +0000" stop="20260111175000 +0000" channel="PopTV(src01).si">
-<title lang="">Nenavadne prenove</title>
-<desc lang="">Stari ribiški pomol v Laupstadu blizu Svolvaerja je dobil novo vlogo, ko so ga spremenili v počitniško hišo. Tukaj je prostor za kreativnost brez meja, kar Halvoru in njegovim mojstrom razburka domišljijo. Halvor pa se najprej poda na lov za starimi materiali, ki bodo prenovi dodali avtentičen pridih. Bo našel skrite zaklade preteklosti?
-
-Halvor Bakke s tesarji raziskuje vznemirljive destinacije po Norveški in išče koče, potrebne obnove.</desc>
-</programme>
-<programme start="20260111175000 +0000" stop="20260111175500 +0000" channel="PopTV(src01).si">
-<title lang="">24UR vreme</title>
-<desc lang="">24UR vreme je z vami vsak dan pred osrednjo informativno oddajo.
-
-Napoved je atraktivno podkrepljena z grafiko, ki ponuja nazoren pregled vremena po državi in z zanimivimi dogodki, povezanimi z vremenom. Prisluhnete lahko tudi nasvetom in vremenskim opozorilom, ki so postali stalnica pri očitnih klimatskih spremembah.</desc>
-</programme>
-<programme start="20260111175500 +0000" stop="20260111190000 +0000" channel="PopTV(src01).si">
-<title lang="">24UR</title>
-<desc lang="">24UR je na programu vsak dan ob 18:55.
-
-Z dinamičnim pristopom, voditeljskimi pari, novimi idejami in atraktivno podobo, ki omogoča vsebinsko bogato podajo novic, je dnevno najbolj gledana osrednja dnevnoinformativna oddaja v Sloveniji. Poleg rednih rubrik najaktualnejše novice dneva zajemajo tudi vremensko napoved, družabno kroniko in šport.
-
-Voditelji: Jani Muhič in Petra Kerčmar, Edi Pucer in Darja Zgonc.</desc>
-</programme>
-<programme start="20260111190000 +0000" stop="20260111210500 +0000" channel="PopTV(src01).si">
-<title lang="">Zadnje počitnice</title>
-<desc lang="">Ko sramežljiva prodajalka Georgia izve, da ima le še tri tedne življenja, se odloči za popolno preobrazbo – sebe in načina življenja, ki ji ostaja.
-
-Georgia Byrd je sramežljiva prodajalka kuhinjske opreme, ki s svojimi prihranki živi skromno in umirjeno življenje. Ko izve, da je bolna in da ima samo še tri tedne življenja, se odloči, da bo končno naredila nekaj zase.
-
-S svojimi prihranki se odpravi v Evropo in se nastani v razkošnem hotelu. Njena preobrazba, ki si jo privošči, pritegne pozornost tamkajšnjega kuharskega mojstra Didierja in mnogih drugih hotelskih gostov.
-Wayne Wang
-Queen Latifah
-LL Cool J
-Timothy Hutton
-Giancarlo Esposito
-Alicia Witt
-Gérard Depardieu
-Jane Adams
-Matt Ross
-Michael Nouri
-Jan Unger
-Ranjit Chowdhry
-Jaqueline Fleming
-Kendall Mosby
-Chloe Bailey
-Halle Bailey
-Dan Ziskie
-Julia Lashae
-Werner Richmond
-Emeril Lagasse.</desc>
-</programme>
-<programme start="20260111210500 +0000" stop="20260111223500 +0000" channel="PopTV(src01).si">
-<title lang="">Popolno ujemanje</title>
-<desc lang="">Vinska kritičarka, ki se skriva pod psevdonimom CJ, mora obiskati vinsko klet Hollingbrook, za katero je v preteklosti napisala slabo recenzijo.
-
-Ob prihodu Christina naleti na lastnika Michaela in se predstavi kot Joy, toda kmalu za tem dekletu spodrsne in zaradi padca izgubi spomin.
-
-Christina ne ve, kdo je, zato jo Michael in njegova družina sprejmejo pod svojo streho, medtem ko okreva. Med Christino in Michaelom preskoči ljubezenska iskrica, ravno ko na posestvo pride njen fant, ki jo je ves ta čas iskal ...
-Don McBrearty
-Nazneen Contractor
-Brennan Elliott
-Zarina Rocha
-Genelle Williams
-Art Hindle
-Richard Waugh
-Steve Byers
-Shauna MacDonald
-Robert Clarke
-Ronica Sajnani
-Neil Whitely
-Foad H.P.
-Beth Hornby
-Fallon Bowman.</desc>
-</programme>
-<programme start="20260111223500 +0000" stop="20260111230500 +0000" channel="PopTV(src01).si">
-<title lang="">Prijatelji</title>
-<desc lang="">Monica in Chandler vznemirjena odpotujeta v Teksas k mladi nosečnici Erici Simmons. Erica razmišlja, da bi prav njima prepustila skrb za svojega otroka, ki ga namerava dati v posvojitev.nnMonici in Chandlerju je Erica všeč in tudi njej sta všeč onadva, vendar pride do nepričakovanega zapleta. Medtem se Joey dobiva s Phoebejino prijateljico, Ross pa si privošči novo garderobo.
-
-Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
-
-Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
-
-Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.
-Jennifer Aniston
-Courteney Cox
-Lisa Kudrow
-Matt LeBlanc
-Matthew Perry
-Anna Faris
-Jim O'Heir
-Annie Parisse
-Jorge Luis Abreu
-Carla</desc>
-</programme>
-<programme start="20260111230500 +0000" stop="20260111233000 +0000" channel="PopTV(src01).si">
-<title lang="">Prijatelji</title>
-<desc lang="">Phoebe in Rachel vidita Chandlerja, kako me službenim časom vstopi v avtomobil s čedno žensko; sledita jima do predmestja in tam sopotnika vstopita v veliko hišo. Bojita se, da Chandler vara Monico, in jo obvestita o tem, vendar se izkaže, da je tista ženska nepremičninska posrednica. Zakonca namreč skrivaj iščeta hišo in razmišljata o tem, kako naj prijateljem povesta, da bi se rada preselila ven iz mesta. V čustvenem sosledju posnetkov se zvrstijo prizori iz prejšnjih delov z različnimi doživetji, ki so jih prijatelji izkusili v stanovanju Monice in Chandlerja.
-
-Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
-
-Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
-
-Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey </desc>
-</programme>
-<programme start="20260111233000 +0000" stop="20260112000000 +0000" channel="PopTV(src01).si">
-<title lang="">Prijatelji</title>
-<desc lang="">Joey se kot zvezdniški gost pojavi v televizijskem šovu "Piramida 100.000 dolarjev
-
-Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
-
-Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
-
-Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.
-Kevin Bright
-Jennifer Aniston
-Courteney Cox
-Lisa Kudrow
-Matt LeBlanc
-Matthew Perry
-David Schwimmer
-Danny DeVito
-Ellen Pompeo
-Donny Osmond
-Gregory Jbara
-Leslie Charleson
-Kimberley Davies
-Ryan Carlberg
-Cyndi Martino
-Matthew Mullany
-George Adams
-Valerie Anastasias
-John O. Nelson
-Garrison Taylor.</desc>
-</programme>
 <programme start="20260112000000 +0000" stop="20260112003000 +0000" channel="PopTV(src01).si">
 <title lang="">Prijatelji</title>
 <desc lang="">Phoebejina poroka z Mikeom je pred vrati. Monica nastopa v vlogi poročne koordinatorke in s svojim obnašanjem prijatelje spravlja ob živce. Še posebej Phoebe jo ima vrh glave, zato jo odpusti. Kmalu nič več ne gre po načrtih, razpoloženje pa pokvari še snežni vihar.nnVendar poroka kljub temu bo! Phoebe prosi Joeyja, da bi jo pospremil do oltarja in Joey svojo vlogo nadomestnega očeta vzame malce preveč resno. Rachel se mora medtem odločiti med Chandlerjem in Rossom. Na njej je, da odloči, kdo od njiju bo Mikeova priča.
@@ -64289,6 +63786,391 @@ Patrick Jane je neodvisni svetovalec pri kalifornijski policiji, ki s pomočjo s
 Simon Baker (nominiranec za zlati globus), je Patrick Jane, neodvisni svetovalec Kalifornijskega preiskovalnega urada (CBI), ki ima osupljivo zgodovino reševanja resnih zločinov s pomočjo ostrega čuta za opazovanje.
 
 Med sodelavci je Jane razvpit, ker ne upošteva protokola in je bil nekoč celo slaven kot jasnoviden m</desc>
+</programme>
+<programme start="20260114001500 +0000" stop="20260114010500 +0000" channel="PopTV(src01).si">
+<title lang="">Mentalist: Rdeča lica</title>
+<desc lang="">Archerja Braddocka, ki je imel raka, nekdo umori. Njegova žena naj bi prav tako imela raka, toda Jane hitro ugotovi, da v njeni zgodbi nekaj smrdi.nnObenem je bil Braddock eden izmed pacientov, na katerem so testirali novo zdravilo proti raku, ki pa ni obrodilo sadov. Cho med dolžnostjo vzame tablete proti bolečinam in zaspi med zasedo, zaradi česar ogrozi življenje enega izmed svojih kolegov.
+
+Patrick Jane je neodvisni svetovalec pri kalifornijski policiji, ki s pomočjo svojega čuta za opazovanje in sklepanje reši še tako zapletene zločine.
+
+Simon Baker (nominiranec za zlati globus), je Patrick Jane, neodvisni svetovalec Kalifornijskega preiskovalnega urada (CBI), ki ima osupljivo zgodovino reševanja resnih zločinov s pomočjo ostrega čuta za opazovanje.
+
+Med sodelavci je Jane razvpit, ker ne upošteva protokola in je bil nekoč celo slaven kot jasnoviden medij, zdaj pa priznava, da je hlinil svoje sposobnosti. Drugi agenti zelo cenijo Janovo pomoč pri reševanju težkih in odmevnih primer</desc>
+</programme>
+<programme start="20260114010500 +0000" stop="20260114020500 +0000" channel="PopTV(src01).si">
+<title lang="">24UR</title>
+<desc lang="">24UR je na programu vsak dan ob 18:55.
+
+Z dinamičnim pristopom, voditeljskimi pari, novimi idejami in atraktivno podobo, ki omogoča vsebinsko bogato podajo novic, je dnevno najbolj gledana osrednja dnevnoinformativna oddaja v Sloveniji. Poleg rednih rubrik najaktualnejše novice dneva zajemajo tudi vremensko napoved, družabno kroniko in šport.
+
+Voditelji: Jani Muhič in Petra Kerčmar, Edi Pucer in Darja Zgonc.</desc>
+</programme>
+<programme start="20260114020500 +0000" stop="20260114033000 +0000" channel="PopTV(src01).si">
+<title lang="">Pavza!: V ringu: Tlen Čeh vs. Polkaholiki</title>
+<desc lang="">Prepustite se glasbi!
+
+Videospoti popularnih izvajalcev, povezani v najboljši miks za odmor, zabavo in počitek, za sprostitev možgančkov, za vzdušje, za ples, da se napolni srce! Za vas smo pripravili Pavzo!</desc>
+</programme>
+<programme start="20260114033000 +0000" stop="20260114041500 +0000" channel="PopTV(src01).si">
+<title lang="">Ko cvetijo češnje</title>
+<desc lang="">Oyku uniči Ayazovo dragoceno podpisano majico. Seyma se spre z Onem, ker noče vohuniti za Oyku. Burcu Meteja prosi, naj zaposli Emreja, a Emre ponudbo zavrne. Ilker in Emre načrtujeta ustanovitev svojega podjetja. Ayaz in Mete za Onem skleneta posel. Oyku ima kot lastnica težave z vodenjem podjetja, Seyma pa hoče ponovno osvojiti Meteja.
+
+
+
+Oyku bi rada uspela kot modna oblikovalka, Ayaz pa je uspešen arhitekt. Sprva si gresta na živce, saj je Oyku všeč njegov sodelavec Mete, ki pa je všeč tudi njeni prijateljici Seymi.
+Filiz Gülmez Pakman, Tarkan Karlidag, Eda Teksöz
+Nilperi Sahinkaya
+Özge Gürel
+Nihal Isiksaçan
+Aras Aydin
+Fatma Toptas.</desc>
+</programme>
+<programme start="20260114041500 +0000" stop="20260114050000 +0000" channel="PopTV(src01).si">
+<title lang="">Ko cvetijo češnje</title>
+<desc lang="">Oyku in Onem sta si sedaj konkurenca, zato si kradeta zaposlene in se potegujeta za isto naročilo pri letalski družbi. Ayaz bi rad pomagal, da se starša pogovorita in pobotata, a pri tem ni uspešen. Emre in Ilker odpreta restavracijo na kolesih in jo postavita pred Sibelino restavracijo. Mete spozna Naz in gre z njo na večerjo.
+
+
+
+Oyku bi rada uspela kot modna oblikovalka, Ayaz pa je uspešen arhitekt. Sprva si gresta na živce, saj je Oyku všeč njegov sodelavec Mete, ki pa je všeč tudi njeni prijateljici Seymi.
+Filiz Gülmez Pakman, Tarkan Karlidag, Eda Teksöz
+Nilperi Sahinkaya
+Özge Gürel
+Nihal Isiksaçan
+Aras Aydin
+Fatma Toptas.</desc>
+</programme>
+<programme start="20260114050000 +0000" stop="20260114060000 +0000" channel="PopTV(src01).si">
+<title lang="">24UR zvečer</title>
+<desc lang="">Informativna oddaja 24UR zvečer je na programu vsak delovnik od ponedeljka do petka.
+
+Oddaja vsebinsko nadgrajuje osrednjih 24UR. V njej so na atraktiven način podane najpomembnejše novice in zgodbe dneva, obogatene s pregledom zadnjih, najnovejših večernih domačih in tujih dogodkov.
+
+24UR zvečer ponuja vsebinsko, vizualno bogat in sodoben vpogled v dogajanje dneva.</desc>
+</programme>
+<programme start="20260114060000 +0000" stop="20260114065500 +0000" channel="PopTV(src01).si">
+<title lang="">Gorski zdravnik</title>
+<desc lang="">Šivilja Jasmin pride v ordinacijo Martina Gruberja s srbečimi rokami. Čeprav so simptomi prisotni že več mesecev in je že obiskala zdravnika, še vedno ni prejela diagnoze.nnMlada pacientka Martinu zaupa, da želi čim prej oditi iz Ellmaua in stran od mame Silke, ki vso pozornost preusmerja nase, nenehno sprejema odločitve namesto nje ter Jasmininih načrtov za odhod ne jemlje resno. Bo Martin uspel zgladiti njun odnos?
+
+Serija predstavlja pustolovščine zdravnika in gorskega reševalca v idiličnih krajih avstrijskih Alp.
+
+Martin Gruber živi svoje življenje skupaj z družino in se ukvarja s tistim, kar ljubi, in vse to v idilični pokrajini med gorami. Vsak primer, ki ga rešuje, pa je tesno povezan z družino in prijatelji.
+Alexander Sascha Thiel
+Hans Sigl
+Heiko Ruprecht
+Monika Baumgartner
+Mark Keller
+Ronja Forcher
+Natalie O'Hara
+Rebecca Immanuel
+Wolfram Berger
+Frédéric Brossier
+Hilde Dalik
+Vanessa Velemir Diaz
+Annika Ernst
+Andrea Gerhard
+Mira Elisa Goeres
+Carmen Haidacher
+Barbara Lanz
+Jonas L</desc>
+</programme>
+<programme start="20260114065500 +0000" stop="20260114070000 +0000" channel="PopTV(src01).si">
+<title lang="">Vaše zdravje, naša skrb</title>
+<desc lang="">Oddaja, namenjena izključno vašemu zdravju, v kateri se bomo posvetili zdravstvenim tegobam današnjega časa in vam ponudili rešitve za boljši jutri.
+
+Hiter tempo življenja, slaba kvaliteta hrane, stres in genska zasnova – vse to vpliva na naše življenje bolj, kot bi si mislili. Po 40. letu starosti pa se začnejo počasi kazati posledice na našem telesu.
+
+Slabo počutje, težave s prebavo, težave s sklepi, bolezni srca in ožilja, težave s sečili (ledvice, prostata), slaba koncentracija in slabši spomin; vse to in še mnogo več težav, s katerimi se borimo. Mi vam lahko pomagamo in svetujemo, kako lahko izboljšate svoj jutri.
+
+Strokovnjaki iz slovenskega družinskega podjetja Biovis vam bomo v vsaki oddaji svetovali in vas informirali o različnih zdravstvenih težavah, s katerimi se spopadate, ter vam pomagali k boljšemu počutju.
+
+Strokovnjaki, ki se z različnimi zdravstvenimi problemi ukvarjamo že skoraj 20 let, točno vemo, katero prehransko dopolnilo vam bo pri vaši težavi prišlo prav.
+
+Pa ne</desc>
+</programme>
+<programme start="20260114070000 +0000" stop="20260114075500 +0000" channel="PopTV(src01).si">
+<title lang="">Reka ljubezni</title>
+<desc lang="">Gašper in Petra se dogovorita, da bosta šla skupaj na plavanje. Sonja pokliče Erika, Mojca pa ureja stojnico za Rokove in Blaževe ptičke.nnVida izve, kaj se je zgodilo z Janezom. Bojan ugotovi, da je Sonja klicala Erika. Valentina se sooči z Andrejem glede predkupne pravice. Zala sprašuje, kje je Sonja. Rok pove Mariji, da bo zaprl delavnico.
+
+Reka ljubezni je nova, originalna slovenska serija, ki nas bo ponesla v idilični svet ob Krki.
+
+Osrednja lika serije sta Irena Rot in Rok Slak, prikupna fotografinja iz mesta in simpatičen mizar z Dolenjske. Njuna pot do sreče pa bo vse prej kot lahka. V na prvi pogled idilični vasi se začnejo dogajati sumljive stvari, nekdo namreč podtika požare in seje strah v kosti vaščanom in gasilcem. Videti je, da nekateri komaj čakajo, da stegnejo svoje kremplje okrog vratu romantičnih parov, a prav ogenj zaneti prve iskre ljubezni. Da ne prehitevamo, Irena in Rok se morata najprej spoznati.
+Nejc Levstik, Jaka Šuligoj
+Lara Komar
+Tadej Pišek
+Marijana Brecel</desc>
+</programme>
+<programme start="20260114075500 +0000" stop="20260114081000 +0000" channel="PopTV(src01).si">
+<title lang="">TV prodaja</title>
+<desc lang="">Program TV prodaje.</desc>
+</programme>
+<programme start="20260114081000 +0000" stop="20260114090500 +0000" channel="PopTV(src01).si">
+<title lang="">Botri</title>
+<desc lang="">Na občini Martin sliši pogovor Stanislava in Marka Šanka o nekem pomembnem zemljišču, ki ga je Marko posnel z dronom, zato takoj pokliče Stipana, da ga obvesti. Stipan prosi Martina, naj mu priskrbi posnetek.nnMilica medtem išče Terezo, ki se je zvečer napila in zaspala na kavču pri Akrapovih. Kiparka Tereza je navdušena nad razstavo in si želi spoznati "neznanega avtorja
+
+V tretji sezoni bodo Zaglave doživele popoln pretres z novimi dogodki in zanimivimi preobrati.
+
+Znane obraze iz serije čakajo strašni zapleti in blazne spletke. Pridružili se jim bodo novi liki, ki bodo seriji dali nove razsežnosti, novo dinamiko in novo zgodbo. Mesto Zaglave bo doživelo nepričakovan preobrat in ubralo popolnoma novo smer razvoja. Turistično. Če si lahko zamislite kaj takega.
+
+Ideja je zrasla na kanadskem zelniku bogatega izseljenca Stanislava Stanleyja Cukela, ki se je odločil vrniti in vnesti duh svetovljanstva in turizma v svoj rojstni kraj. Kmalu mu z zlomljenim srcem sledi še sin Tommy in zabava</desc>
+</programme>
+<programme start="20260114090500 +0000" stop="20260114092000 +0000" channel="PopTV(src01).si">
+<title lang="">Telestar</title>
+<desc lang="">Preproste in uporabne rešitve za vsakdan.</desc>
+</programme>
+<programme start="20260114092000 +0000" stop="20260114102000 +0000" channel="PopTV(src01).si">
+<title lang="">V dobrem in slabem</title>
+<desc lang="">Crni na pokopališču sreča žensko, zaradi katere pride do šokantnega spoznanja. Lorena obupuje zaradi Jakova in razmišlja o odhodu iz mesta, preden kdo opazi nosečnost. Petra se sprička z ljubosumnim Crnim in obišče Loreno, ki ji predlaga skupen pobeg. Miro pa se zaupa materi glede Unine nosečnosti.
+
+Hrvaška serija V dobrem in slabem spremlja Veljka Srića, človeka, ki ga imajo vsi radi.
+
+Veljko je uspešen podjetnik, ljubljeni mož in oče treh otrok. ki živi sanjsko življenje. Vendar se za to na videz popolno fasado skriva šokantna skrivnost - vzporedno življenje in druga družina v Sarajevu.
+
+Veljko skrivnost skriva že 25 let, a ko izve, da sta mu ostala le še dva meseca življenja, se odloči soočiti z resnico in združiti obe družini pod eno streho. Njegovo priznanje bo sprožilo plaz čustev, konfliktov in nepredvidljivih dogodkov.
+Darko Drinovac, Tomislav Rukavina, Ivan Šarić, Josip Žuvan
+Katarina Baban
+Ana Begić
+Ivona Dragas Bilogrevic
+Filip Budimir
+Aleksandar Cvjetković
+Filip Detelić
+Isk</desc>
+</programme>
+<programme start="20260114102000 +0000" stop="20260114105000 +0000" channel="PopTV(src01).si">
+<title lang="">Telestar</title>
+<desc lang="">Preproste in uporabne rešitve za vsakdan.</desc>
+</programme>
+<programme start="20260114105000 +0000" stop="20260114114500 +0000" channel="PopTV(src01).si">
+<title lang="">Gorski zdravnik</title>
+<desc lang="">Potem ko se je šivilja Jasmin Martinu potožila nad svojo mamo Silke in mu zaupala, da namerava zapustiti mesto, pride do nepričakovanega zapleta.nnKo si Silke na stroju poškoduje roko, privoli, da bo poiskala zdravniško pomoč. Medtem ko Martin išče vzrok njenih nenavadnih simptomov, se Silkino stanje hitro začne slabšati. Lilli Martinu predlaga novo rešitev za kmetijo.
+
+Serija predstavlja pustolovščine zdravnika in gorskega reševalca v idiličnih krajih avstrijskih Alp.
+
+Martin Gruber živi svoje življenje skupaj z družino in se ukvarja s tistim, kar ljubi, in vse to v idilični pokrajini med gorami. Vsak primer, ki ga rešuje, pa je tesno povezan z družino in prijatelji.
+Alexander Sascha Thiel
+Hans Sigl
+Heiko Ruprecht
+Monika Baumgartner
+Mark Keller
+Ronja Forcher
+Natalie O'Hara
+Rebecca Immanuel
+Wolfram Berger
+Frédéric Brossier
+Hilde Dalik
+Vanessa Velemir Diaz
+Annika Ernst
+Andrea Gerhard
+Mira Elisa Goeres
+Carmen Haidacher
+Barbara Lanz
+Jonas Laux
+Beat Marti
+Dominic Raacke
+Luis Immanuel Rost.</desc>
+</programme>
+<programme start="20260114114500 +0000" stop="20260114120000 +0000" channel="PopTV(src01).si">
+<title lang="">Vaše zdravje, naša skrb</title>
+<desc lang="">Oddaja, namenjena izključno vašemu zdravju, v kateri se bomo posvetili zdravstvenim tegobam današnjega časa in vam ponudili rešitve za boljši jutri.
+
+Hiter tempo življenja, slaba kvaliteta hrane, stres in genska zasnova – vse to vpliva na naše življenje bolj, kot bi si mislili. Po 40. letu starosti pa se začnejo počasi kazati posledice na našem telesu.
+
+Slabo počutje, težave s prebavo, težave s sklepi, bolezni srca in ožilja, težave s sečili (ledvice, prostata), slaba koncentracija in slabši spomin; vse to in še mnogo več težav, s katerimi se borimo. Mi vam lahko pomagamo in svetujemo, kako lahko izboljšate svoj jutri.
+
+Strokovnjaki iz slovenskega družinskega podjetja Biovis vam bomo v vsaki oddaji svetovali in vas informirali o različnih zdravstvenih težavah, s katerimi se spopadate, ter vam pomagali k boljšemu počutju.
+
+Strokovnjaki, ki se z različnimi zdravstvenimi problemi ukvarjamo že skoraj 20 let, točno vemo, katero prehransko dopolnilo vam bo pri vaši težavi prišlo prav.
+
+Pa ne</desc>
+</programme>
+<programme start="20260114120000 +0000" stop="20260114130500 +0000" channel="PopTV(src01).si">
+<title lang="">Skrito v raju</title>
+<desc lang="">Nina rine Laro vedno globlje v laži, Larino stisko pa poglobi še Mia s podrobnimi vprašanji. David se poskuša izvleči iz neprijetne situacije, da je telefon našel na dvorišču. Bojan obišče Sanjo in ji natvezi zgodbo, kako je Edi izkoristil Stanetovo krhko zdravje, da bi postal minister. Ko operativec vdre v Edijevo stanovanje, se Edi znajde na napačnem mestu ob napačnem času.
+
+Slovenska serija Skrito v raju nas popelje v istrski kamp Paradiso, kjer si pisana bera dopustnikov polni baterije od vrveža glavnega mesta.
+
+Glavna junaka sta Lara in Mark, ki se zaljubita na prvi pogled, a je pred njima še vrsta zapletov, ki so resen izziv za njuno zvezo.
+Rahela Jagrič Pirc
+Aleksandra Balmazović
+Aleš Valič
+Blaž Valič
+Gaber Trseglav
+Gaja Filač
+Matej Zemljič
+Mila Peršin
+Sabina Kogovšek
+Tanja Potočnik
+Vesna Pernarčič
+Zala Đurić Ribič
+Sandra Debelak
+Matino Antunović
+Mei Rabič
+Alen Šalinović
+Matic Valič
+Primož Vrhovec
+Melanie Mekicar
+Valter Dragan
+Vesna Ponorac.</desc>
+</programme>
+<programme start="20260114130500 +0000" stop="20260114131500 +0000" channel="PopTV(src01).si">
+<title lang="">Telestar</title>
+<desc lang="">Preproste in uporabne rešitve za vsakdan.</desc>
+</programme>
+<programme start="20260114131500 +0000" stop="20260114143000 +0000" channel="PopTV(src01).si">
+<title lang="">Zlati sanjski moški: Avstralija</title>
+<desc lang="">Pred zlatimi dekleti je tokrat poseben, pa tudi zabaven izziv. Bear in Sam jih odpeljeta v opero na baletni tečaj in ena od njih si ob Labodjem jezeru pribori čas z Bearom. Tokrat Janette dobi drugi samostojni zmenek in z Bearom se odpravita na križarko Royal Princess. Se bo Jenette končno uspela odpreti Bearu ali bo ostala zadržana v svojem svetu?
+
+61-letni vdovec Barry Bear Myrden je pripravljen na novo priložnost. Spozna 20 izjemnih žensk, ki v zrelih letih iščejo ljubezen.
+
+Upravljalka dvigal, radijska voditeljica, medicinska sestra - nabor je res pester!
+
+Na koktajl zabavi Sunny ukrade Beara, a jo prekine vsiljivka Kim. Bianca razkrije svoj strah pred zavrnitvijo, Jan pa prejme "vrtnico prvega vtisa".</desc>
+</programme>
+<programme start="20260114143000 +0000" stop="20260114153000 +0000" channel="PopTV(src01).si">
+<title lang="">Večerja za 5</title>
+<desc lang="">Večerja za 5 je priljubljena hrvaška kulinarična oddaja, ki prinaša različne recepte iz loncev domače kuhinje.
+
+Tekmovalci pogosto pripravijo zanimive specialitete, s katerimi razveselijo brbončice sotekmovalcev. Večerja je sestavljena iz predjedi, glavne jedi in sladice. Na koncu večera gostje komentirajo pogostitev in vzdušje ter podajo oceno gostitelju.</desc>
+</programme>
+<programme start="20260114153000 +0000" stop="20260114155500 +0000" channel="PopTV(src01).si">
+<title lang="">Po poti resnice</title>
+<desc lang="">Tugce na terenu išče brata gospe Duru. Ko stoji pred njegovim slikarskim studiem, sliši, da se v bloku nekaj dogaja. Trije moški hočejo posiliti prostitutko, zato Tugce sproži opozorilni strel in jih postroji ob steno. Tam je še četrti moški, ki jo z udarcem po glavi onesvesti. Tožilka Iclal Yekto obtoži uničevanja dokazov in korupcije ter ga prijavi odvetniški zbornici.
+
+Ilgaz je javni tožilec, ki je od svojega očeta prejel visoka etična načela glede poštenosti, časti in spoštovanja.
+
+Ceylin je uspešna odvetnica, ki je morala zgodaj odrasti, ker so njenega očeta obsodili po krivem. Prav zaradi tega se je v svojem poklicu naučila ubirati tudi stranske poti.
+
+Ko nekoč hoče od Ilgaza na nezakonit način pridobiti informacije, seveda dobi lekcijo o etiki in morali.
+
+Ko pa Ilgazovega brata Cinarja obtožijo umora, je Ilgaz prvič prisiljen kršiti pravila. Obrne se prav na Ceylin, da bi zastopala njegovega brata.
+Ali Bilgin
+Kaan Urgancioglu
+Pinar Deniz
+Zeyno Eracar
+Ugur Aslan
+Arda Aranat
+Pinar</desc>
+</programme>
+<programme start="20260114155500 +0000" stop="20260114165500 +0000" channel="PopTV(src01).si">
+<title lang="">24UR popoldne</title>
+<desc lang="">24UR popoldne je na programu vsak dan ob 16.55 in poteka v živo iz osrednjega studia POP TV.
+
+Oddaja na kratek, zgoščen in dinamičen način ponuja do takrat najaktualnejše novice dneva z različnih področij življenja: politike, gospodarstva, kronike, športa in vremensko napoved. Voditelji: Petra Kerčmar, Jani Muhič, Darja Zgonc in Edi Pucer.</desc>
+</programme>
+<programme start="20260114165500 +0000" stop="20260114175000 +0000" channel="PopTV(src01).si">
+<title lang="">V dobrem in slabem</title>
+<desc lang="">Doktor Bratoš z vrha projekta odstrani Veljka in Joca. Jakov si želi novo priložnost z Uno in jo skuša z manipulacijami zadržati ob sebi.nnIvana od Marine izve, da bo ena od njiju postala babica. Klaudija in Damjan preiskujeta Zdravkovo izginotje in na kraju nesreče najdeta Gabrijeline dokumente. Toma Niki prizna, da je pretepel policista.
+
+Hrvaška serija V dobrem in slabem spremlja Veljka Srića, človeka, ki ga imajo vsi radi.
+
+Veljko je uspešen podjetnik, ljubljeni mož in oče treh otrok. ki živi sanjsko življenje. Vendar se za to na videz popolno fasado skriva šokantna skrivnost - vzporedno življenje in druga družina v Sarajevu.
+
+Veljko skrivnost skriva že 25 let, a ko izve, da sta mu ostala le še dva meseca življenja, se odloči soočiti z resnico in združiti obe družini pod eno streho. Njegovo priznanje bo sprožilo plaz čustev, konfliktov in nepredvidljivih dogodkov.
+Filip Juričić
+Lena Medar
+Iva Mihalić
+Amar Bukvić
+Žarko Radić
+Momčilo Otašević
+Dora Dimić Rakar
+Toma Medvešek
+Ksenija Pa</desc>
+</programme>
+<programme start="20260114175000 +0000" stop="20260114175500 +0000" channel="PopTV(src01).si">
+<title lang="">24UR vreme</title>
+<desc lang="">24UR vreme je z vami vsak dan pred osrednjo informativno oddajo.
+
+Napoved je atraktivno podkrepljena z grafiko, ki ponuja nazoren pregled vremena po državi in z zanimivimi dogodki, povezanimi z vremenom. Prisluhnete lahko tudi nasvetom in vremenskim opozorilom, ki so postali stalnica pri očitnih klimatskih spremembah.</desc>
+</programme>
+<programme start="20260114175500 +0000" stop="20260114190000 +0000" channel="PopTV(src01).si">
+<title lang="">24UR</title>
+<desc lang="">24UR je na programu vsak dan ob 18:55.
+
+Z dinamičnim pristopom, voditeljskimi pari, novimi idejami in atraktivno podobo, ki omogoča vsebinsko bogato podajo novic, je dnevno najbolj gledana osrednja dnevnoinformativna oddaja v Sloveniji. Poleg rednih rubrik najaktualnejše novice dneva zajemajo tudi vremensko napoved, družabno kroniko in šport.
+
+Voditelji: Jani Muhič in Petra Kerčmar, Edi Pucer in Darja Zgonc.</desc>
+</programme>
+<programme start="20260114190000 +0000" stop="20260114200500 +0000" channel="PopTV(src01).si">
+<title lang="">Botri</title>
+<desc lang="">Milica in Marko sta končno mož in žena, a poročna zabava je na njiju pustila boleče posledice: Marko si je porezal roko, Milica pa zvila nogo.nnHrvojki in Mirjani postane jasno, da se med Bracom in Vedrano nekaj plete, zato se Hrvojka odloči za drastični ukrep. Matija odhaja v Basel, Milica pa se trudi prepričati Marka za cepljenje proti tetanusu.
+
+V novih epizodah bodo dramatični preobrati in zapleteni odnosi še naprej krojili življenja glavnih likov.
+
+Znane obraze iz serije čakajo strašni zapleti in blazne spletke. Pridružili se jim bodo novi liki, ki bodo seriji dali nove razsežnosti, novo dinamiko in novo zgodbo. Mesto Zaglave bo doživelo nepričakovan preobrat in ubralo popolnoma novo smer razvoja. Turistično. Če si lahko zamislite kaj takega.
+
+Ideja je zrasla na kanadskem zelniku bogatega izseljenca Stanislava Stanleyja Cukela, ki se je odločil vrniti in vnesti duh svetovljanstva in turizma v svoj rojstni kraj. Kmalu mu z zlomljenim srcem sledi še sin Tommy in zabava se lahko začn</desc>
+</programme>
+<programme start="20260114200500 +0000" stop="20260114213000 +0000" channel="PopTV(src01).si">
+<title lang="">Zlati sanjski moški: Avstralija</title>
+<desc lang="">Potovanje zapeljevanja se za Beara in njegova zlata dekleta, ki so mu še preostala, počasi izteka. Pred njimi je teden obiskov na domovih, ki prinese velika razkritja, težka vprašanja in ganljive trenutke. Ko Bear obišče svoje zadnje tri kandidatke, mora na koncu sprejeti najtežjo odločitev doslej in eno od njih poslati domov. Kateri dve bo vzel s seboj v finale?
+
+61-letni vdovec Barry Bear Myrden je pripravljen na novo priložnost. Spozna 20 izjemnih žensk, ki v zrelih letih iščejo ljubezen.
+
+Upravljalka dvigal, radijska voditeljica, medicinska sestra - nabor je res pester!
+
+Na koktajl zabavi Sunny ukrade Beara, a jo prekine vsiljivka Kim. Bianca razkrije svoj strah pred zavrnitvijo, Jan pa prejme "vrtnico prvega vtisa".</desc>
+</programme>
+<programme start="20260114213000 +0000" stop="20260114221000 +0000" channel="PopTV(src01).si">
+<title lang="">24UR zvečer</title>
+<desc lang="">Informativna oddaja 24UR zvečer je na programu vsak delovnik od ponedeljka do petka.
+
+Oddaja vsebinsko nadgrajuje osrednjih 24UR. V njej so na atraktiven način podane najpomembnejše novice in zgodbe dneva, obogatene s pregledom zadnjih, najnovejših večernih domačih in tujih dogodkov.
+
+24UR zvečer ponuja vsebinsko, vizualno bogat in sodoben vpogled v dogajanje dneva.</desc>
+</programme>
+<programme start="20260114221000 +0000" stop="20260114224000 +0000" channel="PopTV(src01).si">
+<title lang="">Prijatelji</title>
+<desc lang="">Zadnjo epizodo si bomo ogledali v dveh delih. Rachel, Monica, Phoebe, Joey, Chandler in Ross imajo pred seboj nova poglavja svojih življenjskih zgodb.nnToda spomini, kako so iz nerodnih mladostnikov skozi številne zabavne trenutke odrasli v odgovorne ljudi, so še vedno živi in jih bodo spremljali kljub temu, da se bodo njihove poti ločile.
+
+Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
+
+Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
+
+Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.
+Jennifer Aniston
+Courteney Cox
+Lisa Kudrow
+Matt LeBlanc
+Matthew Perry
+David Schwimmer
+Paul Rudd
+Anna Faris
+John Rubinstein
+James Michael Tyler
+Jim Rash
+Carole Gutier</desc>
+</programme>
+<programme start="20260114224000 +0000" stop="20260114231000 +0000" channel="PopTV(src01).si">
+<title lang="">Prijatelji</title>
+<desc lang="">Na sporedu bo še zadnji del Prijateljev. Rachel, Monica, Phoebe, Joey, Chandler in Ross preživljajo zadnji skupni dan. V čustveno nabitih trenutkih, ko je slovo vse bližje, jih čaka kar nekaj presenečenj.nnA čeprav se bodo njihove poti ločile, nihče ne bo mogel uničiti prijateljskih vezi, ki so se med njimi spletle skozi dolgo desetletje. V zadnjih trenutkih je Ross vse bolj prepričan, da je za vedno izgubil Rachel, Chandlerju in Monici pa se izpolni največja želja.
+
+Nanizanka pripoveduje o skupini šestih prijateljev, ki skupaj živijo v New Yorku.
+
+Rachel je sprva razvajena bogataševa hči, ki se razvije v uspešno samostojno žensko. Monica je po poklicu kuharica in je obesedena z redom in čistočo. Odštekana Phoebe se preživlja kot maserka, velikokrat pa jo vidimo tudi kot pevko.
+
+Ross je Monicin brat in po poklicu paleontolog. Chandler ima dolgočasno službo v multinacionalki, igralec Joey pa potrpežljivo čaka na vlogo, ki ga bo izstrelila med zvezde.
+Jennifer Aniston
+Courteney Cox
+Lisa </desc>
+</programme>
+<programme start="20260114231000 +0000" stop="20260115000000 +0000" channel="PopTV(src01).si">
+<title lang="">Mentalist: Iluzionist</title>
+<desc lang="">Patrick in Teresa preiskujeta umor Ryana DiStefana, ki ga je nekdo ustrelil ob njegovem avtu, ki stoji ob robu ceste. Sledi vodijo v kazino, kjer je Ryan delal in pred kratkim dobil odpoved, tam pa Jane sreča svojega starega prijatelja Jacka, ki zdaj v kazinoju dela kot iluzionist.nnIzkaže se, da je Ryan prijateljeval z natakarico Holly Danvers, ki pa zdaj velja za pogrešano, medtem ko njeno sostanovalko najdejo mrtvo. Jane hitro odkrije, da so Holly ugrabili in da je v zadevo vpleten tudi njegov prijatelj Jack.
+
+Patrick Jane je neodvisni svetovalec pri kalifornijski policiji, ki s pomočjo svojega čuta za opazovanje in sklepanje reši še tako zapletene zločine.
+
+Simon Baker (nominiranec za zlati globus), je Patrick Jane, neodvisni svetovalec Kalifornijskega preiskovalnega urada (CBI), ki ima osupljivo zgodovino reševanja resnih zločinov s pomočjo ostrega čuta za opazovanje.
+
+Med sodelavci je Jane razvpit, ker ne upošteva protokola in je bil nekoč celo slaven kot jasnoviden medij, zdaj p</desc>
+</programme>
+<programme start="20260115000000 +0000" stop="20260115005000 +0000" channel="PopTV(src01).si">
+<title lang="">Mentalist: Nekaj gnilega v Redmundu</title>
+<desc lang="">Na igrišču za bejzbol najdejo mrtvega srednješolskega učitelja Jacka McTierneyja. Ko si Jane ogleda posnetke varnostnih kamer, ugotovi, da je eden izmed dijakov imel razmerje s svojo dramsko učiteljico, gdč. Austin.nnJane sklepa, da je učitelja umorila prav Austinova, potem ko je ta izvedel za njeno nezakonito razmerje, da bi dokazal njeno krivdo, pa se Jane pridruži srednješolski dramski uprizoritvi Hamleta.
+
+Patrick Jane je neodvisni svetovalec pri kalifornijski policiji, ki s pomočjo svojega čuta za opazovanje in sklepanje reši še tako zapletene zločine.
+
+Simon Baker (nominiranec za zlati globus), je Patrick Jane, neodvisni svetovalec Kalifornijskega preiskovalnega urada (CBI), ki ima osupljivo zgodovino reševanja resnih zločinov s pomočjo ostrega čuta za opazovanje.
+
+Med sodelavci je Jane razvpit, ker ne upošteva protokola in je bil nekoč celo slaven kot jasnoviden medij, zdaj pa priznava, da je hlinil svoje sposobnosti. Drugi agenti zelo cenijo Janovo pomoč pri reševanju težkih in</desc>
 </programme>
 <programme start="20260111000000 +0000" stop="20260111003000 +0000" channel="PursuitChannel.us">
 <title lang="en">Saltwater Underground with Nick Honachefsky</title>
